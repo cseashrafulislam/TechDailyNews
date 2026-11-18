@@ -36,13 +36,17 @@ jobs:
         run: python -m unittest discover -s tests -v
       - name: Fetch technology headlines from public RSS feeds
         run: python scripts/update_news.py
+      - name: Generate SEO landing pages and sitemap
+        run: python scripts/generate_seo.py
+      - name: Check SEO pages
+        run: python -c "from pathlib import Path; assert Path('sitemap.xml').exists() and Path('category/ai/index.html').exists() and Path('feed.xml').exists()"
       - name: Validate JSON
         run: python -m json.tool data/news.json > /dev/null
       - name: Commit the updated news edition
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json
+          git add data/news.json category/ sitemap.xml feed.xml
           if git diff --staged --quiet; then
             echo "No news data changes"
           else
