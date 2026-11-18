@@ -1,10 +1,78 @@
 {
-  "generatedAt": "2026-11-18T09:34:20Z",
+  "generatedAt": "2026-11-18T10:32:24Z",
   "status": "live",
   "successfulFeeds": 19,
   "totalFeeds": 21,
-  "articleCount": 294,
+  "articleCount": 298,
   "articles": [
+    {
+      "id": "f313a8d7b97b5282",
+      "title": "Apple HomeView Review (2026): Should’ve Been Better",
+      "summary": "Apple’s HomeView marks a very late arrival to the smart display world, and one that didn’t blow me away.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-18T10:18:00Z",
+      "url": "https://www.wired.com/review/apple-homeview-review",
+      "image": "https://media.wired.com/photos/6afcde919e5594b1abe45b8b/master/pass/Review--Apple-HomeView.jpg"
+    },
+    {
+      "id": "8d0156fba2565cd6",
+      "title": "Best Smart Bed of 2026: Bryte and Tempur-Pedic",
+      "summary": "If you’re going to spend a third of your life in bed, it might as well be a smart one. Here are our favorites.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-18T10:07:00Z",
+      "url": "https://www.wired.com/gallery/best-smart-bed",
+      "image": "https://media.wired.com/photos/6afcea142a0f0cf673d2ff82/master/pass/The-Best-Smart-Bed-Doesn%E2%80%99t-Sleep-on-the-Job.jpg"
+    },
+    {
+      "id": "75c03d6c92f652b2",
+      "title": "Codeberg.org Not Reachable",
+      "summary": "Article URL: https://social.anoxinon.de/@codebergstatus/117636437840688845 Comments URL: https://news.ycombinator.com/item?id=50544261 Points: 58 # Comments: 16",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-18T10:02:17Z",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845"
+    },
+    {
+      "id": "f68ca797176b98aa",
+      "title": "House Democrats Are Officially Coming for Trump’s Orbit",
+      "summary": "The incoming head of the House Oversight Committee sent record preservation requests to Donald Trump Jr., Eric Trump, JD Vance, Stephen Miller, and other administration officials.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-18T10:00:00Z",
+      "url": "https://www.wired.com/story/house-democrats-are-officially-coming-for-trumps-orbit",
+      "image": "https://media.wired.com/photos/6afcc37a4d856565ffa1dc3d/master/pass/House-Democrats-Officially-Coming-for-Trump-Family-Politics-2270265640.jpg"
+    },
+    {
+      "id": "15614df672648149",
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "source": "Wired",
+      "category": "Startups",
+      "publishedAt": "2026-11-18T10:00:00Z",
+      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living",
+      "image": "https://media.wired.com/photos/6afcd191c00d87e3fd8ba0d4/master/pass/GettyImages-2303907996.jpg"
+    },
+    {
+      "id": "f91d3ac4ab2643ce",
+      "title": "Palmer Luckey says his SLAB seastead is 'way cooler' than a floating data center",
+      "summary": "Palmer Luckey is touting a new 'SLAB' seastead that would act as a lawless city state.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-18T09:41:44Z",
+      "url": "https://www.engadget.com/2320221/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center",
+      "image": "https://www.engadget.com/img/gallery/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/l-intro-1794994368.jpg"
+    },
+    {
+      "id": "f054d70d5a7a452e",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "summary": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 8 # Comments: 1",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-18T09:29:32Z",
+      "url": "https://energy-based-reasoners.github.io/"
+    },
     {
       "id": "a4d36a9712fc7f0c",
       "title": "Nvidia-backed Genesis AI raises $500M Series A at $3.5B valuation to build general-purpose robots",
@@ -36,9 +104,29 @@
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Prima-implant-.jpg"
     },
     {
+      "id": "eeab189c34751318",
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T08:24:31Z",
+      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg"
+    },
+    {
+      "id": "e739030404770d0d",
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T08:24:23Z",
+      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmrsz2fViEN49Su385gmuAShCPcxobsMF-FbR9t1sXw6aEbOMzFUT5YktViqASQUXP3bLT13HYMAE1wBQTN0ZRDGXWFJUy_EWOKhOjR7jSz-bhEK8jas_v9wWUYxevCAZt4PzOCaGNLLC96kDwFjtKBuXVW2O3K2BK9AO5nyZutFf_uCaZtvyaQ2qf8gK/s1600/cisa-java.jpg"
+    },
+    {
       "id": "7fc914ca3dc5a16b",
       "title": "Talos Linux",
-      "summary": "Article URL: https://www.siderolabs.com/talos-linux Comments URL: https://news.ycombinator.com/item?id=50543343 Points: 16 # Comments: 10",
+      "summary": "Article URL: https://www.siderolabs.com/talos-linux Comments URL: https://news.ycombinator.com/item?id=50543343 Points: 38 # Comments: 21",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T08:17:44Z",
@@ -57,7 +145,7 @@
     {
       "id": "0b971cef4cf946e8",
       "title": "Australia's full national topographic library at your fingertips",
-      "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips Comments URL: https://news.ycombinator.com/item?id=50542863 Points: 12 # Comments: 8",
+      "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips Comments URL: https://news.ycombinator.com/item?id=50542863 Points: 20 # Comments: 10",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T07:10:46Z",
@@ -66,7 +154,7 @@
     {
       "id": "6663bdbb07465939",
       "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 286 # Comments: 246",
+      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 350 # Comments: 318",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T06:47:26Z",
@@ -195,7 +283,7 @@
     {
       "id": "779450fd38a2c97b",
       "title": "Why Fibonacci?",
-      "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci Comments URL: https://news.ycombinator.com/item?id=50542264 Points: 35 # Comments: 2",
+      "summary": "Article URL: https://www.evilgeniuslabs.org/why-fibonacci Comments URL: https://news.ycombinator.com/item?id=50542264 Points: 38 # Comments: 5",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T05:35:02Z",
@@ -243,7 +331,7 @@
     {
       "id": "10d331c37469d74a",
       "title": "Why is Gemini 4 Carbon taking so long?",
-      "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 82 # Comments: 45",
+      "summary": "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 101 # Comments: 49",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T04:14:04Z",
@@ -252,7 +340,7 @@
     {
       "id": "63454286babe236e",
       "title": "Claude was trained on protein sequences at scale",
-      "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 44 # Comments: 24",
+      "summary": "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 59 # Comments: 25",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T03:47:43Z",
@@ -289,7 +377,7 @@
     {
       "id": "3c25963477ac1c88",
       "title": "Cerebras Disaggregated Inference",
-      "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 75 # Comments: 18",
+      "summary": "Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 81 # Comments: 19",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T00:56:23Z",
@@ -298,7 +386,7 @@
     {
       "id": "4549f158f0527f61",
       "title": "ID.me terms required for IRS sign-in",
-      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 350 # Comments: 152",
+      "summary": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 364 # Comments: 163",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T00:51:45Z",
@@ -337,7 +425,7 @@
     {
       "id": "d00fc92468416949",
       "title": "Google's AI answers reducing search traffic by 40%",
-      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 363 # Comments: 280",
+      "summary": "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 400 # Comments: 302",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-18T00:17:58Z",
@@ -411,8 +499,8 @@
     },
     {
       "id": "3610d4233ee23b80",
-      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-      "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 188 # Comments: 64",
+      "title": "Archive Team is archiving the Apple Support Community",
+      "summary": "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 197 # Comments: 70",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T23:32:58Z",
@@ -431,7 +519,7 @@
     {
       "id": "92e08c29ab943006",
       "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-      "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 315 # Comments: 68",
+      "summary": "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 330 # Comments: 72",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T23:18:49Z",
@@ -574,7 +662,7 @@
     {
       "id": "23f542bdd380a7cb",
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 572 # Comments: 183",
+      "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 618 # Comments: 206",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T22:13:34Z",
@@ -647,7 +735,7 @@
     {
       "id": "4d189ef1f84f674b",
       "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 172 # Comments: 238",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 187 # Comments: 262",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T21:16:12Z",
@@ -656,7 +744,7 @@
     {
       "id": "6ece0df5b64b652f",
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 919 # Comments: 234",
+      "summary": "Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 953 # Comments: 242",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T21:11:28Z",
@@ -665,7 +753,7 @@
     {
       "id": "85e628cc5ceac406",
       "title": "Tencent Hy4 Flash",
-      "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 122 # Comments: 21",
+      "summary": "Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 128 # Comments: 23",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T21:06:08Z",
@@ -721,7 +809,7 @@
     {
       "id": "3a4d3301c790ce8e",
       "title": "jQuery 4.1.0",
-      "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 318 # Comments: 164",
+      "summary": "Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 325 # Comments: 164",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T19:50:40Z",
@@ -818,7 +906,7 @@
     {
       "id": "8e5c0d9d0faa3272",
       "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-      "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 329 # Comments: 100",
+      "summary": "Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycombinator.com/item?id=50536813 Points: 336 # Comments: 108",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-17T19:25:27Z",
@@ -832,6 +920,15 @@
       "category": "Tech",
       "publishedAt": "2026-11-17T19:02:20Z",
       "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases"
+    },
+    {
+      "id": "54568103aadf9fab",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5…",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-17T19:01:43Z",
+      "url": "https://news.ycombinator.com/item?id=50536468"
     },
     {
       "id": "097e7d04dd9e2cf0",
@@ -1450,46 +1547,6 @@
       "publishedAt": "2026-11-17T06:29:27Z",
       "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjErwt0frcFKiESffCoP1OtYh0j23goqdMN0nz-RT02biCz30WlLG4PD5gTyGgbumOWB3Zh1PJfENQoRtOwQVm3Nbg8VsiRhvNk662qVFNGqO8DQ4bFrroSzWgsvfCYGLWFzD1A-f6fcTu_E_dm4o1iUJz96scWy7skw49vzD9hfIfVEILTVPKsvbsEpGca/s1600/screenconnect-flaws.jpg"
-    },
-    {
-      "id": "7c9beed90ca48cf3",
-      "title": "Chewy Promo Codes: 25% Off November 2026",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more November 2026 discounts.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T06:00:00Z",
-      "url": "https://www.wired.com/story/chewy-promo-code",
-      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg"
-    },
-    {
-      "id": "f65f9233d10e1fad",
-      "title": "Uber Eats Promo Codes: $15 Off│November 2026",
-      "summary": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T06:00:00Z",
-      "url": "https://www.wired.com/story/uber-eats-promo-code",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg"
-    },
-    {
-      "id": "54a4250e31be61ae",
-      "title": "50% Off DoorDash Promo Code | November 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T06:00:00Z",
-      "url": "https://www.wired.com/story/doordash-promo-code",
-      "image": "https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg"
-    },
-    {
-      "id": "d148d7fe88d4ecbc",
-      "title": "Booking.com Promo Codes: 20% Off | November 2026",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T06:00:00Z",
-      "url": "https://www.wired.com/story/booking-com-promo-code",
-      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg"
     },
     {
       "id": "7d8a94de5f64d8dd",
@@ -2192,26 +2249,6 @@
       "publishedAt": "2026-11-12T18:07:15Z",
       "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg"
-    },
-    {
-      "id": "897c1c6b0f49846c",
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-12T18:02:51Z",
-      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHFMwpmKB3Mn6eMpEHMAX_8gqnyi4xwTCuYj7NTrCcTMWAsSZtaUsHYUa1kvi3jQf92A5pR_Qz7kzgTarHmo6q6YsXVeVSJEkkx0JkioCXa6GbKJzG9eZz0dkotf9QEpdcRMy94hoYhGfIoEk7pPOFUSgTY5ciU7_wkSOJc7kgXcS1GS3qGC-Ql7kMrks/s1600/thd.jpg"
-    },
-    {
-      "id": "c892fb218fc51be1",
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-12T17:50:27Z",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9BW-gpid0fJ4GJSsWoqjYl5qF_EdYchTcxeNjFfMV-MCcvSRTs-rAmiHKNX3M2dr66bJcfUelNR5CR9g-JLKPkMrROsqrM6hf563hIMklj5v08uYDtEp7pdYPcs5Y5TEGxgTWTHDG_Q-L8Tbq12yo57xp0GOlYk8g05nU3peuA_kedIXtggnakiiCGM/s1600/signdrop.jpg"
     },
     {
       "id": "039c74dda2a3b52c",
