@@ -1,10 +1,990 @@
 {
-  "generatedAt": "2026-11-19T07:28:21Z",
+  "generatedAt": "2026-11-19T20:38:59Z",
   "status": "live",
   "successfulFeeds": 19,
   "totalFeeds": 21,
   "articleCount": 360,
   "articles": [
+    {
+      "id": "d2ebac9f4ccda54e",
+      "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+      "summary": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T20:34:17Z",
+      "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too",
+      "image": "https://media.wired.com/photos/6afe3efb681d658b6618bff6/master/pass/Model-Behavior-Jensen-Taiwanes-Restaurants-Business.jpg"
+    },
+    {
+      "id": "e30fbe0f278453b5",
+      "title": "Man charged with spying on Silicon Valley tech and defense company for Russia",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T20:29:46Z",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg"
+    },
+    {
+      "id": "b331a244d62b8fc8",
+      "title": "Meta’s Muse Charm might cost $300",
+      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T20:22:17Z",
+      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price"
+    },
+    {
+      "id": "eaecd34f2a6c3727",
+      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T20:19:28Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg"
+    },
+    {
+      "id": "6844576f831e5af2",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T20:18:49Z",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
+    },
+    {
+      "id": "c363e4ee1aa6f6ac",
+      "title": "Google is putting AI chats right on the homepage",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T20:05:06Z",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+    },
+    {
+      "id": "3a1037b157f7960e",
+      "title": "Employees call out Google over AI Search in schools",
+      "summary": "The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T20:00:12Z",
+      "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools",
+      "image": "https://www.engadget.com/img/gallery/employees-call-out-google-over-ai-search-in-schools/l-intro-1795118178.jpg"
+    },
+    {
+      "id": "09acf103cb712328",
+      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T19:52:54Z",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/NG2-Launch-Rollout-3-1152x648.jpg"
+    },
+    {
+      "id": "8ea3ede346e8eecc",
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T19:40:28Z",
+      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming"
+    },
+    {
+      "id": "796997a73e256936",
+      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T19:35:52Z",
+      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale"
+    },
+    {
+      "id": "b6415f043a996241",
+      "title": "You can now buy a Steam Machine without getting on a waitlist",
+      "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: you can now purchase a 512GB Steam Machine without getting…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T19:33:22Z",
+      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply"
+    },
+    {
+      "id": "354601ee6ed322e0",
+      "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+      "summary": "The platform will air \"every qualifying session and race throughout the season.\"",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T19:16:42Z",
+      "url": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy",
+      "image": "https://www.engadget.com/img/gallery/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/l-intro-1795115497.jpg"
+    },
+    {
+      "id": "9e65fe05c5427068",
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T19:12:30Z",
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads"
+    },
+    {
+      "id": "694eda7767094817",
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+      "source": "TechCrunch",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T19:10:45Z",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity"
+    },
+    {
+      "id": "cec082a12f1eecc1",
+      "title": "Ubisoft lays off 166 more workers, opens a generative AI studio",
+      "summary": "Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T19:06:04Z",
+      "url": "https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio",
+      "image": "https://www.engadget.com/img/gallery/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/l-intro-1795114771.jpg"
+    },
+    {
+      "id": "cc7a5715391457a2",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T18:47:58Z",
+      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
+    },
+    {
+      "id": "c51551cd2d791f85",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 22 # Comments: 23",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T18:47:16Z",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
+    },
+    {
+      "id": "0a0b303c5374aa54",
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "source": "Ars Technica",
+      "category": "AI",
+      "publishedAt": "2026-11-19T18:44:39Z",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-465648135-1024x648.jpg"
+    },
+    {
+      "id": "4fc7ccedbfa9a7c3",
+      "title": "Anthropic is now a public company worth more than $1 trillion",
+      "summary": "The company was briefly valued at more than $2 trillion.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T18:41:26Z",
+      "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion",
+      "image": "https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg"
+    },
+    {
+      "id": "c50a064b65c55ff5",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 48 # Comments: 25",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T18:35:17Z",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine"
+    },
+    {
+      "id": "a0bdb17605c14738",
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "summary": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T18:33:08Z",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale"
+    },
+    {
+      "id": "534016fa5cae6870",
+      "title": "Gemini on Mac can now use your computer",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T18:21:13Z",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+    },
+    {
+      "id": "f8b58fc0b24ea7e1",
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new crop of…",
+      "source": "The Verge",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T18:19:03Z",
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak"
+    },
+    {
+      "id": "4a932def60bb2656",
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T18:15:00Z",
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook"
+    },
+    {
+      "id": "62649bf472ca2edc",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T18:09:11Z",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
+    },
+    {
+      "id": "935e253120cbe8d4",
+      "title": "How to game share GTA 6 and split the cost with a friend",
+      "summary": "You can do this on Xbox Series X and PlayStation 5.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T18:00:48Z",
+      "url": "https://www.engadget.com/2322043/how-to-game-share-gta-6-split-cost",
+      "image": "https://www.engadget.com/img/gallery/how-to-game-share-gta-6-and-split-the-cost-with-a-friend/l-intro-1795110904.jpg"
+    },
+    {
+      "id": "f88414c8cfe7b454",
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "summary": "Google says almost all developers have already gotten on board with verification.",
+      "source": "Ars Technica",
+      "category": "Software",
+      "publishedAt": "2026-11-19T18:00:33Z",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
+    },
+    {
+      "id": "224fec140d4ea40d",
+      "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
+      "summary": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T17:38:44Z",
+      "url": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit",
+      "image": "https://www.engadget.com/img/gallery/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/l-intro-1795109453.jpg"
+    },
+    {
+      "id": "47396adf5e31273b",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T17:38:40Z",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says"
+    },
+    {
+      "id": "5fe21d2b4ecab0b0",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 226 # Comments: 80",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T17:30:44Z",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+    },
+    {
+      "id": "2c1a5d7a182a265d",
+      "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
+      "summary": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T17:30:00Z",
+      "url": "https://www.engadget.com/2321939/apple-homepod-mini-2-review",
+      "image": "https://www.engadget.com/img/gallery/apple-homepod-mini-2-review-a-necessary-but-underwhelming-update/l-intro-1795105229.jpg"
+    },
+    {
+      "id": "087d32d80b9bc1a8",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "summary": "Article URL: https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients/ Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 153 # Comments: 15",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T17:25:33Z",
+      "url": "https://scienceinhand.com/pancreatic-cancer-halted-by-virus-injection-in-three-patients"
+    },
+    {
+      "id": "32cd972274643a6f",
+      "title": "You won't find this fan favorite feature in GTA 6",
+      "summary": "Replaying missions is possible, but not easy.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T17:23:58Z",
+      "url": "https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6",
+      "image": "https://www.engadget.com/img/gallery/you-wont-find-this-fan-favorite-feature-in-gta-6/l-intro-1795108962.jpg"
+    },
+    {
+      "id": "8eb1e05e45fbbae7",
+      "title": "How to switch camera views in GTA 6",
+      "summary": "The game only offers a first-person perspective in very limited circumstances.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T17:18:44Z",
+      "url": "https://www.engadget.com/2321960/gta-6-how-to-switch-camera-views",
+      "image": "https://www.engadget.com/img/gallery/how-to-switch-camera-views-in-gta-6/l-intro-1795108533.jpg"
+    },
+    {
+      "id": "378bd4cf6cf2c115",
+      "title": "How to adjust and turn off motion blur in GTA 6 if it makes you feel sick",
+      "summary": "GTA 6's motion blur effect is thankfully easy to adjust.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T17:09:54Z",
+      "url": "https://www.engadget.com/2321944/gta-6-how-to-adjust-turn-off-blur-motion",
+      "image": "https://www.engadget.com/img/gallery/how-to-adjust-and-turn-off-motion-blur-in-gta-6-if-it-makes-you-feel-sick/l-intro-1795087374.jpg"
+    },
+    {
+      "id": "fa5917e879d29a8b",
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/ Comments URL: https://news.ycombinator.com/item?id=50562754 Points: 519 # Comments: 807",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T17:02:40Z",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19"
+    },
+    {
+      "id": "ffc256a3caa454f9",
+      "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
+      "summary": "He's not even sure what that means, guys.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T17:01:15Z",
+      "url": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga",
+      "image": "https://www.engadget.com/img/gallery/here-are-some-photos-of-elon-musk-who-is-not-maga/l-intro-1795108110.jpg"
+    },
+    {
+      "id": "a01e91531918f8e7",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "source": "TechCrunch",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories"
+    },
+    {
+      "id": "a9933de7f7b7b312",
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "source": "Wired",
+      "category": "AI",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+      "image": "https://media.wired.com/photos/6aff303dd91b5ce0f67d7c99/master/pass/security_chrome_mirror_browser_ai_agent.jpg"
+    },
+    {
+      "id": "ea8cebf5d32bea67",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T16:59:56Z",
+      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
+    },
+    {
+      "id": "56f5de5b11aedbd4",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "source": "TechCrunch",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T16:59:23Z",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price"
+    },
+    {
+      "id": "3615ff41d240122d",
+      "title": "Change these Xbox Series X/S settings before playing GTA 6",
+      "summary": "For the best possible Grand Theft Auto VI experience, change these settings on your Xbox Series X/S to squeeze out every bit of performance.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T16:55:20Z",
+      "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6",
+      "image": "https://www.engadget.com/img/gallery/change-these-xbox-series-xs-settings-before-gta-6-comes-out/l-intro-1795019724.jpg"
+    },
+    {
+      "id": "3e35d01c88b452b0",
+      "title": "Chrome AI features wasting much bandwidth",
+      "summary": "Article URL: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/ Comments URL: https://news.ycombinator.com/item?id=50562636 Points: 91 # Comments: 31",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T16:54:25Z",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth"
+    },
+    {
+      "id": "294f494c3d9f12c9",
+      "title": "Anthropic starts trading on Wall Street",
+      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after…",
+      "source": "The Verge AI",
+      "category": "AI",
+      "publishedAt": "2026-11-19T16:52:01Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
+    },
+    {
+      "id": "53c9cfc459730775",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "summary": "Hey HN, I'm Daniel, founder of Onlook ( https://github.com/onlook-dev/onlook and onlook.com). Onlook is a desktop app that puts a canvas on top of your real codebase, letting you design directly in code with the agent you already use. Over 25,000 designers…",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T16:34:04Z",
+      "url": "https://github.com/onlook-dev/onlook"
+    },
+    {
+      "id": "5661d98e657c1ecf",
+      "title": "Fuck Your AI Safeguards",
+      "summary": "Article URL: https://ounapuu.ee/posts/2026/11/19/unsafeguards/ Comments URL: https://news.ycombinator.com/item?id=50562262 Points: 272 # Comments: 94",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T16:30:18Z",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards"
+    },
+    {
+      "id": "5588a655ef3b7a39",
+      "title": "Top Amazon advertising agencies: 12 partners compared on sponsored ads, DSP and AMC",
+      "summary": "Olifant Digital ranks first among the 12 Amazon advertising agencies compared here. The full-service Amazon agency provides Amazon…",
+      "source": "Tech Funding News",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T16:30:00Z",
+      "url": "https://techfundingnews.com/top-amazon-advertising-agencies-12-partners-compared-on-sponsored-ads-dsp-and-amc",
+      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Amazon-ads-.jpg"
+    },
+    {
+      "id": "047ec83c094a0f40",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "summary": "Article URL: https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/ Comments URL: https://news.ycombinator.com/item?id=50562113 Points: 293 # Comments: 140",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T16:21:03Z",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order"
+    },
+    {
+      "id": "74b46c8b5e6ae130",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "source": "TechCrunch",
+      "category": "AI",
+      "publishedAt": "2026-11-19T16:19:41Z",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development"
+    },
+    {
+      "id": "4e521c21205fa9b1",
+      "title": "The best things in open source are built together",
+      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "category": "Software",
+      "publishedAt": "2026-11-19T16:00:00Z",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together"
+    },
+    {
+      "id": "6405678c381720ec",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "summary": "Article URL: https://cornholenews.news Comments URL: https://news.ycombinator.com/item?id=50561515 Points: 126 # Comments: 60",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T15:38:32Z",
+      "url": "https://cornholenews.news/"
+    },
+    {
+      "id": "e39600edda0e5acc",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 168 # Comments: 155",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T15:38:12Z",
+      "url": "https://thedataexchange.media/pete-warden-moonshine"
+    },
+    {
+      "id": "8a61b50729de1fce",
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T15:32:20Z",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order"
+    },
+    {
+      "id": "dcfa8134ceac9ad3",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T15:18:07Z",
+      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg"
+    },
+    {
+      "id": "9f19183b29edeb23",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS…",
+      "source": "The Verge AI",
+      "category": "AI",
+      "publishedAt": "2026-11-19T15:16:45Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+    },
+    {
+      "id": "fa634ccd768e88de",
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "summary": "Article URL: https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/ Comments URL: https://news.ycombinator.com/item?id=50561170 Points: 50 # Comments: 22",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T15:13:23Z",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth"
+    },
+    {
+      "id": "63edce0941e0edb0",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T15:11:06Z",
+      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
+    },
+    {
+      "id": "4015139f169610b6",
+      "title": "Cooling buildings is overtaking heating them as an energy need, IEA says",
+      "summary": "Article URL: https://maccus.fr/en/cooling-overtaking-heating/ Comments URL: https://news.ycombinator.com/item?id=50560955 Points: 123 # Comments: 87",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T14:57:14Z",
+      "url": "https://maccus.fr/en/cooling-overtaking-heating"
+    },
+    {
+      "id": "559b89dfb99f77d3",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "source": "TechCrunch",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T14:54:39Z",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test"
+    },
+    {
+      "id": "f4f42ab06cc60614",
+      "title": "Everything you need to survive and rebuild society",
+      "summary": "Article URL: https://lastbook.org/ Comments URL: https://news.ycombinator.com/item?id=50560822 Points: 280 # Comments: 153",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T14:47:18Z",
+      "url": "https://lastbook.org/"
+    },
+    {
+      "id": "88c544823e0d1532",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T14:33:06Z",
+      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg"
+    },
+    {
+      "id": "fb82e56d89bf6f31",
+      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
+      "summary": "Pebble's AI ring has a single purpose, is cheap and low-tech - but it's very useful.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T14:30:00Z",
+      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review",
+      "image": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/l-intro-1795097160.jpg"
+    },
+    {
+      "id": "60ff07a70f51c369",
+      "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+      "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial…",
+      "source": "The Verge AI",
+      "category": "AI",
+      "publishedAt": "2026-11-19T14:25:37Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure"
+    },
+    {
+      "id": "f32b297db0281e65",
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T14:04:38Z",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg"
+    },
+    {
+      "id": "a94505ef629f2b17",
+      "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+      "summary": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "url": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains"
+    },
+    {
+      "id": "db895de00b77372a",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere"
+    },
+    {
+      "id": "f92470a8456375e2",
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+      "source": "Cloudflare Blog",
+      "category": "Software",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png"
+    },
+    {
+      "id": "05db192faeb4668a",
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "source": "Ars Technica",
+      "category": "Science",
+      "publishedAt": "2026-11-19T13:40:02Z",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg"
+    },
+    {
+      "id": "a6e103b2279c067e",
+      "title": "Rockstar says that GTA 6's map has room to expand for future storylines",
+      "summary": "Rockstar's VP of design Stephen Donkin told 'Kotaku' that GTA VI's map 'has been built for the long term.'",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T13:30:02Z",
+      "url": "https://www.engadget.com/2321545/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines",
+      "image": "https://www.engadget.com/img/gallery/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/l-intro-1795094910.jpg"
+    },
+    {
+      "id": "ccb75899a4a4b3e7",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "summary": "Article URL: https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/ Comments URL: https://news.ycombinator.com/item?id=50559719 Points: 167 # Comments: 41",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T13:18:11Z",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app"
+    },
+    {
+      "id": "6518ce7829a96e8c",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept…",
+      "source": "MIT Technology Review",
+      "category": "Science",
+      "publishedAt": "2026-11-19T13:10:00Z",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype"
+    },
+    {
+      "id": "b5b2890766e5da55",
+      "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+      "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI…",
+      "source": "The Verge AI",
+      "category": "AI",
+      "publishedAt": "2026-11-19T13:00:00Z",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
+    },
+    {
+      "id": "ab2078bef0da5b4c",
+      "title": "Dublin’s Disseqt AI raises $8M from Gresham House to test and police enterprise AI agents",
+      "summary": "As enterprises move AI agents from experiments into live operations, proving that they behave safely and within company…",
+      "source": "Tech Funding News",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T12:45:26Z",
+      "url": "https://techfundingnews.com/dublins-disseqt-ai-raises-8m-from-gresham-house-to-test-and-police-enterprise-ai-agents",
+      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Dessiqt-founders.jpg"
+    },
+    {
+      "id": "c263b280fabbf488",
+      "title": "Canva adds an AI ‘off’ button",
+      "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with…",
+      "source": "The Verge AI",
+      "category": "AI",
+      "publishedAt": "2026-11-19T12:30:00Z",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
+    },
+    {
+      "id": "1674d78d1c06c337",
+      "title": "Canva will let users switch off most generative AI",
+      "summary": "Canva is rolling out new settings to purge most generative AI from its app.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T12:30:00Z",
+      "url": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai",
+      "image": "https://www.engadget.com/img/gallery/canva-will-let-users-switch-off-most-generative-ai/l-intro-1795044723.jpg"
+    },
+    {
+      "id": "728333bb1c561eba",
+      "title": "Unblockable communication with gravity",
+      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aee0802 Comments URL: https://news.ycombinator.com/item?id=50559179 Points: 96 # Comments: 33",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T12:22:00Z",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802"
+    },
+    {
+      "id": "27dbe54374981741",
+      "title": "21 Best Home Entertainment Gifts (2026): TVs, Lights, and More",
+      "summary": "Because staying home can actually mean having the time of your life, whether alone or with friends.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "url": "https://www.wired.com/story/best-home-entertainment-gifts-2026",
+      "image": "https://media.wired.com/photos/6afe018a1581bbef3a3945d5/master/pass/The-21-Best-Home-Entertainment-Gifts.jpg"
+    },
+    {
+      "id": "d0a201bc9c88e715",
+      "title": "Voyager Is a Light-Day Away. Here’s How Far That Really Is",
+      "summary": "The distance and forces shaping the venerable craft’s trajectory are mind-boggling reminders of the vastness of space.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "url": "https://www.wired.com/story/voyager-light-day-away-how-far-that-really-is",
+      "image": "https://media.wired.com/photos/6afd6967d7198704b1746983/master/pass/1LD%20Social%20Graphics_Shine%20Bright%20-%20Web%20Hero%20copy%202.jpg"
+    },
+    {
+      "id": "c0d4b4c5304f86a5",
+      "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "summary": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger toward data centers could impact its growth.",
+      "source": "Wired",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself",
+      "image": "https://media.wired.com/photos/6afdeccab8b6cf0d23988257/master/pass/Anthropic-IPO-Business-2297744238.jpg"
+    },
+    {
+      "id": "e4122320c304120b",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney…",
+      "source": "MIT Technology Review",
+      "category": "Science",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record"
+    },
+    {
+      "id": "79fb717d814dd0bd",
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T11:52:23Z",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg"
+    },
+    {
+      "id": "519de22d67ea32a3",
+      "title": "Someone reported java4shell bug in September 2026",
+      "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 260 # Comments: 70",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T11:47:03Z",
+      "url": "https://github.com/openjdk/jdk/pull/32781"
+    },
+    {
+      "id": "916e3d9bf8718c7c",
+      "title": "The Best Early Black Friday Deals on Laptops I’ve Tested (2026)",
+      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
+      "source": "Wired",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T11:30:00Z",
+      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26",
+      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg"
+    },
+    {
+      "id": "6cadbb2465403619",
+      "title": "How to tell a cyberattack from a plain old outage",
+      "summary": "When everything goes down, don’t assume it’s a cyberattack.",
+      "source": "Ars Technica",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T11:13:01Z",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2201630098-1152x648.jpg"
+    },
+    {
+      "id": "534689fc0321769e",
+      "title": "Best Early Dyson Black Friday Vacuum Deals (2026)",
+      "summary": "Dyson’s early Black Friday deals start today, and these are the vacuum deals you don’t want to skip.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "url": "https://www.wired.com/story/best-early-black-friday-dyson-vacuum-deals-11-19-2026",
+      "image": "https://media.wired.com/photos/6afdff856266953106784d1e/master/pass/The-Best-Early-Black-Friday-Deals-on-Dyson-Vacuums.jpg"
+    },
+    {
+      "id": "fc94b081f3d19fb3",
+      "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+      "summary": "Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "url": "https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine",
+      "image": "https://media.wired.com/photos/6afced7fd3e4d723d17cee88/master/pass/IMG_0337.jpg"
+    },
+    {
+      "id": "5a4f99c93d4a2a88",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material…",
+      "source": "MIT Technology Review",
+      "category": "Science",
+      "publishedAt": "2026-11-19T11:00:00Z",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal"
+    },
+    {
+      "id": "36b3a7ad30cc560d",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "summary": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 598 # Comments: 283",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T10:58:29Z",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff"
+    },
+    {
+      "id": "2b019203ee465895",
+      "title": "DOJ accuses Russian national of spying on and harassing Palantir employees",
+      "summary": "The DOJ says the Russian national was ordered to spy on Palantir over Ukraine's use of its software for wartime purposes.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T10:33:59Z",
+      "url": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees",
+      "image": "https://www.engadget.com/img/gallery/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/l-intro-1795084346.jpg"
+    },
+    {
+      "id": "6f2eddad99aa1001",
+      "title": "10 Best Therabody Gadgets & Theraguns to Gift This Year (2026)",
+      "summary": "From massage guns to compression boots and LED face masks, these Therabody gifts are perfect for anyone who deserves some rest and relaxation.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T10:30:00Z",
+      "url": "https://www.wired.com/gallery/best-theragun-percussive-therapy-devices",
+      "image": "https://media.wired.com/photos/6afe63e1564242f4569cab85/master/pass/The-Therabody-Gift-Guide-for-Rest-and-Relaxation.jpg"
+    },
+    {
+      "id": "293b971d45458dbf",
+      "title": "‘The Hairiest 90 Minutes of My Career’: How the FAA Ground Stop Went Down",
+      "summary": "“Instability” in the complex US aviation communications system led to a chaotic few hours for air traffic controllers and pilots. Nearly a week later, officials still don’t fully know what happened.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T10:30:00Z",
+      "url": "https://www.wired.com/story/how-the-november-13-faa-ground-stop-went-down",
+      "image": "https://media.wired.com/photos/6afced3edd75ebb0e0f1462f/master/pass/AP26317829295215_Groundstop.jpg"
+    },
+    {
+      "id": "612a33eee9d5fdb6",
+      "title": "14 Best Gifts for Travelers Who Have Everything (2026)",
+      "summary": "Travel smarter with gifts packed by WIRED’s globe-trotting staffers.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T10:04:00Z",
+      "url": "https://www.wired.com/story/best-gifts-for-travelers",
+      "image": "https://media.wired.com/photos/6afe657cf9416e2bf834c7b6/master/pass/The-Best-Gifts-for-Travelers,-According-to-WIRED%E2%80%99s-Frequent-Fliers.jpg"
+    },
+    {
+      "id": "573b887658e9748e",
+      "title": "Gig Work Is Invading Nursing Homes. The Risks Can Be Deadly",
+      "summary": "Inspection reports detailing elder care facilities show that little to no worker onboarding can lead to dangerous mistakes and overwhelmed nurses, a WIRED and Proof News investigation has found.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-19T10:00:00Z",
+      "url": "https://www.wired.com/story/shiftkey-gig-nursing",
+      "image": "https://media.wired.com/photos/6afe3417809613f3f77a2776/master/pass/Gig%20Nurses%20v2.jpg"
+    },
+    {
+      "id": "e51480ad1e04cf3e",
+      "title": "YC-backed LATO raises $4.7M seed to put AI agents on private equity’s due diligence calls",
+      "summary": "Private equity investors work to tight deal timetables when they assess a company’s customers, market position and growth…",
+      "source": "Tech Funding News",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T09:50:49Z",
+      "url": "https://techfundingnews.com/yc-backed-lato-raises-4-7m-seed-to-put-ai-agents-on-private-equitys-due-diligence-calls",
+      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/LATO-founders-.jpg"
+    },
+    {
+      "id": "6ebe391a8b41bbc0",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T09:31:26Z",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg"
+    },
+    {
+      "id": "36de6925a7cd5468",
+      "title": "Anthropic prices IPO at $83 per share in an $81.3B offering that values it at about $1.5T",
+      "summary": "AI is heading for one of its biggest moments on Wall Street. Anthropic, the company behind Claude, priced…",
+      "source": "Tech Funding News",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T09:30:32Z",
+      "url": "https://techfundingnews.com/anthropic-prices-ipo-at-83-per-share-in-an-81-3b-offering-that-values-it-at-about-1-5t",
+      "image": "https://techfundingnews.com/wp-content/uploads/2025/02/Anthropic.jpg"
+    },
+    {
+      "id": "1ab3c6f9fcc2bb4c",
+      "title": "What's New in PHP 8.6",
+      "summary": "Article URL: https://www.php.net/releases/8.6/en.php Comments URL: https://news.ycombinator.com/item?id=50557870 Points: 243 # Comments: 119",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T09:27:15Z",
+      "url": "https://www.php.net/releases/8.6/en.php"
+    },
+    {
+      "id": "e0bed2aa09c38048",
+      "title": "Do not buy RAM, compress",
+      "summary": "Article URL: https://curiousbits.nl/blog/do-not-buy-ram-compress/ Comments URL: https://news.ycombinator.com/item?id=50557661 Points: 180 # Comments: 153",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-19T08:56:47Z",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress"
+    },
+    {
+      "id": "29eb33240b0fe571",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T08:42:11Z",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg"
+    },
+    {
+      "id": "33d7ff0bdbf08a1e",
+      "title": "Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions",
+      "summary": "Elon Musk has accused Ukraine president Volodymyr Zelenskyy of being 'untruthful' about Starshield disruptions.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-19T08:36:56Z",
+      "url": "https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions",
+      "image": "https://www.engadget.com/img/gallery/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/l-intro-1795077250.jpg"
+    },
+    {
+      "id": "3914c4d93285bf93",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T08:14:00Z",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
+    },
+    {
+      "id": "76b78d2443c7d10f",
+      "title": "Industrifonden backs Stockholm’s Wilgot with $3M to win agentic commerce for brands",
+      "summary": "Erik Wikander has repeatedly stated that generative engine optimisation, known as GEO, is a non-starter and has shared…",
+      "source": "Tech Funding News",
+      "category": "Funding",
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "url": "https://techfundingnews.com/wilgot-3m-seed-ai-product-pages-industrifonden",
+      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Wilgot-co-founders.png"
+    },
+    {
+      "id": "dd71654a2f478334",
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-19T08:00:00Z",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg"
+    },
     {
       "id": "d0e06270948ecedc",
       "title": "One deal is hiding the real story of Europe’s $2.7B robotics boom",
@@ -178,8 +1158,8 @@
       "id": "b863bb1d729a3521",
       "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
       "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook…",
-      "source": "The Verge",
-      "category": "Tech",
+      "source": "The Verge Science",
+      "category": "Science",
       "publishedAt": "2026-11-19T01:39:45Z",
       "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook"
     },
@@ -227,16 +1207,6 @@
       "category": "Software",
       "publishedAt": "2026-11-19T00:29:45Z",
       "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model"
-    },
-    {
-      "id": "916e3d9bf8718c7c",
-      "title": "The Best Early Black Friday Deals On Laptops I've Tested Myself (2026)",
-      "summary": "Some of the best deals on my favorite laptops of the year have already dropped in the lead-up to Black Friday.",
-      "source": "Wired",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T00:23:15Z",
-      "url": "https://www.wired.com/story/best-early-black-friday-laptop-deals-11-18-26",
-      "image": "https://media.wired.com/photos/6afddd76bde75796e1384cb4/master/pass/The-Best-Early-Black-Friday-Laptop-Deals.jpg"
     },
     {
       "id": "a4c35d98fa9774d1",
@@ -316,8 +1286,8 @@
       "id": "d8ba4398191c3d46",
       "title": "The nation’s largest school districts consider ditching Google Search",
       "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to…",
-      "source": "The Verge",
-      "category": "Tech",
+      "source": "The Verge AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T23:18:35Z",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
     },
@@ -418,7 +1388,7 @@
     {
       "id": "daf2b3e0d41882f4",
       "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
-      "summary": "Add your teaser here. It should complement the headline, not repeat it. Teaser cannot be longer than 240 characters. The Blog Review Gem will suggest an excerpt. Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re…",
+      "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We’re doing an open-weight release for both extraction models.",
       "source": "Cloudflare Blog",
       "category": "Software",
       "publishedAt": "2026-11-18T22:00:00Z",
@@ -447,8 +1417,8 @@
       "id": "3285b906d368abcf",
       "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
       "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
-      "source": "TechCrunch",
-      "category": "Cybersecurity",
+      "source": "TechCrunch AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T21:34:13Z",
       "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running"
     },
@@ -465,8 +1435,8 @@
       "id": "f2571adad4d38d72",
       "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
       "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
-      "source": "TechCrunch",
-      "category": "Tech",
+      "source": "TechCrunch AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T21:31:21Z",
       "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated"
     },
@@ -523,8 +1493,8 @@
       "id": "cef4a627b91c6fcc",
       "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
       "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
-      "source": "TechCrunch",
-      "category": "Tech",
+      "source": "TechCrunch AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T20:07:01Z",
       "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie"
     },
@@ -569,8 +1539,8 @@
       "id": "ac57b5b6ee9ed73e",
       "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
       "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
-      "source": "TechCrunch",
-      "category": "Software",
+      "source": "TechCrunch AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T19:56:39Z",
       "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor"
     },
@@ -578,8 +1548,8 @@
       "id": "d023ba6fde32bc2f",
       "title": "Trump’s latest land grab is an AI hub in the Philippines",
       "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\"…",
-      "source": "The Verge",
-      "category": "Tech",
+      "source": "The Verge AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T19:40:36Z",
       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
     },
@@ -654,8 +1624,8 @@
       "id": "df673e00146f006f",
       "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
       "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-      "source": "TechCrunch",
-      "category": "Funding",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
       "publishedAt": "2026-11-18T19:29:41Z",
       "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation"
     },
@@ -802,15 +1772,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg"
     },
     {
-      "id": "8990b5a87eb62a06",
-      "title": "The Magic of Partial Evaluation",
-      "summary": "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 43 # Comments: 4",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T18:29:03Z",
-      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation"
-    },
-    {
       "id": "8448a78ccb9ec0c7",
       "title": "You can't use GTA 6 cheats until you beat the game",
       "summary": "Some even require players to complete specific challenges.",
@@ -918,24 +1879,6 @@
       "image": "https://media.wired.com/photos/6afddc7636140b742f8ad817/master/pass/The-MacBook-Neo-Just-Got-Its-Largest-Discount-Ever.jpg"
     },
     {
-      "id": "68ddb817fe4001c0",
-      "title": "Advancing chip design with OpenAI models",
-      "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 199 # Comments: 129",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T17:45:47Z",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models"
-    },
-    {
-      "id": "7188a95acfc74d07",
-      "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-      "summary": "Article URL: https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats Comments URL: https://news.ycombinator.com/item?id=50549438 Points: 30 # Comments: 6",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T17:41:48Z",
-      "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats"
-    },
-    {
       "id": "276d6b33ec17971f",
       "title": "Inside Nvidia’s First Post-Jensen All-Hands: Pay Raises and More Equity",
       "summary": "Interim CEO Colette Kress sought to ease employee concerns following Jensen Huang’s ouster, in part by promising to increase compensation.",
@@ -949,8 +1892,8 @@
       "id": "42ab85f3d5b2fc42",
       "title": "More banks say customers using AI agents are on their own — even if they get hacked",
       "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
-      "source": "TechCrunch",
-      "category": "AI",
+      "source": "TechCrunch Security",
+      "category": "Cybersecurity",
       "publishedAt": "2026-11-18T17:32:10Z",
       "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked"
     },
@@ -964,25 +1907,6 @@
       "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance"
     },
     {
-      "id": "a4b70cc2b4cba90b",
-      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
-      "summary": "“The only way you get some change against Big Tech is to sue them,” says lawyer Hillary Nappi, who is representing Amani Al-Khatahtbeh in the lawsuit.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T17:30:54Z",
-      "url": "https://www.wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab",
-      "image": "https://media.wired.com/photos/6afce67e8d4d47192101a96f/master/pass/AI%20Hijab%20stripping.jpg"
-    },
-    {
-      "id": "9bcf073a13fee76f",
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY…",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T17:26:28Z",
-      "url": "https://news.ycombinator.com/item?id=50549188"
-    },
-    {
       "id": "e33df571fa5f5525",
       "title": "Why GTA 6 doesn't have a 60 fps performance mode",
       "summary": "Rockstar has a history of releasing its games at lower framerates than rival titles. That's still the case with GTA 6.",
@@ -991,15 +1915,6 @@
       "publishedAt": "2026-11-18T17:15:15Z",
       "url": "https://www.engadget.com/2320281/why-gta-6-no-60-fps-performance-mode",
       "image": "https://www.engadget.com/img/gallery/why-gta-6-doesnt-have-a-60-fps-performance-mode/l-intro-1794997359.jpg"
-    },
-    {
-      "id": "3a385fe4a1f0037f",
-      "title": "CrossPoint Reader",
-      "summary": "Article URL: https://crosspointreader.com Comments URL: https://news.ycombinator.com/item?id=50548991 Points: 43 # Comments: 23",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T17:14:31Z",
-      "url": "https://crosspointreader.com/"
     },
     {
       "id": "6ec0dce548ff06fe",
@@ -1031,15 +1946,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg"
     },
     {
-      "id": "3ce21c9c1e9d58d8",
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "summary": "Hi HN, we're Shane, Sam, and Abhi. Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073 . It got a few hundred upvotes; a couple of weeks later our downloads had…",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T16:53:42Z",
-      "url": "https://news.ycombinator.com/item?id=50548660"
-    },
-    {
       "id": "264dbaf5fa0d9894",
       "title": "SiriusXM and Pandora will provide podcast transcripts for the deaf and hard-of-hearing community",
       "summary": "This settles a lawsuit that goes all the way back to 2021.",
@@ -1048,16 +1954,6 @@
       "publishedAt": "2026-11-18T16:48:02Z",
       "url": "https://www.engadget.com/2320646/siriusxm-and-pandora-will-provide-podcast-transcripts-for-the-deaf-and-hard-of-hearing-community",
       "image": "https://www.engadget.com/img/gallery/siriusxm-and-pandora-will-provide-podcast-transcripts-to-the-deaf-and-hard-of-hearing-community/l-intro-1795020058.jpg"
-    },
-    {
-      "id": "c2d4af1db8b7b20e",
-      "title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
-      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
-      "source": "Wired",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-18T16:35:24Z",
-      "url": "https://www.wired.com/story/artex-ai-hacking-tools",
-      "image": "https://media.wired.com/photos/6afdd3316a27dda013bf584c/master/pass/Security_Criminals%20Have%20a%20New%20Favorite%20AI%20Hacking%20Tool_v2.jpg"
     },
     {
       "id": "ce4b9c0b37928272",
@@ -1070,15 +1966,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg"
     },
     {
-      "id": "89f441741c92b404",
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "summary": "Voyager 1 reached one light-day from Earth today. On the site you can: - see where both Voyagers are right now - open a nuclear battery to its 24 plutonium spheres - go into the data computer, down to a single memory chip - see how the Golden Record's cover…",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T16:18:51Z",
-      "url": "https://rshekhar.com/voyager"
-    },
-    {
       "id": "e6de34d7c9a098b0",
       "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
       "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
@@ -1086,51 +1973,6 @@
       "category": "AI",
       "publishedAt": "2026-11-18T16:14:09Z",
       "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen"
-    },
-    {
-      "id": "0d2c43a590997890",
-      "title": "SuperEMeans: Making e-means 3× faster",
-      "summary": "Article URL: https://www.lkuffo.com/superemeans/ Comments URL: https://news.ycombinator.com/item?id=50548038 Points: 37 # Comments: 0",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T16:09:50Z",
-      "url": "https://www.lkuffo.com/superemeans"
-    },
-    {
-      "id": "f5b869b89561f8d7",
-      "title": "Seven new models at scalable price-performance",
-      "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 514 # Comments: 340",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T16:08:24Z",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026"
-    },
-    {
-      "id": "d9e519af9ddc0b7e",
-      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-      "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 142 # Comments: 86",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T16:06:21Z",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312"
-    },
-    {
-      "id": "c1172ed18ac8a1aa",
-      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-      "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 202 # Comments: 61",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T16:04:43Z",
-      "url": "https://exitpath-ruddy.vercel.app/"
-    },
-    {
-      "id": "a3cb7485f105ed16",
-      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-      "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-      "source": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T16:00:00Z",
-      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl"
     },
     {
       "id": "286f1ffd98d1e67e",
@@ -1143,13 +1985,13 @@
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/security.jpg"
     },
     {
-      "id": "f6f0576c6cc397f3",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 441 # Comments: 190",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T15:49:34Z",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg"
+      "id": "a3cb7485f105ed16",
+      "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+      "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-18T16:00:00Z",
+      "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl"
     },
     {
       "id": "4270e297502a029b",
@@ -1161,33 +2003,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
     },
     {
-      "id": "6a8b0ad87e924218",
-      "title": "Inside Deutsche Bank",
-      "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 645 # Comments: 205",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T15:38:33Z",
-      "url": "https://www.inside-db.com/"
-    },
-    {
-      "id": "143c16ea97a97385",
-      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
-      "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 166 # Comments: 106",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T15:35:44Z",
-      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view"
-    },
-    {
-      "id": "c893cce644d6d681",
-      "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-      "summary": "Article URL: https://nginx2root.com/ Comments URL: https://news.ycombinator.com/item?id=50547423 Points: 87 # Comments: 13",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T15:24:17Z",
-      "url": "https://nginx2root.com/"
-    },
-    {
       "id": "cc2c4326691587ce",
       "title": "Ireland’s Disseqt AI raises €7.3 million to safely deploy AI agents",
       "summary": "Disseqt AI, a Dublin-based AI assurance platform, has raised €7.3 million ($8 million) to help enterprises deploy AI agents safely, at scale and enable them to meet regulatory requirements. Gresham House Ventures led the round, with participation from Sure…",
@@ -1195,16 +2010,6 @@
       "category": "Startups",
       "publishedAt": "2026-11-18T15:09:19Z",
       "url": "https://www.eu-startups.com/2026/11/irelands-disseqt-ai-raises-e7-3-million-to-safely-deploy-ai-agents"
-    },
-    {
-      "id": "68a47bce3a0d7be1",
-      "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-      "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T15:02:40Z",
-      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness",
-      "image": "https://media.wired.com/photos/6afcfb207b0def85d03dac43/master/pass/Thomas-Nagel-QandA-Business.jpg"
     },
     {
       "id": "696966843394c5e0",
@@ -1265,15 +2070,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg"
     },
     {
-      "id": "ddf152f6d3b592a4",
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving…",
-      "source": "The Verge AI",
-      "category": "AI",
-      "publishedAt": "2026-11-18T14:00:00Z",
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
-    },
-    {
       "id": "3ec2d3c2f71f20b0",
       "title": "Jay-Z’s MarcyPen and Gwyneth Paltrow’s Kinship back Hone Health’s $228M longevity round",
       "summary": "Saad Alam at 35 was feeling worn out, had some memory lapses, was putting on weight and was…",
@@ -1284,6 +2080,15 @@
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Hone-Health-founder-.jpg"
     },
     {
+      "id": "ddf152f6d3b592a4",
+      "title": "Will Wright’s next game uses AI to map your memories",
+      "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving…",
+      "source": "The Verge AI",
+      "category": "AI",
+      "publishedAt": "2026-11-18T14:00:00Z",
+      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview"
+    },
+    {
       "id": "1bf206074fcc1fe0",
       "title": "Tesorai raises $5.3M seed, backed by Perplexity Fund and IQT, to make raw lab data searchable",
       "summary": "Millions of scientific experiments generate vast amounts of data, but much of it remains difficult to access, compare…",
@@ -1292,16 +2097,6 @@
       "publishedAt": "2026-11-18T14:00:00Z",
       "url": "https://techfundingnews.com/tesorai-raises-5-3m-seed-backed-by-perplexity-fund-and-iqt-to-make-raw-lab-data-searchable",
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Tesorai-founder-.jpeg"
-    },
-    {
-      "id": "488fb933c40dc6c7",
-      "title": "14 Elite Coffee Gifts for Caffeinated Connoisseurs",
-      "summary": "Whether the coffee nerd in your life is a budding brewer or an experienced extractor, these gifts will advance their technique.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T14:00:00Z",
-      "url": "https://www.wired.com/story/14-coffee-gifts-for-caffeine-connoisseurs",
-      "image": "https://media.wired.com/photos/6afaf5a9414c6b74456a5130/master/pass/111626-Coffee%20Gift.jpg"
     },
     {
       "id": "ffc8874c376e9494",
@@ -1422,20 +2217,10 @@
       "id": "2c4163c7e21d994d",
       "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
       "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "source": "TechCrunch AI",
-      "category": "AI",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
       "publishedAt": "2026-11-18T12:00:00Z",
       "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents"
-    },
-    {
-      "id": "da1d0e34d0535284",
-      "title": "The Best Gifts Under $25 for Everyone on Your List (2026)",
-      "summary": "We found genuinely good presents for home cooks, teens, coffee lovers, and the person who already has everything.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T12:00:00Z",
-      "url": "https://www.wired.com/story/best-gifts-under-25-2026",
-      "image": "https://media.wired.com/photos/6ac027cfd5ba006200028110/master/pass/Best%20Gifts%20Under%20$25%20102026%20top%20art%20SOURCE%20Amazon.jpg"
     },
     {
       "id": "5966ac56e61b79d5",
@@ -1458,43 +2243,13 @@
       "image": "https://www.engadget.com/img/gallery/nasas-voyager-1-space-probe-is-now-one-light-day-away-from-earth/l-intro-1795002413.jpg"
     },
     {
-      "id": "ccbd8e65d2dccd14",
-      "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
-      "summary": "The Nubia Redmagic 12 Pro offers a slick, big-screen experience and long battery life, but there are caveats",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T11:45:00Z",
-      "url": "https://www.wired.com/review/nubia-redmagic-12-pro",
-      "image": "https://media.wired.com/photos/6afce87d9891667de5f2b6d8/master/pass/Review--Nubia-Redmagic-12-Pro.jpg"
-    },
-    {
       "id": "ddb370c34e5553db",
       "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
       "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "source": "TechCrunch AI",
-      "category": "AI",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
       "publishedAt": "2026-11-18T11:30:00Z",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers"
-    },
-    {
-      "id": "e801f5569db9d74c",
-      "title": "I Will Never Stop Playing ‘Grand Theft Auto’",
-      "summary": "The best part of GTA isn’t the hyperviolence or the driving. It’s the friends and family we explode along the way.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T11:30:00Z",
-      "url": "https://www.wired.com/story/i-will-never-stop-playing-grand-theft-auto",
-      "image": "https://media.wired.com/photos/6afcd01195accf8c82547428/master/pass/Jason_and_Lucia_01_landscape.jpg"
-    },
-    {
-      "id": "1181b43b27d4ad32",
-      "title": "Early Black Friday Deals Under $100 (2026)",
-      "summary": "Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T11:19:00Z",
-      "url": "https://www.wired.com/story/best-early-black-friday-deals-under-100-11-18-2026",
-      "image": "https://media.wired.com/photos/6af39fd8ba886163acf11ce3/master/pass/The-Best-Early-Black-Friday-Deals-Under-$100.jpg"
     },
     {
       "id": "942518637ca001c7",
@@ -1504,16 +2259,6 @@
       "category": "AI",
       "publishedAt": "2026-11-18T11:16:53Z",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
-    },
-    {
-      "id": "40f3033b4005fcc7",
-      "title": "Voyager 1 Beat the Odds and Is Still Working a Light-Day Away From Earth",
-      "summary": "The spacecraft stores data on an eight-track tape, but it’s managed to stay in contact with scientists for decades. Now, it’s the first human-made object to travel a light-day away from Earth.",
-      "source": "Wired",
-      "category": "Science",
-      "publishedAt": "2026-11-18T11:15:00Z",
-      "url": "https://www.wired.com/story/voyager-1-beat-still-working-light-day-away",
-      "image": "https://media.wired.com/photos/6afc240b2a6df42cc7084204/master/pass/pia17462.jpg"
     },
     {
       "id": "223d4510ddd33401",
@@ -1546,16 +2291,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg"
     },
     {
-      "id": "841c883876cabad6",
-      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
-      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T11:00:00Z",
-      "url": "https://www.wired.com/story/germ-dm-is-now-available-on-android",
-      "image": "https://media.wired.com/photos/6afc1f24796550a2d394544e/master/pass/Germ%20Network.jpg"
-    },
-    {
       "id": "a620e98d8784f889",
       "title": "China dominates battery graphite, but this startup could break the monopoly",
       "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
@@ -1583,16 +2318,6 @@
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
     },
     {
-      "id": "f313a8d7b97b5282",
-      "title": "Apple HomeView Review (2026): Should’ve Been Better",
-      "summary": "Apple’s HomeView marks a very late arrival to the smart display world, and one that didn’t blow me away.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T10:18:00Z",
-      "url": "https://www.wired.com/review/apple-homeview-review",
-      "image": "https://media.wired.com/photos/6afcde919e5594b1abe45b8b/master/pass/Review--Apple-HomeView.jpg"
-    },
-    {
       "id": "6061edf80571df59",
       "title": "5 key findings from Atomico’s State of European Tech 2026",
       "summary": "Europe’s tech ecosystem is heading for its second-best investment year on record, with bigger funding rounds, a new generation of founders and startups scaling at unprecedented speed. But the continent’s structural weaknesses remain: venture capital is…",
@@ -1600,15 +2325,6 @@
       "category": "Startups",
       "publishedAt": "2026-11-18T10:15:08Z",
       "url": "https://www.eu-startups.com/2026/11/5-key-findings-from-atomicos-state-of-european-tech-2026"
-    },
-    {
-      "id": "75c03d6c92f652b2",
-      "title": "Codeberg.org Not Reachable",
-      "summary": "Article URL: https://social.anoxinon.de/@codebergstatus/117636437840688845 Comments URL: https://news.ycombinator.com/item?id=50544261 Points: 58 # Comments: 16",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T10:02:17Z",
-      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845"
     },
     {
       "id": "1998a61d2a3e0c8c",
@@ -1628,15 +2344,6 @@
       "publishedAt": "2026-11-18T09:41:44Z",
       "url": "https://www.engadget.com/2320221/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center",
       "image": "https://www.engadget.com/img/gallery/palmer-luckeys-slab-seastead-is-way-cooler-than-a-floating-data-center/l-intro-1795033185.jpg"
-    },
-    {
-      "id": "f054d70d5a7a452e",
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "summary": "Article URL: https://energy-based-reasoners.github.io/ Comments URL: https://news.ycombinator.com/item?id=50543989 Points: 8 # Comments: 1",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T09:29:32Z",
-      "url": "https://energy-based-reasoners.github.io/"
     },
     {
       "id": "a4d36a9712fc7f0c",
@@ -1698,15 +2405,6 @@
       "url": "https://www.eu-startups.com/2026/11/french-frugal-ai-infrastructure-startup-mountain-raises-e7-3-million-to-bring-advanced-ai-to-sub-e9-chips"
     },
     {
-      "id": "7fc914ca3dc5a16b",
-      "title": "Talos Linux",
-      "summary": "Article URL: https://www.siderolabs.com/talos-linux Comments URL: https://news.ycombinator.com/item?id=50543343 Points: 38 # Comments: 21",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T08:17:44Z",
-      "url": "https://www.siderolabs.com/talos-linux"
-    },
-    {
       "id": "bff1746c71554250",
       "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
       "summary": "Iconic, an Amsterdam-based startup building an AI operating system for large capital projects, has raised €9.1 million ($10 million) in Seed funding to bring AI-powered intelligence to these projects, with five major clients already onboard. Peak Capital, an…",
@@ -1724,24 +2422,6 @@
       "publishedAt": "2026-11-18T07:17:05Z",
       "url": "https://techfundingnews.com/european-university-spinouts-492b-defence-funding-2026",
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/European-university-spinouts.png"
-    },
-    {
-      "id": "0b971cef4cf946e8",
-      "title": "Australia's full national topographic library at your fingertips",
-      "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips Comments URL: https://news.ycombinator.com/item?id=50542863 Points: 20 # Comments: 10",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T07:10:46Z",
-      "url": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips"
-    },
-    {
-      "id": "6663bdbb07465939",
-      "title": "AI is killing All About Berlin",
-      "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 350 # Comments: 318",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-18T06:47:26Z",
-      "url": "https://nicolasbouliane.com/blog/death-by-ai"
     },
     {
       "id": "533b590042a01508",
@@ -1806,8 +2486,8 @@
       "id": "0d4a3780c61dc50a",
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
       "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "source": "TechCrunch AI",
-      "category": "AI",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
       "publishedAt": "2026-11-18T01:44:21Z",
       "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt"
     },
@@ -1835,8 +2515,8 @@
       "id": "0db3b4bdf59c14e4",
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "source": "Ars Technica",
-      "category": "Tech",
+      "source": "Ars Technica AI",
+      "category": "AI",
       "publishedAt": "2026-11-18T00:27:29Z",
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
@@ -1870,16 +2550,6 @@
       "image": "https://www.engadget.com/img/gallery/you-can-now-see-and-edit-what-google-gemini-remembers-about-you/l-intro-1794427961.jpg"
     },
     {
-      "id": "92c88a247d97cc10",
-      "title": "Oregon is the latest state to sue OpenAI over child safety",
-      "summary": "Oregon's Attorney General filed a lawsuit against the maker of ChatGPT over alleged child safety issues.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T23:45:32Z",
-      "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety",
-      "image": "https://www.engadget.com/img/gallery/oregon-is-the-latest-state-to-sue-openai-over-child-safety/l-intro-1794959005.jpg"
-    },
-    {
       "id": "d34ce25785fdf87b",
       "title": "Satya Nadella says he’s AGI-pilled now",
       "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the…",
@@ -1896,16 +2566,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-17T23:37:48Z",
       "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
-    },
-    {
-      "id": "8cba239edccd2517",
-      "title": "5 old-school charging ports you probably forgot phones had before USB-C",
-      "summary": "While USB-C is the standard today, we saw a lot of phone charging ports before the days of Micro-USB and Mini-USB.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T23:30:00Z",
-      "url": "https://www.engadget.com/2315473/old-school-charging-ports-phones-used-before-usb-c",
-      "image": "https://www.engadget.com/img/gallery/5-old-school-charging-ports-you-probably-forgot-phones-had-before-usb-c/l-intro-1794520920.jpg"
     },
     {
       "id": "20721672b7ad219a",
@@ -1925,26 +2585,6 @@
       "category": "Software",
       "publishedAt": "2026-11-17T23:04:35Z",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
-    },
-    {
-      "id": "49458b678bf6ff33",
-      "title": "CFTC tells Kalshi to stop letting people bet on Trump's speeches",
-      "summary": "The prediction market platform's CEO has complied but opposed the move.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T23:00:06Z",
-      "url": "https://www.engadget.com/2320023/kalshi-ordered-to-stop-letting-people-bet-on-trump-speeches",
-      "image": "https://www.engadget.com/img/gallery/cftc-tells-kalshi-to-stop-letting-people-bet-on-trumps-speeches/l-intro-1794956305.jpg"
-    },
-    {
-      "id": "0488c0423023f3ff",
-      "title": "The dangers of using your old, damaged charging cables",
-      "summary": "Frayed charging cables carry huge risks, from electrical shock to starting a fire. It's not worth the risk of using them.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T23:00:00Z",
-      "url": "https://www.engadget.com/2315411/risks-using-old-damaged-charging-cables",
-      "image": "https://www.engadget.com/img/gallery/the-dangers-of-using-your-old-damaged-charging-cables/l-intro-1794517530.jpg"
     },
     {
       "id": "d85dd6f4fcb53fdb",
@@ -2012,16 +2652,6 @@
       "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub"
     },
     {
-      "id": "0f18c4ebd19de122",
-      "title": "NVIDIA's board chair says the company is not considering reinstating Jensen Huang as CEO",
-      "summary": "NVIDIA's board chair said it doesn't want Jensen Huang back in the CEO role during the company's first earnings call since his resignation.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T22:21:27Z",
-      "url": "https://www.engadget.com/2319982/nvidias-board-chair-says-the-company-is-not-considering-reinstating-jensen-huang-as-ceo",
-      "image": "https://www.engadget.com/img/gallery/nvidias-board-chair-says-the-company-is-not-considering-reinstating-jensen-huang-as-ceo/l-intro-1794956015.jpg"
-    },
-    {
       "id": "7082e39b2939fcd7",
       "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
       "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will…",
@@ -2029,16 +2659,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-17T22:05:05Z",
       "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo"
-    },
-    {
-      "id": "fd4445c85f9cf108",
-      "title": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
-      "summary": "Restrictions were made by California's DMV after a driverless Waymo was caught trying to pass a Highway Patrol vehicle that was slowing traffic.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T21:57:49Z",
-      "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety",
-      "image": "https://www.engadget.com/img/gallery/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/l-intro-1794952210.jpg"
     },
     {
       "id": "04c4dac80f3d2432",
@@ -2093,16 +2713,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-17T21:00:55Z",
       "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake"
-    },
-    {
-      "id": "0f23c1a55a1b956f",
-      "title": "There's a chance your Xbox Series X is plugged into the wrong HDMI port",
-      "summary": "Make sure you're getting the most out of your Xbox Series X, starting with a port check.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T21:00:00Z",
-      "url": "https://www.engadget.com/2315403/chance-xbox-series-x-plugged-into-wrong-hdmi-port",
-      "image": "https://www.engadget.com/img/gallery/theres-a-chance-your-xbox-series-x-is-plugged-into-the-wrong-hdmi-port/l-intro-1794516377.jpg"
     },
     {
       "id": "73f3c396c073fda1",
@@ -2163,16 +2773,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg"
     },
     {
-      "id": "649fb85c774271d6",
-      "title": "Google Wallet is launching on iOS",
-      "summary": "In case you, for some reason, don't want to use the nearly identical Apple Wallet.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T19:33:27Z",
-      "url": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios",
-      "image": "https://www.engadget.com/img/gallery/google-wallet-is-launching-on-ios/l-intro-1794943971.jpg"
-    },
-    {
       "id": "2fb55c3571a040c5",
       "title": "Model ML raises $250M to automate investment banking grunt work",
       "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
@@ -2182,26 +2782,6 @@
       "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work"
     },
     {
-      "id": "5343d0ac68839653",
-      "title": "3 Body Problem finally returns to Netflix on January 14",
-      "summary": "It's been nearly three years since the sci-fi adaptation first premiered.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T19:30:34Z",
-      "url": "https://www.engadget.com/2319667/3-body-problem-finally-returns-to-netflix-on-january-14",
-      "image": "https://www.engadget.com/img/gallery/3-body-problem-finally-returns-to-netflix-on-january-14/l-intro-1794943797.jpg"
-    },
-    {
-      "id": "b10da6a6f01ab98d",
-      "title": "Can you use a keyboard and mouse with an Xbox Series X?",
-      "summary": "Learn how to up your Xbox game with keyboard and mouse controls.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T19:30:00Z",
-      "url": "https://www.engadget.com/2315395/use-keyboard-mouse-with-xbox-series-x",
-      "image": "https://www.engadget.com/img/gallery/can-you-use-a-keyboard-and-mouse-with-an-xbox-series-x/l-intro-1794505611.jpg"
-    },
-    {
       "id": "af36944b8f532014",
       "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
       "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
@@ -2209,16 +2789,6 @@
       "category": "AI",
       "publishedAt": "2026-11-17T19:02:20Z",
       "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases"
-    },
-    {
-      "id": "097e7d04dd9e2cf0",
-      "title": "What exactly are Flock cameras and how can you spot one?",
-      "summary": "Flock cameras are showing up at intersections and neighborhood entrances. Learn what they are capable of and how to spot one before you drive past.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T19:00:00Z",
-      "url": "https://www.engadget.com/2315371/what-are-flock-cameras-how-to-spot",
-      "image": "https://www.engadget.com/img/gallery/what-exactly-are-flock-cameras-and-how-can-you-spot-one/l-intro-1794513671.jpg"
     },
     {
       "id": "20774146b79ca781",
@@ -2285,16 +2855,6 @@
       "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices"
     },
     {
-      "id": "c2bb8cafb3025bb6",
-      "title": "iCloud and other Apple services are down in an apparent outage",
-      "summary": "The full extent of the disruption isn't known yet.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T18:15:04Z",
-      "url": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage",
-      "image": "https://www.engadget.com/img/gallery/icloud-and-other-apple-services-are-down-in-an-apparent-outage/l-intro-1794944187.jpg"
-    },
-    {
       "id": "4d0f644bf7bc31ef",
       "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
       "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
@@ -2312,16 +2872,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-17T18:10:00Z",
       "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier"
-    },
-    {
-      "id": "0b2945b232d38d62",
-      "title": "Grado's GW200 headphones boast fresh drivers and a longer battery life",
-      "summary": "They run $329 and are up for preorder now.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T18:07:29Z",
-      "url": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life",
-      "image": "https://www.engadget.com/img/gallery/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/l-intro-1794938760.jpg"
     },
     {
       "id": "5a600a844d9b7ef8",
@@ -2343,16 +2893,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg"
     },
     {
-      "id": "7252340491372d4e",
-      "title": "Ways to tell if someone blocked your phone number on iPhone",
-      "summary": "Unanswered calls and missing read receipts don't always mean a block. See which signs are worth noticing and what else could be going on instead.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T18:00:00Z",
-      "url": "https://www.engadget.com/2315321/signs-someone-blocked-your-number-iphone",
-      "image": "https://www.engadget.com/img/gallery/ways-to-tell-if-someone-blocked-your-phone-number-on-iphone/l-intro-1794512169.jpg"
-    },
-    {
       "id": "b0b0a6e616a3be6e",
       "title": "Hydropower hit record lows in the US Southwest this summer",
       "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating…",
@@ -2360,16 +2900,6 @@
       "category": "Science",
       "publishedAt": "2026-11-17T17:52:10Z",
       "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river"
-    },
-    {
-      "id": "90a2ca531a86254e",
-      "title": "The easiest way to set up CarPlay for the first time",
-      "summary": "CarPlay isn't hard to start using, but you should know a few points going in for the best experience.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-17T17:45:00Z",
-      "url": "https://www.engadget.com/2315270/easy-carplay-setup-first-time-users",
-      "image": "https://www.engadget.com/img/gallery/the-easiest-way-to-set-up-carplay-for-the-first-time/l-intro-1794511199.jpg"
     },
     {
       "id": "3818d6ccd2a7f7a1",
@@ -2407,15 +2937,6 @@
       "category": "Startups",
       "publishedAt": "2026-11-17T16:44:15Z",
       "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo"
-    },
-    {
-      "id": "179fb295e1eefeff",
-      "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-      "summary": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-      "source": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T16:32:55Z",
-      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too"
     },
     {
       "id": "825618225fbb1ec8",
@@ -2790,16 +3311,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor"
     },
     {
-      "id": "9507e63bd34bba49",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-16T20:37:47Z",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg"
-    },
-    {
       "id": "ea2b45bbfe30aab1",
       "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
       "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for…",
@@ -2816,26 +3327,6 @@
       "category": "Science",
       "publishedAt": "2026-11-16T20:27:58Z",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
-    },
-    {
-      "id": "0808f40cf4de509f",
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-16T20:27:58Z",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg"
-    },
-    {
-      "id": "888d5362561d6d5d",
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "source": "Ars Technica",
-      "category": "Funding",
-      "publishedAt": "2026-11-16T19:54:21Z",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg"
     },
     {
       "id": "2a76995c706a4d42",
@@ -2869,8 +3360,8 @@
       "id": "078c70bccadd2823",
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it…",
-      "source": "MIT Technology Review",
-      "category": "Science",
+      "source": "MIT Technology Review AI",
+      "category": "AI",
       "publishedAt": "2026-11-16T18:38:47Z",
       "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back"
     },
@@ -2896,8 +3387,8 @@
       "id": "9ed8c032dbcdf137",
       "title": "Building trustworthy AI by fencing it in, not predicting it",
       "summary": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during…",
-      "source": "MIT Technology Review",
-      "category": "Science",
+      "source": "MIT Technology Review AI",
+      "category": "AI",
       "publishedAt": "2026-11-16T16:04:28Z",
       "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it"
     },
@@ -2930,494 +3421,6 @@
       "publishedAt": "2026-11-16T13:27:20Z",
       "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg"
-    },
-    {
-      "id": "09daa70462d05c20",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In…",
-      "source": "MIT Technology Review",
-      "category": "Science",
-      "publishedAt": "2026-11-16T13:10:00Z",
-      "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest"
-    },
-    {
-      "id": "4832a1d87c293de0",
-      "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-16T13:00:00Z",
-      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public"
-    },
-    {
-      "id": "d1436b6477306116",
-      "title": "Building AI that can work across the enterprise",
-      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and…",
-      "source": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "2026-11-16T13:00:00Z",
-      "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise"
-    },
-    {
-      "id": "a989c64e51ebb71d",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-16T12:34:21Z",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg"
-    },
-    {
-      "id": "c4086de05142b1d9",
-      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-16T12:33:18Z",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRuwbdQU-KyBsSrFlIZp4oczr_tJu53WrfB3nM6QYrO7kFgGAZO1NMSi7mziUOUaTrzq5C4KzCJqvYOf0Ry19ypJac-9mBYzYiqiTNl462i1uYo7DF9aAHxiVU_IOaByH3NtNlrF0hUhZtpItADKJauPVzWrz8r6YOQEHQrt_YiAmPba4CIOsSjZA2Wy_/s1600/hacker-code.jpg"
-    },
-    {
-      "id": "806db9cd3ae0f854",
-      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
-      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-16T12:30:00Z",
-      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm"
-    },
-    {
-      "id": "5ceeaae8e26f5eb8",
-      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-16T09:32:57Z",
-      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg"
-    },
-    {
-      "id": "d6a0c3df6c7fff40",
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-16T07:34:21Z",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg"
-    },
-    {
-      "id": "ae3f0447eb93f026",
-      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-      "summary": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
-      "source": "TechCrunch Venture",
-      "category": "Funding",
-      "publishedAt": "2026-11-16T07:00:00Z",
-      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots"
-    },
-    {
-      "id": "1abe8912cb223ae4",
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-16T06:53:34Z",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg"
-    },
-    {
-      "id": "61200927e23c6bf1",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-15T23:30:00Z",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market"
-    },
-    {
-      "id": "9e09af32ba885800",
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so…",
-      "source": "The Verge Science",
-      "category": "Science",
-      "publishedAt": "2026-11-15T21:05:02Z",
-      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
-    },
-    {
-      "id": "73de3fa2f1aaf9ce",
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-15T18:29:14Z",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending"
-    },
-    {
-      "id": "dabf7b9c559f7a5e",
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-15T11:27:31Z",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdTCjpbsG3Dp62JM1KZqfSvZpuBnxwaCxXsplW3dAt2b4Ym0KAWPfxkHf4DT-02VK3jJESLmgasdE6D36qGegWu7dk9YSLN4DZxRVsgrM9lIEXXHUvQ0VzaZ1_gFqpjtA4cP3rlt82g5WnK2sXNZHJd5F_rEk4VSTGnMKOuXziSM1R85Vqhway3lajwTA/s1600/facebook-fine.jpg"
-    },
-    {
-      "id": "d5585df40181d87d",
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-15T08:22:04Z",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg16ACawbG7rP_kT-8Boo4xdTje3BeTWyFSnNXwHhr5cvy2-1X3Ljhrc1IuZlseWd55tN8E1yjQ9ldhTnjWTU-GJBpX_Zen36YiLQGsRSRAoteqHyxx7mn_w0QgLfMKDLItA4p_jpHajucbglLnCR_zWBY_t82YvFkLa9dQFBfjP1BrTlrNdYufsGMSZiGn/s1600/cursor.jpg"
-    },
-    {
-      "id": "c319b12e1cc2fac3",
-      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first…",
-      "source": "The Verge Science",
-      "category": "Science",
-      "publishedAt": "2026-11-14T21:44:44Z",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
-    },
-    {
-      "id": "a9b18f8c8cd7f77d",
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-      "source": "TechCrunch Security",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-14T17:45:04Z",
-      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide"
-    },
-    {
-      "id": "e577b898eca3316f",
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-14T12:38:35Z",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg"
-    },
-    {
-      "id": "9d694fa95af0cfae",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-13T22:43:00Z",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
-    },
-    {
-      "id": "f0762e07ecf940c0",
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-      "source": "TechCrunch Security",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-13T21:44:38Z",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances"
-    },
-    {
-      "id": "05648108c87680dd",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-13T21:20:47Z",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg"
-    },
-    {
-      "id": "a443b3b055385161",
-      "title": "Kitesurf is now open source",
-      "summary": "Kitesurf, our experimental browser engine for AI agents, is now open source. Inspect the code, run it locally, or deploy your own instance on Cloudflare Workers.",
-      "source": "Cloudflare Blog",
-      "category": "Software",
-      "publishedAt": "2026-11-13T20:20:21Z",
-      "url": "https://blog.cloudflare.com/kitesurf-open-source",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B8M53647Q1KNRABY8VM2G7.png"
-    },
-    {
-      "id": "49f0b0840b1ef26a",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-13T19:37:57Z",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation"
-    },
-    {
-      "id": "83270260bb0f21b1",
-      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
-      "summary": "AI-orchestrated penetration testing platforms like ARTEX have become increasingly powerful tools enabling effective attacks on exposed infrastructure. Here we share Cloudflare’s observations and recommended countermeasures.",
-      "source": "Cloudflare Blog",
-      "category": "Software",
-      "publishedAt": "2026-11-13T19:26:07Z",
-      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YN6VXD98D313GQ0MHPM2.png"
-    },
-    {
-      "id": "a0496c5bf3e13bec",
-      "title": "Jensen Huang was reckless with the environment, too",
-      "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids…",
-      "source": "The Verge Science",
-      "category": "Science",
-      "publishedAt": "2026-11-13T17:44:22Z",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution"
-    },
-    {
-      "id": "4513c6ea6021e8f2",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-13T17:25:45Z",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg"
-    },
-    {
-      "id": "d8cc2172e29e81d0",
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-13T16:53:08Z",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
-    },
-    {
-      "id": "d93f5e12f3c1794f",
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-13T15:27:05Z",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg"
-    },
-    {
-      "id": "b7eabbe823d95a9d",
-      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
-      "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
-      "source": "Cloudflare Blog",
-      "category": "Software",
-      "publishedAt": "2026-11-13T14:00:00Z",
-      "url": "https://blog.cloudflare.com/spend-management",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M79507GNA08VSCSPAXM0NCC3.png"
-    },
-    {
-      "id": "940b542808337faa",
-      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "source": "TechCrunch Security",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-13T13:15:20Z",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis"
-    },
-    {
-      "id": "976c9196bdc5b458",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications…",
-      "source": "MIT Technology Review",
-      "category": "Science",
-      "publishedAt": "2026-11-13T13:10:00Z",
-      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking"
-    },
-    {
-      "id": "050a472a1b93712f",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital…",
-      "source": "MIT Technology Review",
-      "category": "Science",
-      "publishedAt": "2026-11-13T10:00:00Z",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials"
-    },
-    {
-      "id": "eaf76493fdb0b4bf",
-      "title": "GitHub availability report: October 2026",
-      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .",
-      "source": "GitHub Blog",
-      "category": "Software",
-      "publishedAt": "2026-11-13T00:20:16Z",
-      "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026"
-    },
-    {
-      "id": "d121304c3de64e9e",
-      "title": "Build once, run on any agent: A practical guide to agent skills",
-      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared…",
-      "source": "GitHub Blog",
-      "category": "Software",
-      "publishedAt": "2026-11-12T22:54:52Z",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills"
-    },
-    {
-      "id": "0b5401a8842f0b62",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while…",
-      "source": "MIT Technology Review AI",
-      "category": "AI",
-      "publishedAt": "2026-11-12T20:16:24Z",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"
-    },
-    {
-      "id": "4f2e18fc2dc8c3dd",
-      "title": "Meet the people who want peptides to be made in America",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. We'll be taking a break next week and will be back on November 25th…",
-      "source": "The Verge Science",
-      "category": "Science",
-      "publishedAt": "2026-11-12T20:00:00Z",
-      "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha"
-    },
-    {
-      "id": "a20d1e6a0e529bc1",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal…",
-      "source": "The Verge Science",
-      "category": "Science",
-      "publishedAt": "2026-11-12T19:42:40Z",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
-    },
-    {
-      "id": "d458704933992cfa",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-12T19:23:03Z",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
-    },
-    {
-      "id": "d77c24751633c870",
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-12T19:11:00Z",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands"
-    },
-    {
-      "id": "acfb8ed23481a99f",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-12T18:57:45Z",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg"
-    },
-    {
-      "id": "039c74dda2a3b52c",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-      "source": "TechCrunch Security",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-12T17:17:58Z",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks"
-    },
-    {
-      "id": "6cb43935e4fe29e1",
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-12T17:00:00Z",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots"
-    },
-    {
-      "id": "d57ecdb55e1ef8ef",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "summary": "This is the investment firm's largest fund to date.",
-      "source": "TechCrunch Venture",
-      "category": "Funding",
-      "publishedAt": "2026-11-12T15:18:14Z",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund"
-    },
-    {
-      "id": "a3523f73e3129004",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "summary": "This is Fireworks' second data breach in as many months.",
-      "source": "TechCrunch Security",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-12T15:02:28Z",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts"
-    },
-    {
-      "id": "e730f1fd52f7736c",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-12T14:50:17Z",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg"
-    },
-    {
-      "id": "ab16f143c75c9660",
-      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-      "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-      "source": "TechCrunch Security",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-12T14:10:34Z",
-      "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo"
-    },
-    {
-      "id": "8922d709796f6fff",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-12T13:26:25Z",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition"
-    },
-    {
-      "id": "69c02301fa510ed2",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "source": "TechCrunch Venture",
-      "category": "Funding",
-      "publishedAt": "2026-11-11T20:04:28Z",
-      "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze"
-    },
-    {
-      "id": "038f46a4355e8569",
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-11T19:34:55Z",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips"
-    },
-    {
-      "id": "bb27561db5d10d50",
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-11T18:16:40Z",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg"
-    },
-    {
-      "id": "1e2d7b9998cc9ff1",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-11T17:37:32Z",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png"
-    },
-    {
-      "id": "943bd9ebdd36c562",
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease…",
-      "source": "The Verge Science",
-      "category": "Science",
-      "publishedAt": "2026-11-11T15:00:00Z",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
     }
   ]
 }
