@@ -1,10 +1,397 @@
 {
-  "generatedAt": "2026-11-20T20:23:25Z",
+  "generatedAt": "2026-11-21T07:10:14Z",
   "status": "live",
   "successfulFeeds": 19,
   "totalFeeds": 21,
   "articleCount": 360,
   "articles": [
+    {
+      "id": "b8f96101317d5d3a",
+      "title": "Mint Mobile Discounts for November 2026",
+      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/mint-mobile-promo-code",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
+    },
+    {
+      "id": "ecae6d941fd361b6",
+      "title": "Mountain Hardwear Coupon Code 15% Off November",
+      "summary": "High-performance mountaineering and hiking apparel doesn't have to break the bank.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/mountain-hardwear-promo-codes",
+      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
+    },
+    {
+      "id": "881a132c21a91047",
+      "title": "Google Workspace Promo Codes: 14% Off for November 2026",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/google-workspace-promo-code",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png"
+    },
+    {
+      "id": "dd07c1bd9a0e565c",
+      "title": "Motorola Coupon Code for November 2026",
+      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
+      "source": "Wired",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/motorola-coupon-code",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
+    },
+    {
+      "id": "b6650a5bc0b1fd7b",
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/total-wireless-promo-code",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
+    },
+    {
+      "id": "697187ea47083ab3",
+      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
+      "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/nike-promo-code",
+      "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
+    },
+    {
+      "id": "3499b2393ffc6e8e",
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/ulta-coupon",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
+    },
+    {
+      "id": "c8135deb00271f4a",
+      "title": "Therabody Promo Codes: 15% Off November 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
+      "source": "Wired",
+      "category": "Science",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/therabody-promo-code",
+      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg"
+    },
+    {
+      "id": "5639e065fd141e27",
+      "title": "20% Off Brooks Promo Code | November 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/brooks-promo-code",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
+    },
+    {
+      "id": "dcabe22c8051e663",
+      "title": "Uplift Promo Codes: $300 Off",
+      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
+    },
+    {
+      "id": "7092854abe15bd03",
+      "title": "Hostinger Promo Code: 85% Off for November 2026",
+      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/hostinger-coupon-code",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png"
+    },
+    {
+      "id": "02873e31c571e111",
+      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+      "summary": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/hostgator-coupon",
+      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png"
+    },
+    {
+      "id": "8497bc1e7a354a4d",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "summary": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 12 # Comments: 2",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T05:38:01Z",
+      "url": "http://ricapar.net/ClawDOS"
+    },
+    {
+      "id": "06ba43120c6e046c",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "publishedAt": "2026-11-21T04:00:00Z",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature"
+    },
+    {
+      "id": "635d581c26061737",
+      "title": "Backblaze Notice at Collection and Privacy Policy",
+      "summary": "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 150 # Comments: 45",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T03:23:16Z",
+      "url": "https://www.backblaze.com/company/policy/privacy"
+    },
+    {
+      "id": "4940277caa961fbb",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "summary": "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 44 # Comments: 12",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T02:40:39Z",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain"
+    },
+    {
+      "id": "f227f31f7b751244",
+      "title": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again",
+      "summary": "Article URL: https://spectrum.ieee.org/fighting-back-against-deep-fakes Comments URL: https://news.ycombinator.com/item?id=50584429 Points: 28 # Comments: 5",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T00:33:40Z",
+      "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes"
+    },
+    {
+      "id": "f429a070880c9de8",
+      "title": "Why you shouldn't depend on GTA 6 to auto-save",
+      "summary": "We explain how GTA 6's auto-save system works, so you don't accidentally lose progress in the massive game.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-20T23:48:00Z",
+      "url": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save",
+      "image": "https://www.engadget.com/img/gallery/why-you-shouldnt-depend-on-gta-6-to-auto-save/l-intro-1795168337.jpg"
+    },
+    {
+      "id": "657a619d6a0ba629",
+      "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
+      "summary": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-20T23:40:10Z",
+      "url": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts",
+      "image": "https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg"
+    },
+    {
+      "id": "9a9e9d6e4076ab01",
+      "title": "Serious cyberattack thought backed by wealthy operators",
+      "summary": "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 62 # Comments: 32",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T23:29:30Z",
+      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411"
+    },
+    {
+      "id": "201ad5752fd75e25",
+      "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+      "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T23:24:02Z",
+      "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi",
+      "image": "https://media.wired.com/photos/6b008734209518b1b255d3f5/master/pass/Law-Enforcement-GTA-Recruitment-Culture-Lucia_Caminos_05.jpg"
+    },
+    {
+      "id": "61dcc6fa995985d2",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "summary": "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 83 # Comments: 17",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T23:19:44Z",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid"
+    },
+    {
+      "id": "3293eb0f037addf5",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "summary": "I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved…",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T23:18:32Z",
+      "url": "https://news.ycombinator.com/item?id=50583761"
+    },
+    {
+      "id": "e1c97d950edb3018",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 211 # Comments: 56",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T22:30:47Z",
+      "url": "https://ninlive.com/"
+    },
+    {
+      "id": "792d87734c7dd9bb",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T22:28:24Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg"
+    },
+    {
+      "id": "cdb655553e90536b",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 33 #…",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T22:18:20Z",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models"
+    },
+    {
+      "id": "71a47100a2d8b45a",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T22:16:51Z",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg"
+    },
+    {
+      "id": "96e921c4c8760dae",
+      "title": "The Internet Archive's workers are unionizing",
+      "summary": "None of their asks are radical: better pay, additional benefits that apply to everyone and paths for career development and promotion.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-20T22:15:03Z",
+      "url": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing",
+      "image": "https://www.engadget.com/img/gallery/the-internet-archives-workers-are-unionizing/l-intro-1795212757.jpg"
+    },
+    {
+      "id": "ff62a6d0a83feae4",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T21:58:29Z",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg"
+    },
+    {
+      "id": "3d5d84f664cc966e",
+      "title": "How to stream GTA 6 on your iPhone, iPad or Mac",
+      "summary": "If you're excited about GTA 6, chances are you'll want to keep playing it when you're away from your console.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-20T21:50:12Z",
+      "url": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac",
+      "image": "https://www.engadget.com/img/gallery/how-to-stream-gta-6-on-your-iphone-ipad-or-mac/l-intro-1795210531.jpg"
+    },
+    {
+      "id": "66eae4612900f2e7",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T21:47:10Z",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg"
+    },
+    {
+      "id": "bd271598618c4a3c",
+      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
+      "summary": "The historic launch is happening while Rockstar workers vote on union recognition.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-20T21:02:54Z",
+      "url": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
+      "image": "https://www.engadget.com/img/gallery/gta-6-made-3-79-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/l-intro-1795208536.jpg"
+    },
+    {
+      "id": "f22d46a83ecd25c4",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T20:59:08Z",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg"
+    },
+    {
+      "id": "93fd7d717c50effa",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "source": "TechCrunch",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-20T20:58:29Z",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now"
+    },
+    {
+      "id": "28a72b175fa002be",
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T20:43:52Z",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
+    },
+    {
+      "id": "85429396aa089ddf",
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T20:41:17Z",
+      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png"
+    },
+    {
+      "id": "35f068ca468c21a7",
+      "title": "Germany seems to be serious about a TikTok Europe takeover",
+      "summary": "The company has called the idea \"nonsense.\"",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-20T20:35:35Z",
+      "url": "https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover",
+      "image": "https://www.engadget.com/img/gallery/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/l-intro-1795206896.jpg"
+    },
+    {
+      "id": "b6e6571fc353d144",
+      "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
+      "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
+      "source": "Ars Technica",
+      "category": "Science",
+      "publishedAt": "2026-11-20T20:26:33Z",
+      "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg"
+    },
+    {
+      "id": "c5d0ccae2291f912",
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "source": "Cloudflare Blog",
+      "category": "Software",
+      "publishedAt": "2026-11-20T20:24:38Z",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png"
+    },
+    {
+      "id": "e54c27197d1f9855",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "summary": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in…",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T20:19:56Z",
+      "url": "https://github.com/diggerhq/opencomputer"
+    },
     {
       "id": "427b5464a7860dd6",
       "title": "Signal now blocks screenshots by default to stymie AI agents",
@@ -16,6 +403,24 @@
       "image": "https://www.engadget.com/img/gallery/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/l-intro-1795205811.jpg"
     },
     {
+      "id": "bd3614c30b5d6b83",
+      "title": "Inkling 2 Mini",
+      "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 889 # Comments: 164",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T20:12:19Z",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini"
+    },
+    {
+      "id": "24102431fdfe804a",
+      "title": "And yet, it moves",
+      "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/ Comments URL: https://news.ycombinator.com/item?id=50581177 Points: 133 # Comments: 83",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T20:07:55Z",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves"
+    },
+    {
       "id": "0d82df8f43700ea5",
       "title": "Change these settings if you want GTA 6 to feel like old GTA",
       "summary": "If you miss certain aspects of older GTA games, there are few ways you can wind back the clock.",
@@ -24,6 +429,24 @@
       "publishedAt": "2026-11-20T20:05:36Z",
       "url": "https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta",
       "image": "https://www.engadget.com/img/gallery/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/l-intro-1795204938.jpg"
+    },
+    {
+      "id": "a8c812cefc0f3f3f",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 178 # Comments: 44",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T20:03:59Z",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder"
+    },
+    {
+      "id": "0df7b71bba4fa10b",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 267 # Comments: 242",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-20T20:03:07Z",
+      "url": "https://scottaaronson.blog/?p=10344"
     },
     {
       "id": "0c86565354b6242e",
@@ -67,7 +490,7 @@
     {
       "id": "580903835fa712d8",
       "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter…",
+      "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we…",
       "source": "The Verge",
       "category": "Tech",
       "publishedAt": "2026-11-20T19:35:06Z",
@@ -85,7 +508,7 @@
     },
     {
       "id": "861ca51b04b5cf48",
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
       "source": "TechCrunch",
       "category": "Tech",
@@ -95,7 +518,7 @@
     {
       "id": "c3446b23e48f37df",
       "title": "Winedroid – run Android apps without Android (WASM demo)",
-      "summary": "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 16 # Comments: 2",
+      "summary": "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 128 # Comments: 36",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-20T19:30:16Z",
@@ -160,7 +583,7 @@
     {
       "id": "541f0f41a26e8fbe",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "summary": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 618 # Comments: 259",
+      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1865 # Comments: 860",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-20T18:33:14Z",
@@ -189,7 +612,7 @@
     {
       "id": "c884460ec18c9cae",
       "title": "We promoted developers into architects without informing them",
-      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 88 # Comments: 48",
+      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 380 # Comments: 219",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-20T18:17:51Z",
@@ -198,7 +621,7 @@
     {
       "id": "111a51744cb7f878",
       "title": "Vibecoding an inference chip",
-      "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 41 # Comments: 11",
+      "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 136 # Comments: 54",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-20T18:15:16Z",
@@ -311,7 +734,7 @@
     {
       "id": "447c4f9c35ce8af3",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 149 # Comments: 29",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 402 # Comments: 170",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-20T17:21:36Z",
@@ -404,7 +827,7 @@
     {
       "id": "03b179946dd0e551",
       "title": "Language Models Can Rewrite Their Own Weights",
-      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 239 # Comments: 90",
+      "summary": "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 385 # Comments: 116",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-20T16:29:06Z",
@@ -448,15 +871,6 @@
       "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again"
     },
     {
-      "id": "1dd44ac28af8e887",
-      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding…",
-      "source": "The Verge",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T16:00:00Z",
-      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director"
-    },
-    {
       "id": "94c189e0065ab090",
       "title": "Don’t Bring Jensen Back",
       "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It’s a bad idea.",
@@ -465,6 +879,15 @@
       "publishedAt": "2026-11-20T16:00:00Z",
       "url": "https://www.wired.com/story/dont-bring-jensen-back",
       "image": "https://media.wired.com/photos/6aff6b595608d6b32a9beb56/master/pass/Backchannel-Backchannel-Silicon-Valley-Psychosis-Business.jpg"
+    },
+    {
+      "id": "1dd44ac28af8e887",
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwithstanding…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-20T16:00:00Z",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director"
     },
     {
       "id": "0c70052440bacb4a",
@@ -1041,86 +1464,6 @@
       "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
     },
     {
-      "id": "136a2d1ea728c543",
-      "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
-      "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/adorama-promo-code",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png"
-    },
-    {
-      "id": "5299f37995ba8f66",
-      "title": "Ancestry Coupons│50% Off│November 2026",
-      "summary": "Save on family history memberships and DNA kits with the latest Ancestry coupon codes, special offers, and seasonal discounts.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/ancestry-coupon-codes",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png"
-    },
-    {
-      "id": "a2544911f76a9213",
-      "title": "Walgreens Photo Coupons: Up to 70% Off This November 2026",
-      "summary": "Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and health products this fall.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/walgreens-photo-coupon",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png"
-    },
-    {
-      "id": "f4d2aeef20f25418",
-      "title": "Castlery Promo Codes: $600 Off for November 2026",
-      "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/castlery-promo-code",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
-    },
-    {
-      "id": "c6105ba8f6b8195a",
-      "title": "eBay Coupons: 20% Off in November 2026",
-      "summary": "Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/ebay-coupon-code",
-      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg"
-    },
-    {
-      "id": "2e06aef5bec48d9d",
-      "title": "Groupon Promo Codes: 60% Off in November 2026",
-      "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/groupon-promo-code",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg"
-    },
-    {
-      "id": "b97ee58c59407c30",
-      "title": "iRobot Promo Code: 15% Off",
-      "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/irobot-promo-code",
-      "image": "https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png"
-    },
-    {
-      "id": "541a8b807b45fd06",
-      "title": "Dyson Promo Codes: 25% Off in November 2026",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png"
-    },
-    {
       "id": "b06883a0d93591de",
       "title": "Jujutsu Primer",
       "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 29 # Comments: 11",
@@ -1150,70 +1493,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg"
     },
     {
-      "id": "1dfd71750299fd06",
-      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117645038299496084 Comments URL: https://news.ycombinator.com/item?id=50570479 Points: 206 # Comments: 40",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T05:21:02Z",
-      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084"
-    },
-    {
-      "id": "a72b971f1e345351",
-      "title": "FFmpeg 9.1 'Gauss'",
-      "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 52 # Comments: 10",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T04:02:39Z",
-      "url": "https://ffmpeg.org/download.html"
-    },
-    {
-      "id": "26de5cb310a66280",
-      "title": "GIMP now has UI tests",
-      "summary": "Article URL: https://www.gimp.org/news/2026/11/16/gimp-ui-tests/ Comments URL: https://news.ycombinator.com/item?id=50569985 Points: 83 # Comments: 78",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T04:00:24Z",
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests"
-    },
-    {
-      "id": "8f4b09c84fa28de7",
-      "title": "PostgreSQL 19",
-      "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 81 # Comments: 2",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T03:45:45Z",
-      "url": "https://www.postgresql.org/docs/release/19.0"
-    },
-    {
-      "id": "72860ba9b196b158",
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 58 # Comments: 8",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T02:43:49Z",
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat"
-    },
-    {
-      "id": "bd5a3dce8a6b128e",
-      "title": "Fiona the Hippo Died After Eating a Hat. But How Does a Hat Kill a Hippo?",
-      "summary": "The beloved 9-year-old hippo at the Cincinnati Zoo was famous for surviving premature birth. Veterinary experts explain how a 2,500-pound animal can succumb to a knit hat.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-20T02:39:47Z",
-      "url": "https://www.wired.com/story/fiona-the-hippo-died-after-eating-a-hat-but-how-does-a-hat-kill-a-hippo",
-      "image": "https://media.wired.com/photos/6aff6de3747e1608ed3c9a9a/master/pass/RIP-Fiona-the-Hippo-Business-1230298782.jpg"
-    },
-    {
-      "id": "97dffa3b72860b1f",
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 161 # Comments: 86",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T02:01:09Z",
-      "url": "https://github.com/openssl/openssl/pull/33652"
-    },
-    {
       "id": "0e7e896a89b7b7a9",
       "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
       "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
@@ -1222,15 +1501,6 @@
       "publishedAt": "2026-11-20T01:58:29Z",
       "url": "https://blog.cloudflare.com/nginx2root",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png"
-    },
-    {
-      "id": "c158c4882ed3cb2d",
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 88 # Comments: 27",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T01:06:12Z",
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never"
     },
     {
       "id": "dbe111187a465a8a",
@@ -1251,15 +1521,6 @@
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo"
     },
     {
-      "id": "3e1e84b9bb421c57",
-      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
-      "summary": "Article URL: https://www.databricks.com/blog/postgresql-19-available-lakebase Comments URL: https://news.ycombinator.com/item?id=50568643 Points: 49 # Comments: 19",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T00:37:31Z",
-      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase"
-    },
-    {
       "id": "633a67e2de20159c",
       "title": "Anthropic rival says companies can (mostly) skip the pricey models",
       "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
@@ -1267,15 +1528,6 @@
       "category": "Cybersecurity",
       "publishedAt": "2026-11-20T00:26:03Z",
       "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models"
-    },
-    {
-      "id": "aa7ec75adb1948c0",
-      "title": "ChatGPT for SNES",
-      "summary": "Article URL: https://www.bxfoundry.com/chatgpt_snes/ Comments URL: https://news.ycombinator.com/item?id=50568548 Points: 52 # Comments: 15",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T00:25:59Z",
-      "url": "https://www.bxfoundry.com/chatgpt_snes"
     },
     {
       "id": "e032154a5f1bc2f2",
@@ -1317,16 +1569,6 @@
       "image": "https://www.engadget.com/img/gallery/leaked-images-may-show-motorolas-answer-to-the-iphone-duo/l-intro-1795129766.jpg"
     },
     {
-      "id": "b120f174b60cbd23",
-      "title": "Dudes Online Are So Mad That ‘Grand Theft Auto 6’ Makes Them Respect Women",
-      "summary": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-19T23:12:17Z",
-      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women",
-      "image": "https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/master/pass/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg"
-    },
-    {
       "id": "cff6f9dc5a882a5e",
       "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
       "summary": "Meta's standalone AI gadget won't be cheap, but it might come with a free data plan.",
@@ -1355,15 +1597,6 @@
       "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
     },
     {
-      "id": "eb44d756013f2ff8",
-      "title": "RegExr: Temporarily Offline",
-      "summary": "Article URL: https://regexr.com/ Comments URL: https://news.ycombinator.com/item?id=50567374 Points: 70 # Comments: 38",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-19T22:27:07Z",
-      "url": "https://regexr.com/"
-    },
-    {
       "id": "b3b89bf75b3862de",
       "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
       "summary": "Amazon now uses its shopping platform for political purposes.",
@@ -1372,16 +1605,6 @@
       "publishedAt": "2026-11-19T22:16:37Z",
       "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg"
-    },
-    {
-      "id": "ae832c12cdb19ec3",
-      "title": "Best Amazon Black Friday Deals (2026)",
-      "summary": "For die-hard Amazon shoppers, the retailer is starting Black Friday early. You can shop the deals from now until November 30.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-19T22:02:12Z",
-      "url": "https://www.wired.com/story/amazon-black-friday-november-2026-early-deals",
-      "image": "https://media.wired.com/photos/6af39cc2b435cf5927e355e7/master/pass/Amazon%E2%80%99s-Black-Friday-Sale-Starts-Next-Week,-but-Deals-Are-Already-Live.jpg"
     },
     {
       "id": "a16a060150c59a52",
@@ -1400,16 +1623,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-19T21:58:06Z",
       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300"
-    },
-    {
-      "id": "7cdd1365e307bf1b",
-      "title": "What’s With All These Outages?",
-      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
-      "source": "Wired",
-      "category": "Funding",
-      "publishedAt": "2026-11-19T21:57:01Z",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages",
-      "image": "https://media.wired.com/photos/6afe24032a6a9296f65dbfa1/master/pass/Uncanny-Valley-FAA-Outage-Business.jpg"
     },
     {
       "id": "87b2502506d7cb89",
@@ -1459,25 +1672,6 @@
       "image": "https://www.engadget.com/img/gallery/meta-quest-adds-3d-movie-purchases-and-rentals-to-its-tv-app/l-intro-1795122255.jpg"
     },
     {
-      "id": "b90df0b3de54426b",
-      "title": "Rebuilding my local voice assistant pipeline",
-      "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 95 # Comments: 14",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-19T20:57:14Z",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline"
-    },
-    {
-      "id": "baeac3057af8cd91",
-      "title": "The Best Hatch Black Friday Deals (2026)",
-      "summary": "Grab the Hatch Sleep Clock for $188 (25 percent off) at Hatch or Amazon through November 30.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-19T20:44:44Z",
-      "url": "https://www.wired.com/story/hatch-black-friday-deals-2026",
-      "image": "https://media.wired.com/photos/6aff45858b074d85bf38a65e/master/pass/Wake-Up,-The-Hatch-Sleep-Clock-Is-on-Sale-Ahead-of-Black-Friday.jpg"
-    },
-    {
       "id": "601c58d4ff516540",
       "title": "You can now purchase the 512GB Steam Machine like a normal console",
       "summary": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
@@ -1520,8 +1714,8 @@
       "id": "6844576f831e5af2",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch",
-      "category": "Tech",
+      "source": "TechCrunch AI",
+      "category": "AI",
       "publishedAt": "2026-11-19T20:18:49Z",
       "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
     },
@@ -1604,8 +1798,8 @@
       "id": "694eda7767094817",
       "title": "Anthropic’s IPO could deliver $156B to charity",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "source": "TechCrunch",
-      "category": "Funding",
+      "source": "TechCrunch AI",
+      "category": "AI",
       "publishedAt": "2026-11-19T19:10:45Z",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity"
     },
@@ -1630,15 +1824,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
     },
     {
-      "id": "c51551cd2d791f85",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=lwfewYL7X0o Comments URL: https://news.ycombinator.com/item?id=50564366 Points: 99 # Comments: 193",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-19T18:47:16Z",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o"
-    },
-    {
       "id": "0a0b303c5374aa54",
       "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
       "summary": "Some models fare better, but all fail in similar ways.",
@@ -1657,15 +1842,6 @@
       "publishedAt": "2026-11-19T18:41:26Z",
       "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion",
       "image": "https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg"
-    },
-    {
-      "id": "c50a064b65c55ff5",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 253 # Comments: 142",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-19T18:35:17Z",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine"
     },
     {
       "id": "a0bdb17605c14738",
@@ -1752,15 +1928,6 @@
       "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says"
     },
     {
-      "id": "5fe21d2b4ecab0b0",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 461 # Comments: 218",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-19T17:30:44Z",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics"
-    },
-    {
       "id": "2c1a5d7a182a265d",
       "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
       "summary": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that's still in the works.",
@@ -1779,36 +1946,6 @@
       "publishedAt": "2026-11-19T17:23:58Z",
       "url": "https://www.engadget.com/2321965/you-wont-find-this-fan-favorite-feature-in-gta-6",
       "image": "https://www.engadget.com/img/gallery/you-wont-find-this-fan-favorite-feature-in-gta-6/l-intro-1795108962.jpg"
-    },
-    {
-      "id": "8eb1e05e45fbbae7",
-      "title": "How to switch camera views in GTA 6",
-      "summary": "The game only offers a first-person perspective in very limited circumstances.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T17:18:44Z",
-      "url": "https://www.engadget.com/2321960/gta-6-how-to-switch-camera-views",
-      "image": "https://www.engadget.com/img/gallery/how-to-switch-camera-views-in-gta-6/l-intro-1795108533.jpg"
-    },
-    {
-      "id": "378bd4cf6cf2c115",
-      "title": "How to adjust and turn off motion blur in GTA 6 if it makes you feel sick",
-      "summary": "GTA 6's motion blur effect is thankfully easy to adjust.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T17:09:54Z",
-      "url": "https://www.engadget.com/2321944/gta-6-how-to-adjust-turn-off-blur-motion",
-      "image": "https://www.engadget.com/img/gallery/how-to-adjust-and-turn-off-motion-blur-in-gta-6-if-it-makes-you-feel-sick/l-intro-1795087374.jpg"
-    },
-    {
-      "id": "ffc256a3caa454f9",
-      "title": "Here are some photos of Elon Musk, who is 'not MAGA'",
-      "summary": "He's not even sure what that means, guys.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T17:01:15Z",
-      "url": "https://www.engadget.com/2321922/here-are-some-photos-of-elon-musk-who-is-not-maga",
-      "image": "https://www.engadget.com/img/gallery/here-are-some-photos-of-elon-musk-who-is-not-maga/l-intro-1795108110.jpg"
     },
     {
       "id": "a01e91531918f8e7",
@@ -1837,16 +1974,6 @@
       "category": "AI",
       "publishedAt": "2026-11-19T16:59:23Z",
       "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price"
-    },
-    {
-      "id": "3615ff41d240122d",
-      "title": "Change these Xbox Series X/S settings before playing GTA 6",
-      "summary": "For the best possible Grand Theft Auto VI experience, change these settings on your Xbox Series X/S to squeeze out every bit of performance.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T16:55:20Z",
-      "url": "https://www.engadget.com/2320713/xbox-series-x-s-settings-change-before-playing-gta-6",
-      "image": "https://www.engadget.com/img/gallery/change-these-xbox-series-xs-settings-before-gta-6-comes-out/l-intro-1795019724.jpg"
     },
     {
       "id": "294f494c3d9f12c9",
@@ -1943,16 +2070,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg"
     },
     {
-      "id": "fb82e56d89bf6f31",
-      "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
-      "summary": "Pebble's AI ring has a single purpose, is cheap and low-tech - but it's very useful.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T14:30:00Z",
-      "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review",
-      "image": "https://www.engadget.com/img/gallery/pebble-index-01-ai-ring-review-when-a-single-feature-becomes-the-product/l-intro-1795097160.jpg"
-    },
-    {
       "id": "60ff07a70f51c369",
       "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
       "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial…",
@@ -2017,16 +2134,6 @@
       "publishedAt": "2026-11-19T13:40:02Z",
       "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/art002e012476large-1152x648.jpg"
-    },
-    {
-      "id": "a6e103b2279c067e",
-      "title": "Rockstar says that GTA 6's map has room to expand for future storylines",
-      "summary": "Rockstar's VP of design Stephen Donkin told 'Kotaku' that GTA VI's map 'has been built for the long term.'",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T13:30:02Z",
-      "url": "https://www.engadget.com/2321545/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines",
-      "image": "https://www.engadget.com/img/gallery/rockstar-says-that-gta-6s-map-has-room-to-expand-for-future-storylines/l-intro-1795094910.jpg"
     },
     {
       "id": "6518ce7829a96e8c",
@@ -2678,26 +2785,6 @@
       "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots"
     },
     {
-      "id": "83edd64097dbc83e",
-      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
-      "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T16:58:32Z",
-      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg"
-    },
-    {
-      "id": "ce4b9c0b37928272",
-      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T16:24:34Z",
-      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg"
-    },
-    {
       "id": "e6de34d7c9a098b0",
       "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
       "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
@@ -2790,16 +2877,6 @@
       "publishedAt": "2026-11-18T14:10:12Z",
       "url": "https://techfundingnews.com/vmg-technology-leads-speakeasys-18-8m-series-a-to-build-an-operating-system-for-live-experiences",
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Speakeasy-.jpg"
-    },
-    {
-      "id": "a2083ccb99486aad",
-      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T14:01:45Z",
-      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg"
     },
     {
       "id": "3ec2d3c2f71f20b0",
@@ -2907,16 +2984,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg"
     },
     {
-      "id": "801b2a69f4a12c55",
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-      "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T12:15:44Z",
-      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg"
-    },
-    {
       "id": "e3f6e444c8dea912",
       "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
       "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't…",
@@ -2991,16 +3058,6 @@
       "publishedAt": "2026-11-18T11:03:57Z",
       "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg"
-    },
-    {
-      "id": "02c7594e357016c5",
-      "title": "Grand Theft Auto VI: The Ars Technica review",
-      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T11:00:27Z",
-      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg"
     },
     {
       "id": "a620e98d8784f889",
@@ -3220,16 +3277,6 @@
       "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
     },
     {
-      "id": "20721672b7ad219a",
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T23:09:09Z",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
-    },
-    {
       "id": "7c1076c2aa096bde",
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
       "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
@@ -3237,16 +3284,6 @@
       "category": "Software",
       "publishedAt": "2026-11-17T23:04:35Z",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
-    },
-    {
-      "id": "d85dd6f4fcb53fdb",
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T22:44:46Z",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg"
     },
     {
       "id": "fc38b51a6db9bccf",
@@ -3330,15 +3367,6 @@
       "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang"
     },
     {
-      "id": "885aae1d1e966b41",
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic…",
-      "source": "The Verge",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T21:38:08Z",
-      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning"
-    },
-    {
       "id": "10493fa85ddbf2d5",
       "title": "Google joins the tech outage trend by announcing it’s not having one",
       "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
@@ -3394,33 +3422,6 @@
       "category": "AI",
       "publishedAt": "2026-11-17T19:32:11Z",
       "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work"
-    },
-    {
-      "id": "af36944b8f532014",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "publishedAt": "2026-11-17T19:02:20Z",
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases"
-    },
-    {
-      "id": "20774146b79ca781",
-      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring…",
-      "source": "The Verge AI",
-      "category": "AI",
-      "publishedAt": "2026-11-17T18:58:01Z",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free"
-    },
-    {
-      "id": "1a64c73f5f933af8",
-      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
-      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
-      "source": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T18:55:40Z",
-      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage"
     }
   ]
 }
