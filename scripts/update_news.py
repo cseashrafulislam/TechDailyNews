@@ -136,6 +136,19 @@ def category_for(title, description, default):
     return 'Tech'
 
 
+TECH_LOCAL_RE = re.compile(
+    r"\b(?:tech(?:nology)?|ai|artificial intelligence|ict|digital|internet|btrc|"
+    r"telecom|5g|4g|mobile|smartphone|gadget|gaming|startup|robot|software|"
+    r"computer|broadband|cyber(?:security)?|data center|e-?commerce|fintech|"
+    r"financing platform|app|apps|semiconductor|cloud|innovation|online|"
+    r"facebook|youtube|google|microsoft)\b|"
+    r"প্রযুক্তি|তথ্যপ্রযুক্তি|ডিজিটাল|ইন্টারনেট|মোবাইল|সাইবার|স্টার্টআপ|"
+    r"রোবট|বিটিআরসি|টেলিকম|স্মার্টফোন|অ্যাপ|সফটওয়্যার|গেমিং",
+    re.IGNORECASE,
+)
+def is_tech_local(item):
+    return bool(TECH_LOCAL_RE.search(item.get('title') or ''))
+
 def image_from(entry):
     for path in (MEDIA + 'thumbnail', MEDIA + 'content', 'enclosure'):
         for element in entry.findall(path):
@@ -213,7 +226,10 @@ def fetch_one(feed, now):
             raw = response.read(limit + 1)
         if len(raw) > limit:
             raise ValueError('RSS feed too large')
-        return source, parse_feed(raw, source, category, now), None
+        articles = parse_feed(raw, source, category, now)
+        if source.startswith('Digi Bangla'):
+            articles = [article for article in articles if is_tech_local(article)]
+        return source, articles, None
     except Exception as error:
         return source, [], str(error)
 
@@ -227,6 +243,8 @@ def curate(previous, new, now):
     records = sorted(new + previous, key=lambda item: item.get('publishedAt') or '', reverse=True)
     for article in records:
         if not isinstance(article, dict):
+            continue
+        if str(article.get('source', '')).startswith('Digi Bangla') and not is_tech_local(article):
             continue
         url = canonical(article.get('url'))
         title = clean(article.get('title'), 210)
