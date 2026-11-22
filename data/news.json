@@ -1,10 +1,23 @@
 {
-  "generatedAt": "2026-11-22T18:21:42Z",
+  "generatedAt": "2026-11-22T18:23:29Z",
   "status": "live",
   "successfulFeeds": 23,
   "totalFeeds": 24,
   "articleCount": 360,
   "articles": [
+    {
+      "id": "b9e80bb8713be977",
+      "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
+      "summary": "If you've expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T18:15:00Z",
+      "url": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings",
+      "image": "https://www.engadget.com/img/gallery/11-types-of-smart-gadgets-to-consider-pairing-with-your-ring-doorbell/l-intro-1794591638.jpg"
+    },
     {
       "id": "47b2738e2872fd88",
       "title": "Why data centers are at the center of the Big Tech backlash",
@@ -54,19 +67,6 @@
       "publishedAt": "2026-11-22T17:45:00Z",
       "url": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail",
       "image": "https://www.engadget.com/img/gallery/you-can-mass-delete-all-of-your-emails-on-gmail-in-only-a-few-clicks/l-intro-1794781970.jpg"
-    },
-    {
-      "id": "45cf4b537f338623",
-      "title": "Bending Spoons Acquires Mailchimp for $3.68 Billion",
-      "summary": "",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T17:35:37Z",
-      "url": "https://digibanglatech.news/196444",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b02965b87275.jpg"
     },
     {
       "id": "49f10b8ee6093921",
@@ -458,19 +458,6 @@
       "image": "https://www.engadget.com/img/gallery/apple-airpods-5-vs-airpods-pro-3-what-are-the-key-differences/l-intro-1794426870.jpg"
     },
     {
-      "id": "1d423a73eb7354b4",
-      "title": "Six BMU specialists elected to OGSB committee",
-      "summary": "Six BMU specialists elected to new OGSB executive committee Professors Kazi Farhana and Tabassum Parvin named Treasurer, Scientific…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T13:28:32Z",
-      "url": "https://digibanglatech.news/196442",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b031fa5ef0be.jpg"
-    },
-    {
       "id": "c4646672c65e633f",
       "title": "How Tamagotchis got us hooked on digital pets",
       "summary": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a crying…",
@@ -530,19 +517,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-22T13:00:00Z",
       "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
-    },
-    {
-      "id": "9b267d6783fd106d",
-      "title": "Miraj appointed BAHASF's new president, Inan as secretary",
-      "summary": "BAHSF announced a 154-member full committee for one year. Sheikh Md. Miraj Uddin became President; Syed Inan General…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T12:40:56Z",
-      "url": "https://digibanglatech.news/196445",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b03265ac0461.jpg"
     },
     {
       "id": "1b8e86bacab88e53",
@@ -623,19 +597,6 @@
       "image": "https://media.wired.com/photos/6b0080a25f35c47a5c116087/master/pass/GettyImages-2285133719.jpg"
     },
     {
-      "id": "f2ed7d42ebd96f54",
-      "title": "Dhaka Gamers Experience GTA VI on Launch Day",
-      "summary": "Dhaka gamers got access on the global launch day The first 100 attendees had the chance to play Gigabyte and AORUS showcased their latest hardware",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T10:32:26Z",
-      "url": "https://digibanglatech.news/196424",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b02dd1080623.jpg"
-    },
-    {
       "id": "d7a87db5f1674b36",
       "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
       "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
@@ -699,19 +660,6 @@
       "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power"
     },
     {
-      "id": "d2328ab2cde5f7ca",
-      "title": "Android Phone Care: Common Mistakes to Avoid",
-      "summary": "",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T07:25:00Z",
-      "url": "https://digibanglatech.news/196422",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b02902e5327a.jpg"
-    },
-    {
       "id": "4c603406c2ef68d6",
       "title": "Notes on the discrete Fourier transform (DFT)",
       "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 77 # Comments: 10",
@@ -722,32 +670,6 @@
       "category": "Software",
       "publishedAt": "2026-11-22T06:52:25Z",
       "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft"
-    },
-    {
-      "id": "999517cddc550850",
-      "title": "Musnad Win National SME Awards",
-      "summary": "Musnad receives the technology-driven creative entrepreneur award Mashrur Shurid wins for his agritech venture, Aunkur AI Musnad raises capital access and global branding concerns",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Startups",
-      "publishedAt": "2026-11-22T06:29:42Z",
-      "url": "https://digibanglatech.news/196410",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0305942587b.jpg"
-    },
-    {
-      "id": "0056862cd03382f7",
-      "title": "Grameenphone wins ICSB Corporate Governance Gold Award",
-      "summary": "Grameenphone won Gold Award at 13th ICSB Corporate Governance Excellence Award received from Commerce Minister Khandakar Abdul Muktadir in…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T05:27:56Z",
-      "url": "https://digibanglatech.news/196437",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0317728162e.jpg"
     },
     {
       "id": "6d087c898942cc0c",
@@ -776,45 +698,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
     },
     {
-      "id": "597b7357dbf1fa9e",
-      "title": "Akij Readymix honors nine engineers and architects",
-      "summary": "Nine eminent engineers and architects honored for infrastructure contributions Akij Readymix and Building Solutions officially received ISO…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T04:33:51Z",
-      "url": "https://digibanglatech.news/196439",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0318f44080b.jpg"
-    },
-    {
-      "id": "9993354f6773c4b8",
-      "title": "Kim's Secret Weapon: North Korea's Hacker Army",
-      "summary": "North Korea selects 150–200 talented students annually Successful hackers receive cash, luxury apartments and elite status. South Korea estimated 8,400 cyber personnel in 2024",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-22T04:31:18Z",
-      "url": "https://digibanglatech.news/196394",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0291bbccf52.jpg"
-    },
-    {
-      "id": "366169c6d2df5701",
-      "title": "Soumitra Saha Wins YUNet AIgnite Buildathon",
-      "summary": "Top 20 finalists presented AI-powered projects Soumitra Saha from Jahangirnagar University became champion Participants developed applications addressing real-world challenges",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T04:22:32Z",
-      "url": "https://digibanglatech.news/196390",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0288aab90e2.jpg"
-    },
-    {
       "id": "2a3dc20019c6a4be",
       "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
       "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 138 # Comments: 100",
@@ -837,32 +720,6 @@
       "category": "Software",
       "publishedAt": "2026-11-22T04:04:56Z",
       "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs"
-    },
-    {
-      "id": "912d0e88a7746655",
-      "title": "FBI and US Agriculture Department Hit by Major Cyberattacks",
-      "summary": "",
-      "source": "Digi Bangla English",
-      "countries": [
-        "US"
-      ],
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-22T03:40:00Z",
-      "url": "https://digibanglatech.news/196425",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b028eeddb419.jpg"
-    },
-    {
-      "id": "576641b8ba252065",
-      "title": "Metro rail to Kamalapur opens July 2027",
-      "summary": "Regular passenger service to Kamalapur begins in July 2027 Adding 1. 16 km will expand route to 17 stations",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T03:31:45Z",
-      "url": "https://digibanglatech.news/196381",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b027d4c9b797.jpg"
     },
     {
       "id": "31dbae397b46d6b3",
@@ -1180,19 +1037,6 @@
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance"
     },
     {
-      "id": "5cbc47ca5b08c0fb",
-      "title": "How long can fiber optic cables be before they lose signal?",
-      "summary": "Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T21:30:00Z",
-      "url": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal",
-      "image": "https://www.engadget.com/img/gallery/how-long-can-fiber-optic-cables-be-before-they-lose-signal/l-intro-1794846286.jpg"
-    },
-    {
       "id": "58996b7311d70d67",
       "title": "Advice for the next 100 Rust GUIs",
       "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 240 # Comments: 133",
@@ -1385,19 +1229,6 @@
       "url": "https://math.mit.edu/~drew/grh"
     },
     {
-      "id": "431fd2511ff475b3",
-      "title": "JUST PTR department celebrates 8th founding anniversary",
-      "summary": "JUST Physiotherapy and Rehabilitation department celebrated its 8th anniversary First alumni association election and musculoskeletal…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T15:39:23Z",
-      "url": "https://digibanglatech.news/196377",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0261dd9910c.jpg"
-    },
-    {
       "id": "d8640923d2430592",
       "title": "Show HN: Zero C# – C# without a runtime or GC",
       "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 149 # Comments: 104",
@@ -1444,19 +1275,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-21T14:55:28Z",
       "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale"
-    },
-    {
-      "id": "0e20ee7f745f1ae9",
-      "title": "PKSF Offers 6% Interest Loans for Rooftop Solar Installation",
-      "summary": "21, 000 customers to receive loans from BDT 500 crore fund Initiative to generate approximately 40 megawatts of solar power…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T14:42:28Z",
-      "url": "https://digibanglatech.news/196368",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b01d9c41eca0.jpg"
     },
     {
       "id": "5c6d12478082daa5",
@@ -1555,19 +1373,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-21T13:00:00Z",
       "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer"
-    },
-    {
-      "id": "0d33f0e52d5d14fa",
-      "title": "Sirajganj to Become ‘Cataract-Free’ in Two Years: State Minister",
-      "summary": "Free 50, 000 cataract surgeries to restore sight for 26, 000 people Target set to declare Sirajganj cataract-free on…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T12:05:30Z",
-      "url": "https://digibanglatech.news/196364",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b01cea3d6ebd.jpg"
     },
     {
       "id": "782cb492ea3529a6",
@@ -1673,19 +1478,6 @@
       "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b019ca994815.jpg"
     },
     {
-      "id": "ed3ea5be4da8758b",
-      "title": "GTA VI Generates $3.79 Billion, Sets All-Time Entertainment Launch Record",
-      "summary": "First-day sales reached $3.79 billion Pre-release sales totalled 32.5 million copies Revenue nearly quintupled GTA V's first-day record",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T11:15:42Z",
-      "url": "https://digibanglatech.news/196361",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0143956a460.jpg"
-    },
-    {
       "id": "3b426a1ae4872b68",
       "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
       "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected…",
@@ -1763,19 +1555,6 @@
       "image": "https://media.wired.com/photos/6b00e9307020ceeb4716a30e/master/pass/W-24.jpg"
     },
     {
-      "id": "e46e2449a1506e78",
-      "title": "‘Biogas Villages’ Planned to Tackle Rural Energy Crisis",
-      "summary": "Simplified loans to establish biogas plants in every village ‘Youth Council’ to be formed soon to unite organizers",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T09:14:20Z",
-      "url": "https://digibanglatech.news/196350",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b01a4e7093d7.jpg"
-    },
-    {
       "id": "31d4657347764d83",
       "title": "DUCSU Computer Lab Plaque Vandalized at SM Hall Day After Launch",
       "summary": "Plaque damaged Friday night, a day after five-computer lab opened Thursday afternoon DUCSU blames Chhatra Dal; hall Chhatra Dal denies…",
@@ -1827,19 +1606,6 @@
       "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
     },
     {
-      "id": "3feec402c3070726",
-      "title": "Vice-Chancellor Building Locked, CUET Researchers Unpaid for Five Months",
-      "summary": "Researcher salaries held up due to administrative gridlock despite UGC allocation Faculty and officers deprived as new national pay scale…",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Science",
-      "publishedAt": "2026-11-21T07:59:06Z",
-      "url": "https://digibanglatech.news/196312",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0164670922f.jpg"
-    },
-    {
       "id": "2cbb30fbe3dc96a8",
       "title": "Trump Threatens Heavy Taxes and Penalties on US Tech Firms Building Data Centres Abroad",
       "summary": "",
@@ -1851,32 +1617,6 @@
       "publishedAt": "2026-11-21T07:47:09Z",
       "url": "https://digibanglatech.news/196343",
       "image": "https://digibanglatech.news/uploads/images/202502/image_870x580_67bea29f1b5bb.jpg"
-    },
-    {
-      "id": "7ddb45d8351fb43f",
-      "title": "Police Reject Claims of Attacks on Hindu Homes in Narail",
-      "summary": "Police call reports of attacks on Hindu homes in Bendarchar false and fabricated Circulating videos termed old and generated using artificial…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T07:35:50Z",
-      "url": "https://digibanglatech.news/196324",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b01736c9519f.jpg"
-    },
-    {
-      "id": "cdc53a767e18baef",
-      "title": "IAEA recognizes Rooppur nuclear plant's emergency preparedness",
-      "summary": "IAEA recognized Rooppur's on-site emergency response and safety infrastructure. Five recommendations made to strengthen national inter-agency…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T06:57:19Z",
-      "url": "https://digibanglatech.news/196332",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0191903a048.jpg"
     },
     {
       "id": "73b8e6cd4b52d07c",
@@ -1891,43 +1631,17 @@
       "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed"
     },
     {
-      "id": "39cd49220de72007",
-      "title": "PRAN Sees Major Potential in Agri-Processed Exports",
-      "summary": "Lags behind Vietnam and Thailand, yet strong export prospects exist in Seven Sisters, US, and Africa Land…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T06:42:22Z",
-      "url": "https://digibanglatech.news/196326",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0174f7a9900.jpg"
-    },
-    {
-      "id": "52a4a45c3bce3aea",
-      "title": "Win iPhone 18 Pro Max with BWOO Products",
-      "summary": "Over 6, 000 prizes available via scratch cards on BWOO purchases Mega prizes include iPhone 18 Pro Max, smart…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T06:29:37Z",
-      "url": "https://digibanglatech.news/196366",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b01d4807213b.jpg"
-    },
-    {
-      "id": "b8f96101317d5d3a",
-      "title": "Mint Mobile Discounts for November 2026",
-      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "id": "c8135deb00271f4a",
+      "title": "Therabody Promo Codes: 15% Off November 2026",
+      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
       "source": "Wired",
       "countries": [
         "WORLD"
       ],
-      "category": "Tech",
+      "category": "Science",
       "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/mint-mobile-promo-code",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
+      "url": "https://www.wired.com/story/therabody-promo-code",
+      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg"
     },
     {
       "id": "ecae6d941fd361b6",
@@ -1969,43 +1683,17 @@
       "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
     },
     {
-      "id": "c8135deb00271f4a",
-      "title": "Therabody Promo Codes: 15% Off November 2026",
-      "summary": "Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.",
-      "source": "Wired",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Science",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/therabody-promo-code",
-      "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg"
-    },
-    {
-      "id": "3499b2393ffc6e8e",
-      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "id": "b8f96101317d5d3a",
+      "title": "Mint Mobile Discounts for November 2026",
+      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
       "source": "Wired",
       "countries": [
         "WORLD"
       ],
       "category": "Tech",
       "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/ulta-coupon",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
-    },
-    {
-      "id": "5639e065fd141e27",
-      "title": "20% Off Brooks Promo Code | November 2026",
-      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "source": "Wired",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/brooks-promo-code",
-      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
+      "url": "https://www.wired.com/story/mint-mobile-promo-code",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png"
     },
     {
       "id": "dd07c1bd9a0e565c",
@@ -2032,6 +1720,32 @@
       "publishedAt": "2026-11-21T06:00:00Z",
       "url": "https://www.wired.com/story/total-wireless-promo-code",
       "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
+    },
+    {
+      "id": "3499b2393ffc6e8e",
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "source": "Wired",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/ulta-coupon",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
+    },
+    {
+      "id": "5639e065fd141e27",
+      "title": "20% Off Brooks Promo Code | November 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "source": "Wired",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/brooks-promo-code",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
     },
     {
       "id": "7092854abe15bd03",
@@ -2073,19 +1787,6 @@
       "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
     },
     {
-      "id": "fca677003cbd130a",
-      "title": "790 Bangladeshi students win Pearson Learner Awards",
-      "summary": "790 Bangladeshi students received 853 awards across four categories 32 students achieved the highest marks in the world",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T05:11:45Z",
-      "url": "https://digibanglatech.news/196379",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0278d243486.jpg"
-    },
-    {
       "id": "06ba43120c6e046c",
       "title": "Startup sues Apple in India over tap-to-share contacts feature",
       "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
@@ -2096,19 +1797,6 @@
       "category": "Startups",
       "publishedAt": "2026-11-21T04:00:00Z",
       "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature"
-    },
-    {
-      "id": "4d749d1019d27898",
-      "title": "Over Tk 200 Crore Migration Loans Approved via myGov",
-      "summary": "Over 10, 000 applications received; loan approval takes 3-4 days Up to Tk 3 lakh loan offered at 9% interest rate Digital process cuts applicant time and cost by 50%",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-21T03:55:58Z",
-      "url": "https://digibanglatech.news/196308",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b015a3439379.jpg"
     },
     {
       "id": "201ad5752fd75e25",
@@ -2914,19 +2602,6 @@
       "image": "https://media.wired.com/photos/6affa2c5fc894cda63c23f38/master/pass/Roborock%E2%80%99s-Early-Black-Friday-Sale-Isn%E2%80%99t-One-to-Miss.jpg"
     },
     {
-      "id": "dedd687ce0a85164",
-      "title": "Education Minister Announces Overhaul of Munshiganj Polytechnic Institute",
-      "summary": "Plans to establish four engineering colleges and modernize nine polytechnics Emphasis on technical and vocational training for outbound…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-20T12:10:11Z",
-      "url": "https://digibanglatech.news/196310",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b015eae7e632.jpg"
-    },
-    {
       "id": "50821489d0a46688",
       "title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine",
       "summary": "Quantum Systems and Frontline Robotics will commit more than €10 million to Ukraine to strengthen long-term support capacity for unmanned systems – arriving amid over €1.8 billion in European DefenceTech financing reported by EU-Startups in 2026. The joint…",
@@ -3168,19 +2843,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg"
     },
     {
-      "id": "ac4dc995447a77fd",
-      "title": "Election Set for December 18",
-      "summary": "Nine executive posts will be contested Nomination forms available November 21–23 Final results due December 21",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-20T02:14:51Z",
-      "url": "https://digibanglatech.news/196283",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b00702de1669.jpg"
-    },
-    {
       "id": "0e7e896a89b7b7a9",
       "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
       "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here’s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
@@ -3192,32 +2854,6 @@
       "publishedAt": "2026-11-20T01:58:29Z",
       "url": "https://blog.cloudflare.com/nginx2root",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png"
-    },
-    {
-      "id": "8266f9b06cbd626c",
-      "title": "Sher-e-Bangla Agricultural University Cuts Convocation Fees Again",
-      "summary": "Certificate fees reduced by Tk 1,000 across all programmes Registration fee previously cut from Tk 4,000 to Tk 3,000 Excess payments by earlier registrants will be refunded",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-20T01:28:38Z",
-      "url": "https://digibanglatech.news/196242",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6affda7a0740d.jpg"
-    },
-    {
-      "id": "c7abe44fa63d9413",
-      "title": "Seventh Uranium Shipment Reaches Rooppur",
-      "summary": "Three specialized trucks delivered uranium under tight security Seven shipments have reached the project site First unit has begun supplying 350 MW to the national grid",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-20T01:12:22Z",
-      "url": "https://digibanglatech.news/196229",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6affbf5da48fa.jpg"
     },
     {
       "id": "dbe111187a465a8a",
@@ -3625,19 +3261,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg"
     },
     {
-      "id": "c6cd8ef4ab2317c2",
-      "title": "e-CAB Polls Rescheduled for February 13 with Revised Tenure",
-      "summary": "December 19 polls suspended following allegations of candidate harassment during nomination Revised election schedule announced for 2027–2029…",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T18:00:00Z",
-      "url": "https://digibanglatech.news/196226",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6affbc45a7929.jpg"
-    },
-    {
       "id": "47396adf5e31273b",
       "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
       "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
@@ -3710,19 +3333,6 @@
       "category": "AI",
       "publishedAt": "2026-11-19T16:52:01Z",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq"
-    },
-    {
-      "id": "c495bfcc6ec329b7",
-      "title": "Instagram Introduces 15-Minute Story Editing Feature After Publication",
-      "summary": "",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T16:39:23Z",
-      "url": "https://digibanglatech.news/196209",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6afea3621ad80.jpg"
     },
     {
       "id": "5588a655ef3b7a39",
@@ -3860,19 +3470,6 @@
       "publishedAt": "2026-11-19T14:04:38Z",
       "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg"
-    },
-    {
-      "id": "79c46b3ce233d67f",
-      "title": "Priority for Local Industries and Small Entrepreneurs in Procurement",
-      "summary": "Draft PPR 2026 prioritizes local industries and new-micro entrepreneurs Stakeholder workshop in Sher-e-Bangla Nagar urges swift…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Startups",
-      "publishedAt": "2026-11-19T14:03:11Z",
-      "url": "https://digibanglatech.news/196223",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff45b639002.jpg"
     },
     {
       "id": "f92470a8456375e2",
@@ -4022,19 +3619,6 @@
       "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding"
     },
     {
-      "id": "767ccdf862f72a32",
-      "title": "48 Science Projects Exhibited in Chattogram, 13 Selected",
-      "summary": "48 science projects from nine institutions showcased at CVASU 13 projects selected across 10 fields for Dhaka finals",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Science",
-      "publishedAt": "2026-11-19T11:56:48Z",
-      "url": "https://digibanglatech.news/196210",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff2a3a1e599.jpg"
-    },
-    {
       "id": "f2153c7cf80ccc8d",
       "title": "Munich-based Vetaion raises €5.7 million to automate control cabinet manufacturing with AI and robotics",
       "summary": "Vetaion, a Munich-based company that automates the manufacturing of custom electrical control cabinets, has closed a €5.7 million pre-Seed financing round to scale its production in Munich and grow its team. The round was co-led by Visionaries Tomorrow and…",
@@ -4060,45 +3644,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC0roCfV92el2-gLSGwmumyjXgCjHookzwGjft2a6UWPZA1QvyrazDNLTvlZrF1F5iagg74JxnPEXbnK60OEeJuFNo2Fc2xcNSnJCeNw9BLu_y-lsRhrpO6s1End2gdDDlRU_r4wysTiiJS4ZKPDTmWK152psFdhxRizlSJZFCjnYr6nnamRsUciEJui4/s1600/php-app.jpg"
     },
     {
-      "id": "5d293e98ab2e756c",
-      "title": "GTA 6 Launches Worldwide After 13 Years of Development, Earns Record-Breaking Acclaim",
-      "summary": "",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T11:33:52Z",
-      "url": "https://digibanglatech.news/196208",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6afea23a0277b.jpg"
-    },
-    {
-      "id": "8e260a66456cfe76",
-      "title": "Drive Against Chemical Banana Ripening in Saltha",
-      "summary": "Allegations of ripening raw bananas in three days UNO conducts drive at Fulbaria Bazar, trader flees",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T11:32:23Z",
-      "url": "https://digibanglatech.news/196207",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff24010f007.jpg"
-    },
-    {
-      "id": "3d24906453cab09e",
-      "title": "International Expos Showcase Advanced Interior and Furniture Technologies",
-      "summary": "More than 50 companies from nine countries are participating Around 200 stalls showcase over 70 international and local brands Furniture design competition offers prizes worth Tk 100,000",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T11:18:25Z",
-      "url": "https://digibanglatech.news/196205",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff208af0908.jpg"
-    },
-    {
       "id": "6cadbb2465403619",
       "title": "How to tell a cyberattack from a plain old outage",
       "summary": "When everything goes down, don’t assume it’s a cyberattack.",
@@ -4122,19 +3667,6 @@
       "category": "Science",
       "publishedAt": "2026-11-19T11:00:00Z",
       "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal"
-    },
-    {
-      "id": "f7a4303737a82bd8",
-      "title": "Science Minister Stresses Expanding Nuclear Medicine Services",
-      "summary": "Minister Faqir Mahbub Anam emphasized expanding nuclear medicine to district and grassroots levels Urged rapid completion of 10 planned centers…",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Science",
-      "publishedAt": "2026-11-19T10:24:12Z",
-      "url": "https://digibanglatech.news/196193",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff13d9af41a.jpg"
     },
     {
       "id": "e51480ad1e04cf3e",
@@ -4174,45 +3706,6 @@
       "publishedAt": "2026-11-19T09:30:32Z",
       "url": "https://techfundingnews.com/anthropic-prices-ipo-at-83-per-share-in-an-81-3b-offering-that-values-it-at-about-1-5t",
       "image": "https://techfundingnews.com/wp-content/uploads/2025/02/Anthropic.jpg"
-    },
-    {
-      "id": "46d105afd9a08478",
-      "title": "Walton Unveils Smart Geysers Kettles And Heaters",
-      "summary": "Walton launched IoT-enabled smart geysers featuring voice control and mobile app access New electric kettle series feature TÜV SÜD tested…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T09:09:51Z",
-      "url": "https://digibanglatech.news/196191",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff0f4e70cad.jpg"
-    },
-    {
-      "id": "89ec74288492de0c",
-      "title": "Sony Launches Two New Headphones In Bangladesh",
-      "summary": "Sony unveiled WH-CH530 and WH-CH730N wireless headphones in Bangladesh with Gadget & Gear WH-CH530 offers 55 hours of battery life, while WH-CH730N delivers 50 hours with ANC Customers enjoy instant discounts or up to 12 months of…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-19T08:45:13Z",
-      "url": "https://digibanglatech.news/196189",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff0a19363f7.jpg"
-    },
-    {
-      "id": "dd699097a5a8909d",
-      "title": "South Korea’s Exports Surpass $1 Trillion for First Time",
-      "summary": "",
-      "source": "Digi Bangla English",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T08:42:56Z",
-      "url": "https://digibanglatech.news/196148",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6afea08d839bc.jpg"
     },
     {
       "id": "29eb33240b0fe571",
@@ -4265,45 +3758,6 @@
       "publishedAt": "2026-11-19T08:00:00Z",
       "url": "https://techfundingnews.com/wilgot-3m-seed-ai-product-pages-industrifonden",
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Wilgot-co-founders.png"
-    },
-    {
-      "id": "712565f1d3bcc7ba",
-      "title": "bKash Holds Workshop on AML-CFT Governance",
-      "summary": "The workshop addressed money laundering and terrorist financing risks in digital finance BFIU Head Iqtiaruddin Md. Mamun attended as chief guest bKash highlighted regular training and coordination to prevent misuse of digital…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T07:11:12Z",
-      "url": "https://digibanglatech.news/196187",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6aff02c017194.jpg"
-    },
-    {
-      "id": "92ca7c005cb52f3d",
-      "title": "foodpanda Offers 12,000 Utshab Products In Chattogram",
-      "summary": "foodpanda partnered with Chattogram retail chain Utshab to boost quick-commerce delivery Customers can order over 12, 000 products from…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T06:36:19Z",
-      "url": "https://digibanglatech.news/196183",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6afefa7f489c2.jpg"
-    },
-    {
-      "id": "4d872d429a690fd1",
-      "title": "Bangladesh To Launch Indigenous Satellite Within Three Years",
-      "summary": "Bangladesh will launch its own indigenously built satellite into space within three years Prime Minister Tarique Rahman announced this at the First…",
-      "source": "Digi Bangla Local",
-      "countries": [
-        "BD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T06:16:45Z",
-      "url": "https://digibanglatech.news/196181",
-      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6afef7f35b2c2.jpg"
     },
     {
       "id": "d0e06270948ecedc",
@@ -4527,6 +3981,529 @@
       "category": "AI",
       "publishedAt": "2026-11-18T21:57:40Z",
       "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report"
+    },
+    {
+      "id": "712d0d1c2bc646a9",
+      "title": "How Toyota is betting on a future beyond cars",
+      "summary": "Toyota is looking beyond the automotive industry as it places bigger bets on robotics, physical AI, energy, aerospace, and other emerging technologies. Through its venture arm, Woven Capital, the automaker is investing in startups that could help shape what…",
+      "source": "TechCrunch Venture",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Funding",
+      "publishedAt": "2026-11-18T21:36:40Z",
+      "url": "https://techcrunch.com/podcast/how-toyota-is-betting-on-a-future-beyond-cars"
+    },
+    {
+      "id": "3285b906d368abcf",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "source": "TechCrunch Security",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T21:34:13Z",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running"
+    },
+    {
+      "id": "d023ba6fde32bc2f",
+      "title": "Trump’s latest land grab is an AI hub in the Philippines",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\"…",
+      "source": "The Verge Science",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-18T19:40:36Z",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+    },
+    {
+      "id": "df673e00146f006f",
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-18T19:29:41Z",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation"
+    },
+    {
+      "id": "25a4ca5f35209bfb",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-18T19:19:33Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg"
+    },
+    {
+      "id": "04e49dcbdb745733",
+      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T18:31:17Z",
+      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg"
+    },
+    {
+      "id": "4ab4f5e03685767a",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T18:15:39Z",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png"
+    },
+    {
+      "id": "6e60ec8c10b2996b",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-18T18:10:33Z",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png"
+    },
+    {
+      "id": "42ab85f3d5b2fc42",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "source": "TechCrunch Security",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T17:32:10Z",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked"
+    },
+    {
+      "id": "6ec0dce548ff06fe",
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T17:10:45Z",
+      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg"
+    },
+    {
+      "id": "696966843394c5e0",
+      "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+      "summary": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
+      "source": "TechCrunch Security",
+      "countries": [
+        "GB"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T14:55:13Z",
+      "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts"
+    },
+    {
+      "id": "332e0d2625000ee2",
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now.",
+      "source": "Cloudflare Blog",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-18T14:52:10Z",
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7QEX0WPTPFDDEE77HAVYYGB.01M7QEX1A784VKSE3C9SPC0P30.png"
+    },
+    {
+      "id": "e7c4908e584f5e82",
+      "title": "The AI Hype Index: AI is everywhere",
+      "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up…",
+      "source": "MIT Technology Review",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-18T14:42:44Z",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere"
+    },
+    {
+      "id": "16d1e418da7ea1b7",
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T14:11:28Z",
+      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg"
+    },
+    {
+      "id": "fcbb3504793dfb1a",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are trying to sniff every…",
+      "source": "MIT Technology Review",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-18T13:10:00Z",
+      "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles"
+    },
+    {
+      "id": "90f84e48047fe43a",
+      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say. That leaves short PINs open to guessing. In lab tests, the…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T12:28:30Z",
+      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg"
+    },
+    {
+      "id": "e3f6e444c8dea912",
+      "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+      "summary": "TL;DR Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day. AI pentesting vendors aren't…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T12:15:00Z",
+      "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdb3EyKCLHzaa6p3bzrF2EkkcJJQgshTsoaU6kzga1C8NGRBE1rDwlsHwhVKehkmGsOYpf0Dq-VCQpmFDPYLglxQIQjEiv3NrkFDRPTc3wUObe1Kc0km71lwUEXLTtWJGBQ3nO6wFbRqKoOJLcBv2lwpD-ZAYc1caohfkIFkCVlLQdS-YuwmbecgBf-sQ/s1600/reflectiz.jpg"
+    },
+    {
+      "id": "9c87436ac336d523",
+      "title": "NASA’s Voyager 1 probe is now 1 light-day away",
+      "summary": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM…",
+      "source": "The Verge Science",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-18T12:03:36Z",
+      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone"
+    },
+    {
+      "id": "2c4163c7e21d994d",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents"
+    },
+    {
+      "id": "5966ac56e61b79d5",
+      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T11:55:49Z",
+      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis8B-Vf6puS0vOs9mEVup755KXy8y59KD72B5VQb8SyhO1JDHkYcvg42Y1rh1xg3seyml7j2vZn5Dq1OEnFYVzD_97osoZXWkxVVOBxM48InZPbaVgV7Lo64odzPVKNPEtPeLlEAm2AFfShOFVGtypVUJAJdt07qqik_Yde9X6BxLECPH7Gekbkzl2GBDK/s1600/java4shell-flaw.jpg"
+    },
+    {
+      "id": "ddb370c34e5553db",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "IN",
+        "US"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-18T11:30:00Z",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers"
+    },
+    {
+      "id": "1df2f3726abcb8b7",
+      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
+      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing…",
+      "source": "The Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-18T11:03:57Z",
+      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj276QET-ma2-edrAgsOdbZltmoW58d_kJT8C-g8DXQfDQAzPlmCcQYv-tWcX-DXcSipQpu_oFY_pPunvn-eXoog3H0BYPLkb4uY3B4Ax9T7LmtVBgVDwZZInLbj5QgnjVMI5d1za8bgR1a2TvGaJzZUK2UuSAEk3gSY-erKiddYAYTkNE9kxEp0zcx5x8/s1600/intruder.jpg"
+    },
+    {
+      "id": "c08d2bf5cfc43826",
+      "title": "This smell startup says its AI nose is as good as a human’s",
+      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a…",
+      "source": "MIT Technology Review",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-18T10:20:30Z",
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
+    },
+    {
+      "id": "c28186fb69433204",
+      "title": "GRF Science And Tech Fair In Chattogram",
+      "summary": "Chattogram regional round of 'Bhabishyat Bigganir Khoje-2026' is being held at CVASU. Students from 9 premier institutions will present 56…",
+      "source": "Digi Bangla Local",
+      "countries": [
+        "BD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-18T03:20:26Z",
+      "url": "https://digibanglatech.news/196039",
+      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6afd34e0ca8c0.jpg"
+    },
+    {
+      "id": "0d4a3780c61dc50a",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-18T01:44:21Z",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt"
+    },
+    {
+      "id": "0db3b4bdf59c14e4",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-18T00:27:29Z",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
+    },
+    {
+      "id": "2bdfaf90a407b61a",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+      "source": "TechCrunch Venture",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Funding",
+      "publishedAt": "2026-11-18T00:01:00Z",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories"
+    },
+    {
+      "id": "10493fa85ddbf2d5",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "summary": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+      "source": "TechCrunch Security",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-17T21:34:50Z",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one"
+    },
+    {
+      "id": "85bd515d71fb7a7a",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-17T20:32:55Z",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg"
+    },
+    {
+      "id": "23f542bdd380a7cb",
+      "title": "Quad9’s withdrawal from France: A canary in the coal mine",
+      "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "source": "Cloudflare Blog",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-17T20:24:27Z",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png"
+    },
+    {
+      "id": "4e96a2f8888ac3fb",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine…",
+      "source": "MIT Technology Review",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-17T18:46:47Z",
+      "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality"
+    },
+    {
+      "id": "c68cb5d11f8dc619",
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t…",
+      "source": "GitHub Blog",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-17T18:29:29Z",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes"
+    },
+    {
+      "id": "57b03ec42d31d8f4",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+      "source": "GitHub Blog",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-17T18:20:40Z",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices"
+    },
+    {
+      "id": "5a600a844d9b7ef8",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-17T18:04:16Z",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain"
+    },
+    {
+      "id": "b0b0a6e616a3be6e",
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating…",
+      "source": "MIT Technology Review",
+      "countries": [
+        "US"
+      ],
+      "category": "Science",
+      "publishedAt": "2026-11-17T17:52:10Z",
+      "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river"
+    },
+    {
+      "id": "3818d6ccd2a7f7a1",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "source": "TechCrunch Security",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-17T17:32:25Z",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop"
+    },
+    {
+      "id": "0f23f3a02ee9e0a1",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-17T16:50:10Z",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
+    },
+    {
+      "id": "0838bef2edd27f9f",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-17T15:28:59Z",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg"
+    },
+    {
+      "id": "54f7ad0b4a0462af",
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below.",
+      "source": "MIT Technology Review AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-17T14:39:46Z",
+      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports"
+    },
+    {
+      "id": "e1d42d0d1265ac53",
+      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+      "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-17T14:26:46Z",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding"
+    },
+    {
+      "id": "c183b19404c14629",
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "source": "Ars Technica AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-17T14:00:29Z",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg"
+    },
+    {
+      "id": "de9d48c1c617427c",
+      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
+      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
+      "source": "TechCrunch Startups",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Startups",
+      "publishedAt": "2026-11-17T14:00:00Z",
+      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids"
     }
   ]
 }
