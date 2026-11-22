@@ -1,10 +1,375 @@
 {
-  "generatedAt": "2026-11-21T19:17:56Z",
+  "generatedAt": "2026-11-22T06:50:17Z",
   "status": "live",
-  "successfulFeeds": 19,
+  "successfulFeeds": 20,
   "totalFeeds": 21,
   "articleCount": 360,
   "articles": [
+    {
+      "id": "6d087c898942cc0c",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-22T05:06:55Z",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png"
+    },
+    {
+      "id": "a3c63e958cb92eef",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and…",
+      "source": "The Hacker News",
+      "category": "Cybersecurity",
+      "publishedAt": "2026-11-22T05:03:41Z",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
+    },
+    {
+      "id": "32444da7c87047c1",
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 237 # Comments: 115",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T04:04:56Z",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs"
+    },
+    {
+      "id": "31dbae397b46d6b3",
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "summary": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026 Comments URL: https://news.ycombinator.com/item?id=50595816 Points: 17 # Comments: 7",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T03:07:27Z",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
+    },
+    {
+      "id": "da4cb4dd14ae1491",
+      "title": "The Most Popular Car Colors in America",
+      "summary": "Article URL: https://www.iseecars.com/most-popular-car-colors-study Comments URL: https://news.ycombinator.com/item?id=50595725 Points: 21 # Comments: 32",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T02:47:18Z",
+      "url": "https://www.iseecars.com/most-popular-car-colors-study"
+    },
+    {
+      "id": "26c5ca669b141704",
+      "title": "Data Processing Incidents on Inference Providers",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 89 # Comments: 32",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T02:14:14Z",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers"
+    },
+    {
+      "id": "9b3998d4b9b4980b",
+      "title": "The Mythology of Conscious AI",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 27 # Comments: 60",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T02:10:02Z",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai"
+    },
+    {
+      "id": "b795287462f8ff48",
+      "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
+      "summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T01:00:00Z",
+      "url": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10",
+      "image": "https://www.engadget.com/img/gallery/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11/l-intro-1794595499.jpg"
+    },
+    {
+      "id": "f93b3529f6144f31",
+      "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
+      "summary": "It's not simple to say that one is better than the other.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T01:00:00Z",
+      "url": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between",
+      "image": "https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg"
+    },
+    {
+      "id": "ac21c9fc636ff92a",
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 118 # Comments: 79",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T00:57:26Z",
+      "url": "https://github.com/ItsNotRexed/Leonida"
+    },
+    {
+      "id": "398ecf339b0d0a9a",
+      "title": "This is what can happen if too many devices are sharing your home network",
+      "summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T00:45:00Z",
+      "url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network",
+      "image": "https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg"
+    },
+    {
+      "id": "f864bb866c6b947c",
+      "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
+      "summary": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T00:30:00Z",
+      "url": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off",
+      "image": "https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg"
+    },
+    {
+      "id": "50d8a262cb4dedd3",
+      "title": "10 things you should never do on your Android phone",
+      "summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T00:15:00Z",
+      "url": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone",
+      "image": "https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg"
+    },
+    {
+      "id": "e87c04860704351e",
+      "title": "Sandwich Simulator",
+      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 134 # Comments: 52",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-22T00:07:59Z",
+      "url": "https://stulle.app/"
+    },
+    {
+      "id": "051dd0a05a8dadfe",
+      "title": "This is the best type of wireless earbuds for audio output",
+      "summary": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T00:00:00Z",
+      "url": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output",
+      "image": "https://www.engadget.com/img/gallery/this-is-the-best-type-of-wireless-earbuds-for-audio-output/l-intro-1794431151.jpg"
+    },
+    {
+      "id": "9133a15f65ee076e",
+      "title": "How to calibrate your 3D printer (and why you should)",
+      "summary": "Your 3D printer might not need replacing just because its prints keep failing. A few calibration checks could solve the problem and improve print quality.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T23:45:00Z",
+      "url": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should",
+      "image": "https://www.engadget.com/img/gallery/how-to-calibrate-your-3d-printer-and-why-you-should/l-intro-1794242993.jpg"
+    },
+    {
+      "id": "4390a0dc4b149662",
+      "title": "Building your own mini PC is harder than you would think",
+      "summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T23:30:00Z",
+      "url": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected",
+      "image": "https://www.engadget.com/img/gallery/building-your-own-mini-pc-is-harder-than-you-would-think/l-intro-1794933308.jpg"
+    },
+    {
+      "id": "50e28aa4ac2a78a0",
+      "title": "Six products and services Google discontinued in 2026",
+      "summary": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T23:00:00Z",
+      "url": "https://www.engadget.com/2319181/google-products-services-discontinued-2026",
+      "image": "https://www.engadget.com/img/gallery/six-products-and-services-google-discontinued-in-2026/l-intro-1794930715.jpg"
+    },
+    {
+      "id": "0a04d204e7b5ff2b",
+      "title": "Why does your phone say no service even with a SIM card?",
+      "summary": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T22:30:00Z",
+      "url": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card",
+      "image": "https://www.engadget.com/img/gallery/why-does-your-phone-say-no-service-even-with-a-sim-card/l-intro-1794929692.jpg"
+    },
+    {
+      "id": "fd1985122cba2834",
+      "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
+      "summary": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T22:15:00Z",
+      "url": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference",
+      "image": "https://www.engadget.com/img/gallery/ipad-air-vs-ipad-pro-the-features-youre-actually-paying-450-extra-for/l-intro-1794929523.jpg"
+    },
+    {
+      "id": "9f8ac8ad721a5e0b",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "source": "Ars Technica",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T22:12:41Z",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg"
+    },
+    {
+      "id": "f65a0c30765c2957",
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 98 # Comments: 9",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T22:09:58Z",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
+    },
+    {
+      "id": "60bfe438017534d5",
+      "title": "This built-in windows tool can tell if your DirectX has a problem",
+      "summary": "DxDiag is a handy and free resource for troubleshooting DirectX.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T22:00:00Z",
+      "url": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic",
+      "image": "https://www.engadget.com/img/gallery/this-built-in-windows-tool-can-tell-if-your-directx-has-a-problem/l-intro-1794929192.jpg"
+    },
+    {
+      "id": "69dbf907dcbbc0b6",
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T21:59:31Z",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+    },
+    {
+      "id": "a9313813717c4805",
+      "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
+      "summary": "It's still unclear who is responsible for the two incidents.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T21:51:29Z",
+      "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks",
+      "image": "https://www.engadget.com/img/gallery/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/l-intro-1795297525.jpg"
+    },
+    {
+      "id": "195b9660b4e2bd80",
+      "title": "The free Raspberry Pi tool you should be using to access it remotely",
+      "summary": "Avoid forwarding ports by using this handy tool.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T21:45:00Z",
+      "url": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely",
+      "image": "https://www.engadget.com/img/gallery/the-free-raspberry-pi-tool-you-should-be-using-to-access-it-remotely/l-intro-1794928442.jpg"
+    },
+    {
+      "id": "f6f5282ad9e3c36b",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T21:37:10Z",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance"
+    },
+    {
+      "id": "5cbc47ca5b08c0fb",
+      "title": "How long can fiber optic cables be before they lose signal?",
+      "summary": "Fiber optic cables can span your neighborhood or multiple continents, but there are limitations to this technology's communication capabilities.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T21:30:00Z",
+      "url": "https://www.engadget.com/2319077/fiber-optic-cable-how-long-before-lose-signal",
+      "image": "https://www.engadget.com/img/gallery/how-long-can-fiber-optic-cables-be-before-they-lose-signal/l-intro-1794846286.jpg"
+    },
+    {
+      "id": "58996b7311d70d67",
+      "title": "Advice for the next 100 Rust GUIs",
+      "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 130 # Comments: 34",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T21:17:53Z",
+      "url": "https://linebender.org/blog/next-100-guis"
+    },
+    {
+      "id": "dde017b756b4e01d",
+      "title": "How to easily factory reset your Fitbit",
+      "summary": "There's a difference between restarting and factory resetting your Fitbit.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T21:15:00Z",
+      "url": "https://www.engadget.com/2319074/how-to-factory-reset-fitbit-device",
+      "image": "https://www.engadget.com/img/gallery/how-to-easily-factory-reset-your-fitbit/l-intro-1794927232.jpg"
+    },
+    {
+      "id": "463fc0d9ef3ab467",
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T21:11:08Z",
+      "url": "https://tasklet.ai/careers"
+    },
+    {
+      "id": "044fb7804e00ac8e",
+      "title": "A tale of two Nvidias",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "source": "TechCrunch",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T21:07:42Z",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias"
+    },
+    {
+      "id": "1a88c44a5934ea77",
+      "title": "What's new with Apple's latest Siri Remote, and does your old Apple TV support it?",
+      "summary": "The 4th-gen Apple TV 4K comes with a new remote. Here's what you need to know about it.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T21:00:00Z",
+      "url": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support",
+      "image": "https://www.engadget.com/img/gallery/whats-new-with-apples-latest-siri-remote-and-does-your-old-apple-tv-support-it/l-intro-1794593750.jpg"
+    },
+    {
+      "id": "06d2d06f2b7054f2",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 60 # Comments: 11",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T20:47:41Z",
+      "url": "https://www.pandex.io/"
+    },
+    {
+      "id": "4c4813a7a63cfda1",
+      "title": "The trade-offs of using Apple's AirPods Max headphones",
+      "summary": "Apple's AirPods Max sound great, but they come with a lot of compromises for $549 headphones.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T20:45:00Z",
+      "url": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones",
+      "image": "https://www.engadget.com/img/gallery/the-trade-offs-of-using-apples-airpods-max-headphones/l-intro-1794842835.jpg"
+    },
+    {
+      "id": "4518c31d79d9f5c3",
+      "title": "Discs vs. disks: What's the difference?",
+      "summary": "They're pronounced the same and only deviate by a single letter, but their mechanics and usage are quite different.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T20:30:00Z",
+      "url": "https://www.engadget.com/2319034/discs-vs-disks-differences",
+      "image": "https://www.engadget.com/img/gallery/discs-vs-disks-whats-the-difference/l-intro-1794926692.jpg"
+    },
+    {
+      "id": "e9ffd5bdd3bd1e09",
+      "title": "Why Apple Vision Pro never took off like Meta's VR headsets",
+      "summary": "The Apple Vision Pro debuted to massive hype in 2024, but the years since then have not been kind to Apple's megabucks mixed-reality headset.",
+      "source": "Engadget",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T20:15:00Z",
+      "url": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr",
+      "image": "https://www.engadget.com/img/gallery/why-apple-vision-pro-never-took-off-like-metas-vr-headsets/l-intro-1794915957.jpg"
+    },
+    {
+      "id": "ec8e761e0eb8542f",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\"…",
+      "source": "The Verge",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T20:03:37Z",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    },
     {
       "id": "82b75c1d64c4ff82",
       "title": "Which car has the largest infotainment touchscreen?",
@@ -45,6 +410,15 @@
       "image": "https://www.engadget.com/img/gallery/how-to-use-a-solar-panel-to-charge-your-phone/l-intro-1794864126.jpg"
     },
     {
+      "id": "1a6bc61cbec29813",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 104 # Comments: 47",
+      "source": "Hacker News",
+      "category": "Software",
+      "publishedAt": "2026-11-21T18:29:29Z",
+      "url": "https://pwn.ai/upload2shell"
+    },
+    {
       "id": "18379e5d7c4f4b21",
       "title": "Tesla's assisted driving system gets the green light for rollout in Italy",
       "summary": "Tesla's self-driving tech is awaiting another major vote from the European Union before the end of the year.",
@@ -67,7 +441,7 @@
     {
       "id": "6c69e97c5257c80c",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 69 # Comments: 5",
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 424 # Comments: 107",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T18:02:19Z",
@@ -134,7 +508,7 @@
     {
       "id": "34d598638c33dd8c",
       "title": "PostgreSQL Extensions in Go",
-      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 57 # Comments: 1",
+      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 134 # Comments: 23",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T17:08:04Z",
@@ -239,40 +613,20 @@
     {
       "id": "27e400978bfc5bb7",
       "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 35 # Comments: 2",
+      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 108 # Comments: 38",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T15:54:34Z",
       "url": "https://math.mit.edu/~drew/grh"
     },
     {
-      "id": "b2e414926a5a0537",
-      "title": "Ways you can help your Fitbit's battery last longer",
-      "summary": "Fitbits don't last forever, but there's a couple easy ways you can get more years of step counts and heart-rate monitoring from your favorite wearable",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T15:45:00Z",
-      "url": "https://www.engadget.com/2318393/help-your-fitbit-battery-last-longer",
-      "image": "https://www.engadget.com/img/gallery/ways-you-can-help-your-fitbits-battery-last-longer/l-intro-1794855759.jpg"
-    },
-    {
       "id": "d8640923d2430592",
-      "title": "Show HN: Zero C#, Power of C# without any GC",
-      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 64 # Comments: 44",
+      "title": "Show HN: Zero C# – C# without a runtime or GC",
+      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 149 # Comments: 104",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T15:39:09Z",
       "url": "https://onurgumus.github.io/zero-csharp/index.html"
-    },
-    {
-      "id": "600291e4ef9f8e21",
-      "title": "The pros and cons of using a VPN over encrypted DNS",
-      "summary": "Explore the perks and drawbacks of choosing a VPN over encrypted DNS, from privacy and security to speed, costs, and control over your browsing habits.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T15:30:00Z",
-      "url": "https://www.engadget.com/2317883/pros-cons-using-vpn-over-encrypted-dns",
-      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-a-vpn-over-encrypted-dns/l-intro-1794592469.jpg"
     },
     {
       "id": "153d9223a0898224",
@@ -284,16 +638,6 @@
       "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd"
     },
     {
-      "id": "01f1371375ab469e",
-      "title": "Why your ping is terrible (even though you have fast internet)",
-      "summary": "Having a fast internet speed helps with online performance, but ping is the value that matters much more for games and video calls.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T15:15:00Z",
-      "url": "https://www.engadget.com/2318153/fast-internet-but-terrible-ping-why",
-      "image": "https://www.engadget.com/img/gallery/why-your-ping-is-terrible-even-though-you-have-fast-internet/l-intro-1794855544.jpg"
-    },
-    {
       "id": "3298713995b15316",
       "title": "Can Anthropic afford to put safety first?",
       "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but…",
@@ -301,16 +645,6 @@
       "category": "Funding",
       "publishedAt": "2026-11-21T15:00:00Z",
       "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"
-    },
-    {
-      "id": "b9ccf6b151ce9b8e",
-      "title": "How do those 'metal detector' apps for your phone actually work?",
-      "summary": "Your phone can be turned into something of a metal detector, but don't expect the range of a dedicated machine.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T15:00:00Z",
-      "url": "https://www.engadget.com/2318137/how-phone-metal-detector-apps-work",
-      "image": "https://www.engadget.com/img/gallery/how-do-those-metal-detector-apps-for-your-phone-actually-work/l-intro-1794854973.jpg"
     },
     {
       "id": "85f686144b1fcd07",
@@ -322,19 +656,9 @@
       "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale"
     },
     {
-      "id": "cfbf84ad3839a25e",
-      "title": "5 gadgets you should never buy used",
-      "summary": "Buying used tech could save you money, but some gadgets aren't worth the risk. Here's what you should avoid buying secondhand unless it's refurbished.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T14:45:00Z",
-      "url": "https://www.engadget.com/2318096/gadgets-you-should-never-buy-used",
-      "image": "https://www.engadget.com/img/gallery/5-gadgets-you-should-never-buy-used/l-intro-1794851054.jpg"
-    },
-    {
       "id": "5c6d12478082daa5",
       "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 508 # Comments: 399",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 942 # Comments: 804",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T14:36:45Z",
@@ -352,7 +676,7 @@
     {
       "id": "cf85127411206c4e",
       "title": "Detonating a pile of lead azide",
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 379 # Comments: 242",
+      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 582 # Comments: 377",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T13:23:14Z",
@@ -416,15 +740,6 @@
       "image": "https://media.wired.com/photos/6ac03e8a3c662ead2b64eb3c/master/pass/Best%20Power%20Banks%20102026%20top%20art%20SOURCE%20Amazon.jpg"
     },
     {
-      "id": "8e59042706a73eea",
-      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
-      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from…",
-      "source": "The Verge",
-      "category": "Funding",
-      "publishedAt": "2026-11-21T12:00:00Z",
-      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"
-    },
-    {
       "id": "78eab086f24fdcd7",
       "title": "A Space Probe Returns to Asteroids Where NASA Tested Planetary Defense Systems",
       "summary": "Several years ago, NASA tested systems for deterring dangerous space rocks. Now, a probe from the European Space Agency is returning to the scene to investigate.",
@@ -433,6 +748,15 @@
       "publishedAt": "2026-11-21T12:00:00Z",
       "url": "https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems",
       "image": "https://media.wired.com/photos/6b0013b54b02437d9d07344e/master/pass/Hera_her_CubeSats_and_their_rocky_target.png"
+    },
+    {
+      "id": "8e59042706a73eea",
+      "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+      "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from…",
+      "source": "The Verge",
+      "category": "Funding",
+      "publishedAt": "2026-11-21T12:00:00Z",
+      "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks"
     },
     {
       "id": "059e30cfca7341a0",
@@ -497,7 +821,7 @@
     {
       "id": "7edcf5e729c20239",
       "title": "My monitor was cutting my download speed by 75%",
-      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 320 # Comments: 162",
+      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 549 # Comments: 264",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T10:36:32Z",
@@ -545,8 +869,8 @@
     },
     {
       "id": "b8606c68272e2ff2",
-      "title": "RCE in Gnupg",
-      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 181 # Comments: 60",
+      "title": "GnuPG Security Advisory for GPGME",
+      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 247 # Comments: 98",
       "source": "Hacker News",
       "category": "Software",
       "publishedAt": "2026-11-21T08:32:58Z",
@@ -592,26 +916,6 @@
       "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png"
     },
     {
-      "id": "dd07c1bd9a0e565c",
-      "title": "Motorola Coupon Code for November 2026",
-      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
-      "source": "Wired",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/motorola-coupon-code",
-      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
-    },
-    {
-      "id": "b6650a5bc0b1fd7b",
-      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
-      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/total-wireless-promo-code",
-      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
-    },
-    {
       "id": "697187ea47083ab3",
       "title": "Nike Promo Codes and Discounts: 30% for November 2026",
       "summary": "Check out our deals for Nike this November 2026, including 15% off select purchases.",
@@ -620,16 +924,6 @@
       "publishedAt": "2026-11-21T06:00:00Z",
       "url": "https://www.wired.com/story/nike-promo-code",
       "image": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg"
-    },
-    {
-      "id": "3499b2393ffc6e8e",
-      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
-      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
-      "source": "Wired",
-      "category": "Tech",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/ulta-coupon",
-      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
     },
     {
       "id": "c8135deb00271f4a",
@@ -642,6 +936,26 @@
       "image": "https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg"
     },
     {
+      "id": "3499b2393ffc6e8e",
+      "title": "Ulta Promo Codes: Up to 20% Off in November 2026",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/ulta-coupon",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png"
+    },
+    {
+      "id": "dd07c1bd9a0e565c",
+      "title": "Motorola Coupon Code for November 2026",
+      "summary": "Upgrade your smartphone for less with the latest Motorola promo codes, free shipping offers, and exclusive seasonal discounts.",
+      "source": "Wired",
+      "category": "Gadgets",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/motorola-coupon-code",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png"
+    },
+    {
       "id": "5639e065fd141e27",
       "title": "20% Off Brooks Promo Code | November 2026",
       "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
@@ -652,14 +966,14 @@
       "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg"
     },
     {
-      "id": "dcabe22c8051e663",
-      "title": "Uplift Promo Codes: $300 Off",
-      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "id": "b6650a5bc0b1fd7b",
+      "title": "Total Wireless Promo Codes & Deals: 50% Off Select Plans",
+      "summary": "Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.",
       "source": "Wired",
       "category": "Tech",
       "publishedAt": "2026-11-21T06:00:00Z",
-      "url": "https://www.wired.com/story/uplift-desk-coupon-code",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
+      "url": "https://www.wired.com/story/total-wireless-promo-code",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg"
     },
     {
       "id": "7092854abe15bd03",
@@ -680,6 +994,16 @@
       "publishedAt": "2026-11-21T06:00:00Z",
       "url": "https://www.wired.com/story/hostgator-coupon",
       "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png"
+    },
+    {
+      "id": "dcabe22c8051e663",
+      "title": "Uplift Promo Codes: $300 Off",
+      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.",
+      "source": "Wired",
+      "category": "Tech",
+      "publishedAt": "2026-11-21T06:00:00Z",
+      "url": "https://www.wired.com/story/uplift-desk-coupon-code",
+      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png"
     },
     {
       "id": "8497bc1e7a354a4d",
@@ -725,26 +1049,6 @@
       "category": "Software",
       "publishedAt": "2026-11-21T00:33:40Z",
       "url": "https://spectrum.ieee.org/fighting-back-against-deep-fakes"
-    },
-    {
-      "id": "f429a070880c9de8",
-      "title": "Why you shouldn't depend on GTA 6 to auto-save",
-      "summary": "We explain how GTA 6's auto-save system works, so you don't accidentally lose progress in the massive game.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T23:48:00Z",
-      "url": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save",
-      "image": "https://www.engadget.com/img/gallery/why-you-shouldnt-depend-on-gta-6-to-auto-save/l-intro-1795168337.jpg"
-    },
-    {
-      "id": "657a619d6a0ba629",
-      "title": "YouTube could pay $3 billion to settle social media addiction lawsuits with school districts",
-      "summary": "YouTube is facing a growing number of lawsuits alleging that its platform is designed to be addictive and that it has harmed teens.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T23:40:10Z",
-      "url": "https://www.engadget.com/2323927/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts",
-      "image": "https://www.engadget.com/img/gallery/youtube-could-pay-3-billion-to-settle-social-media-addiction-lawsuits-with-school-districts/l-intro-1795217872.jpg"
     },
     {
       "id": "9a9e9d6e4076ab01",
@@ -822,16 +1126,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg"
     },
     {
-      "id": "96e921c4c8760dae",
-      "title": "The Internet Archive's workers are unionizing",
-      "summary": "None of their asks are radical: better pay, additional benefits that apply to everyone and paths for career development and promotion.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T22:15:03Z",
-      "url": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing",
-      "image": "https://www.engadget.com/img/gallery/the-internet-archives-workers-are-unionizing/l-intro-1795212757.jpg"
-    },
-    {
       "id": "ff62a6d0a83feae4",
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
@@ -842,16 +1136,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg"
     },
     {
-      "id": "3d5d84f664cc966e",
-      "title": "How to stream GTA 6 on your iPhone, iPad or Mac",
-      "summary": "If you're excited about GTA 6, chances are you'll want to keep playing it when you're away from your console.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T21:50:12Z",
-      "url": "https://www.engadget.com/2323793/how-to-stream-gta-6-iphone-ipad-mac",
-      "image": "https://www.engadget.com/img/gallery/how-to-stream-gta-6-on-your-iphone-ipad-or-mac/l-intro-1795210531.jpg"
-    },
-    {
       "id": "66eae4612900f2e7",
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
@@ -860,16 +1144,6 @@
       "publishedAt": "2026-11-20T21:47:10Z",
       "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg"
-    },
-    {
-      "id": "bd271598618c4a3c",
-      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
-      "summary": "The historic launch is happening while Rockstar workers vote on union recognition.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T21:02:54Z",
-      "url": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
-      "image": "https://www.engadget.com/img/gallery/gta-6-made-3-79-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/l-intro-1795208536.jpg"
     },
     {
       "id": "f22d46a83ecd25c4",
@@ -910,16 +1184,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png"
     },
     {
-      "id": "35f068ca468c21a7",
-      "title": "Germany seems to be serious about a TikTok Europe takeover",
-      "summary": "The company has called the idea \"nonsense.\"",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T20:35:35Z",
-      "url": "https://www.engadget.com/2323606/germany-seems-to-be-serious-about-a-tiktok-europe-takeover",
-      "image": "https://www.engadget.com/img/gallery/germany-seems-to-be-serious-about-a-tiktok-europe-takeover/l-intro-1795206896.jpg"
-    },
-    {
       "id": "b6e6571fc353d144",
       "title": "NASA’s new Moon plan is taking shape, but some big questions remain",
       "summary": "\"We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
@@ -949,16 +1213,6 @@
       "url": "https://github.com/diggerhq/opencomputer"
     },
     {
-      "id": "427b5464a7860dd6",
-      "title": "Signal now blocks screenshots by default to stymie AI agents",
-      "summary": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T20:18:09Z",
-      "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents",
-      "image": "https://www.engadget.com/img/gallery/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/l-intro-1795205811.jpg"
-    },
-    {
       "id": "bd3614c30b5d6b83",
       "title": "Inkling 2 Mini",
       "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1270 # Comments: 257",
@@ -975,34 +1229,6 @@
       "category": "Software",
       "publishedAt": "2026-11-20T20:07:55Z",
       "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves"
-    },
-    {
-      "id": "0d82df8f43700ea5",
-      "title": "Change these settings if you want GTA 6 to feel like old GTA",
-      "summary": "If you miss certain aspects of older GTA games, there are few ways you can wind back the clock.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T20:05:36Z",
-      "url": "https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta",
-      "image": "https://www.engadget.com/img/gallery/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/l-intro-1795204938.jpg"
-    },
-    {
-      "id": "a8c812cefc0f3f3f",
-      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-      "summary": "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 178 # Comments: 44",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T20:03:59Z",
-      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder"
-    },
-    {
-      "id": "0df7b71bba4fa10b",
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "summary": "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 267 # Comments: 242",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T20:03:07Z",
-      "url": "https://scottaaronson.blog/?p=10344"
     },
     {
       "id": "0c86565354b6242e",
@@ -1053,16 +1279,6 @@
       "url": "https://www.theverge.com/games/1036279/gta-vi-sales"
     },
     {
-      "id": "2882a543aae6dc43",
-      "title": "This GTA 6 fast travel trick comes at a price",
-      "summary": "There are no shortage of travel options in GTA 6, but which one gets you there the quickest?",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T19:32:34Z",
-      "url": "https://www.engadget.com/2323486/gta-6-fast-travel-trick-price",
-      "image": "https://www.engadget.com/img/gallery/this-gta-6-fast-travel-trick-comes-at-a-price/l-intro-1795169133.jpg"
-    },
-    {
       "id": "861ca51b04b5cf48",
       "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
       "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
@@ -1070,15 +1286,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-20T19:32:08Z",
       "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too"
-    },
-    {
-      "id": "c3446b23e48f37df",
-      "title": "Winedroid – run Android apps without Android (WASM demo)",
-      "summary": "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 128 # Comments: 36",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T19:30:16Z",
-      "url": "https://winedroid.soham.sh/demo"
     },
     {
       "id": "5be7c9455fef12b3",
@@ -1091,15 +1298,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg"
     },
     {
-      "id": "945d12baa1ef9bf9",
-      "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
-      "summary": "Article URL: https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/ Comments URL: https://news.ycombinator.com/item?id=50580385 Points: 42 # Comments: 14",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T19:21:49Z",
-      "url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525"
-    },
-    {
       "id": "7fb40abee5825fd2",
       "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
       "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon…",
@@ -1107,16 +1305,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-20T19:15:00Z",
       "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale"
-    },
-    {
-      "id": "7b7a6e2f3d7f9989",
-      "title": "Teenage Engineering's first CD player kind of looks like a turntable",
-      "summary": "The EP/BC-1 costs $329 and marks the start of a new line of \"broadcast\" audio equipment.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T18:53:49Z",
-      "url": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable",
-      "image": "https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg"
     },
     {
       "id": "3afdf5a7b1a6fd8a",
@@ -1137,25 +1325,6 @@
       "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes"
     },
     {
-      "id": "541f0f41a26e8fbe",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "summary": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2328 # Comments: 1118",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T18:33:14Z",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh"
-    },
-    {
-      "id": "6b63369bee458e80",
-      "title": "Here's everything GTA+ gets you in GTA 6: Is it worth $8 a month?",
-      "summary": "A GTA+ membership adds a few extras to GTA 6 for $8 a month. Here's what's included and which players are most likely to get their money's worth.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T18:27:59Z",
-      "url": "https://www.engadget.com/2323323/gta-plus-benefits-gta-6-is-it-worth-it",
-      "image": "https://www.engadget.com/img/gallery/heres-everything-gta-gets-you-in-gta-6-is-it-worth-8month/l-intro-1795197527.jpg"
-    },
-    {
       "id": "3019cf1274af8c61",
       "title": "Why fintech startups raising in 2026 build fiat on/off-ramps into their products",
       "summary": "Fintech products that don’t have a fiat on-ramp have a funding problem baked into their interface. Users sign…",
@@ -1164,24 +1333,6 @@
       "publishedAt": "2026-11-20T18:18:11Z",
       "url": "https://techfundingnews.com/why-fintech-startups-raising-in-2026-build-fiat-on-off-ramps-into-their-products",
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Fintech.jpg"
-    },
-    {
-      "id": "c884460ec18c9cae",
-      "title": "We promoted developers into architects without informing them",
-      "summary": "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 543 # Comments: 297",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T18:17:51Z",
-      "url": "https://manidoraisamy.com/developer-to-architect.html"
-    },
-    {
-      "id": "111a51744cb7f878",
-      "title": "Vibecoding an inference chip",
-      "summary": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 136 # Comments: 54",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T18:15:16Z",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip"
     },
     {
       "id": "6691469f1dc34a79",
@@ -1231,16 +1382,6 @@
       "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down"
     },
     {
-      "id": "372b14867f9dc258",
-      "title": "OpenAI brings its collaborative Space hubs to Plus users",
-      "summary": "You can upload documents, files and more to the hubs for easy sharing.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T18:00:00Z",
-      "url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users",
-      "image": "https://www.engadget.com/img/gallery/openai-brings-its-collaborative-space-hubs-to-plus-users/l-intro-1795191035.jpg"
-    },
-    {
       "id": "b44c0a854e15b185",
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described…",
@@ -1249,15 +1390,6 @@
       "publishedAt": "2026-11-20T17:57:20Z",
       "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg"
-    },
-    {
-      "id": "d32b20a39c5cb2de",
-      "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-      "summary": "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394 Comments URL: https://news.ycombinator.com/item?id=50578794 Points: 145 # Comments: 122",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T17:44:01Z",
-      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
     },
     {
       "id": "79b7324f6ff32c68",
@@ -1278,53 +1410,6 @@
       "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026"
     },
     {
-      "id": "0abcb5fa48805fd5",
-      "title": "Nothing's AI device debuts December 8, and it looks like two vapes stuck together",
-      "summary": "Thanks, Swedish House Mafia. I guess.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T17:32:02Z",
-      "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together",
-      "image": "https://www.engadget.com/img/gallery/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/l-intro-1795195811.jpg"
-    },
-    {
-      "id": "447c4f9c35ce8af3",
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 514 # Comments: 222",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T17:21:36Z",
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis"
-    },
-    {
-      "id": "054ddb7e73b778f0",
-      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
-      "summary": "Article URL: https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md Comments URL: https://news.ycombinator.com/item?id=50578233 Points: 39 # Comments: 0",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T17:14:03Z",
-      "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
-    },
-    {
-      "id": "ef9fe5774347b66f",
-      "title": "You can reveal the full GTA 6 map in minutes using this simple plane trick",
-      "summary": "Clear up that fog in no time at all, but be careful.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T17:13:31Z",
-      "url": "https://www.engadget.com/2323145/full-gta-6-map-reveal-plane-trick",
-      "image": "https://www.engadget.com/img/gallery/you-can-reveal-the-full-gta-6-map-in-minutes-using-this-simple-plane-trick/l-intro-1795194209.jpg"
-    },
-    {
-      "id": "9e4d32c6771429a1",
-      "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
-      "summary": "Article URL: https://certuvia.com/blog/postgres-19 Comments URL: https://news.ycombinator.com/item?id=50578117 Points: 24 # Comments: 1",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T17:08:56Z",
-      "url": "https://certuvia.com/blog/postgres-19"
-    },
-    {
       "id": "bd44af55928dfdcf",
       "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
       "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says…",
@@ -1332,15 +1417,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-20T17:05:52Z",
       "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth"
-    },
-    {
-      "id": "51db4d6afe90b30e",
-      "title": "I'm quite pleased by the tech architecture of my art website",
-      "summary": "Article URL: https://klauria.tech/klauria-art/ Comments URL: https://news.ycombinator.com/item?id=50577991 Points: 89 # Comments: 16",
-      "source": "Hacker News",
-      "category": "Software",
-      "publishedAt": "2026-11-20T17:03:39Z",
-      "url": "https://klauria.tech/klauria-art"
     },
     {
       "id": "e84d5c68ff14898b",
@@ -1361,6 +1437,15 @@
       "publishedAt": "2026-11-20T16:58:16Z",
       "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg"
+    },
+    {
+      "id": "9f2be4e67a0133eb",
+      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov.16 – Nov.20)",
+      "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T16:45:27Z",
+      "url": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-16-nov-20"
     },
     {
       "id": "675650dffca0c9d4",
@@ -1447,14 +1532,13 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg"
     },
     {
-      "id": "658b97c693284ebb",
-      "title": "Ray-Ban Meta (Gen 3) review: Minor upgrades that cost too much",
-      "summary": "Meta's very best AI glasses are only slightly better than other recent models.",
-      "source": "Engadget",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-20T14:30:00Z",
-      "url": "https://www.engadget.com/2322827/ray-ban-meta-gen-3-review",
-      "image": "https://www.engadget.com/img/gallery/ray-ban-meta-gen-3-review-minor-upgrades-that-cost-too-much/l-intro-1795183661.jpg"
+      "id": "c6ffdf4166a83089",
+      "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
+      "summary": "Cambridge-based semiconductor startup Clarity Sensors has secured a €2.2 million to support the development of a new generation of photon-counting CT detectors designed to make advanced medical imaging more affordable and accessible to hospitals. The funding…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T14:24:23Z",
+      "url": "https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible"
     },
     {
       "id": "c17e9f0b533427e6",
@@ -1582,6 +1666,15 @@
       "image": "https://media.wired.com/photos/6affa4fa92df27a5701c00d9/master/pass/Update--Rest-Easy-With-These-Early-Black-Friday-Mattress-Deals.jpg"
     },
     {
+      "id": "2c5cf89a3eac9d12",
+      "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
+      "summary": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participation from existing…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T12:41:53Z",
+      "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers"
+    },
+    {
       "id": "af7d30f58230f923",
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
       "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to…",
@@ -1629,6 +1722,15 @@
       "publishedAt": "2026-11-20T12:15:00Z",
       "url": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026",
       "image": "https://media.wired.com/photos/6affa2c5fc894cda63c23f38/master/pass/Roborock%E2%80%99s-Early-Black-Friday-Sale-Isn%E2%80%99t-One-to-Miss.jpg"
+    },
+    {
+      "id": "50821489d0a46688",
+      "title": "Following €1 billion funding round, Quantum Systems commits over €10 million to expand drone support in Ukraine",
+      "summary": "Quantum Systems and Frontline Robotics will commit more than €10 million to Ukraine to strengthen long-term support capacity for unmanned systems – arriving amid over €1.8 billion in European DefenceTech financing reported by EU-Startups in 2026. The joint…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T12:02:50Z",
+      "url": "https://www.eu-startups.com/2026/11/following-e1-billion-funding-round-quantum-systems-commits-over-e10-million-to-expand-drone-support-in-ukraine"
     },
     {
       "id": "1974e85995540625",
@@ -1741,6 +1843,24 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg"
     },
     {
+      "id": "b520290947b99faf",
+      "title": "Building in the UK? Key changes and deadlines founders need to know",
+      "summary": "In last month’s UK Budget, the Chancellor halved the lifetime limit on Business Asset Disposal Relief and introduced a new Founders’ Relief. Both take effect on 6 April 2027, and the details of the new relief are out for consultation until 30 November. If…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T10:23:38Z",
+      "url": "https://www.eu-startups.com/2026/11/building-in-the-uk-key-changes-and-deadlines-founders-need-to-know"
+    },
+    {
+      "id": "41e0b33358dd74e9",
+      "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
+      "summary": "Wilco, a Madrid-based startup building AI voice and messaging agents for healthcare clinic groups, has announced its launch and a new €2.5 million funding round. The round was led by Samaipata, the European venture capital fund known for backing marketplace…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T09:56:25Z",
+      "url": "https://www.eu-startups.com/2026/11/madrid-based-wilco-secures-e2-5-million-to-scale-its-ai-patient-follow-up-platform-across-europe"
+    },
+    {
       "id": "209921156d987de0",
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
       "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as…",
@@ -1758,6 +1878,15 @@
       "category": "Tech",
       "publishedAt": "2026-11-20T09:14:19Z",
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down"
+    },
+    {
+      "id": "b300171851d67f30",
+      "title": "Berkshire-backed Bending Spoons to buy Mailchimp for €3.35 billion; announces €1.18 billion private placement",
+      "summary": "Bending Spoons, a Milan-based technology company that acquires and transforms digital businesses, has signed a definitive agreement to acquire Mailchimp, the email marketing automation platform, from Intuit, in a deal valued at €3.35 billion ($3.68 billion)…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T08:15:41Z",
+      "url": "https://www.eu-startups.com/2026/11/berkshire-hathaway-backed-bending-spoons-to-buy-mailchimp-for-e3-35-billion-announces-e1-18-billion-private-placement"
     },
     {
       "id": "91330015156cc005",
@@ -1778,6 +1907,15 @@
       "publishedAt": "2026-11-20T07:46:00Z",
       "url": "https://techfundingnews.com/anthropic-jumps-17-in-nasdaq-debut-and-closes-at-a-1-75t-valuation-after-81-3b-ipo",
       "image": "https://techfundingnews.com/wp-content/uploads/2025/02/Anthropic.jpg"
+    },
+    {
+      "id": "a6b381ad2ada0e3b",
+      "title": "Gradyent lands €20 million EIB loan to expand digital twin technology across Europe’s heating networks",
+      "summary": "Gradyent, a Rotterdam-based SaaS provider for digital optimisation of district heating, cooling, and industrial networks, has secured a €20 million venture loan from the European Investment Bank (EIB). This financing follows a €28 million oversubscribed…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-20T07:41:14Z",
+      "url": "https://www.eu-startups.com/2026/11/dutch-startup-gradyent-lands-e20-million-eib-loan-to-expand-digital-twin-technology-across-europes-heating-networks"
     },
     {
       "id": "e40617893cabf092",
@@ -1841,8 +1979,8 @@
       "id": "633a67e2de20159c",
       "title": "Anthropic rival says companies can (mostly) skip the pricey models",
       "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "source": "TechCrunch",
-      "category": "Cybersecurity",
+      "source": "TechCrunch Venture",
+      "category": "Funding",
       "publishedAt": "2026-11-20T00:26:03Z",
       "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models"
     },
@@ -2266,15 +2404,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mouse1-1152x648.jpg"
     },
     {
-      "id": "db895de00b77372a",
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "publishedAt": "2026-11-19T14:00:00Z",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere"
-    },
-    {
       "id": "f92470a8456375e2",
       "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
       "summary": "On November 3, 2026 U.S. voters headed to the polls. Here’s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
@@ -2283,6 +2412,15 @@
       "publishedAt": "2026-11-19T14:00:00Z",
       "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png"
+    },
+    {
+      "id": "db895de00b77372a",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
+      "source": "TechCrunch AI",
+      "category": "AI",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere"
     },
     {
       "id": "a94505ef629f2b17",
@@ -2350,6 +2488,15 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button"
     },
     {
+      "id": "2b780f5a3d094f9f",
+      "title": "Mistral blazes ahead with an additional €100 million to their Series D by T.Capital",
+      "summary": "French AI unicorn Mistral continues their sizeable Series D with a €100 million investment from Deutsche Telekom’s investment arm, T.Capital Tech Fund – following the opening of the Mistral German hub in September. With T.Capital managing over €2 billion in…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-19T12:14:42Z",
+      "url": "https://www.eu-startups.com/2026/11/mistral-balzes-ahead-with-an-additional-e100-million-to-their-series-d-by-t-capital"
+    },
+    {
       "id": "e4122320c304120b",
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
       "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney…",
@@ -2366,6 +2513,15 @@
       "category": "Science",
       "publishedAt": "2026-11-19T12:00:00Z",
       "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding"
+    },
+    {
+      "id": "f2153c7cf80ccc8d",
+      "title": "Munich-based Vetaion raises €5.7 million to automate control cabinet manufacturing with AI and robotics",
+      "summary": "Vetaion, a Munich-based company that automates the manufacturing of custom electrical control cabinets, has closed a €5.7 million pre-Seed financing round to scale its production in Munich and grow its team. The round was co-led by Visionaries Tomorrow and…",
+      "source": "EU-Startups",
+      "category": "Startups",
+      "publishedAt": "2026-11-19T11:54:27Z",
+      "url": "https://www.eu-startups.com/2026/11/munich-based-vetaion-raises-e5-7-million-to-automate-control-cabinet-manufacturing-with-ai-and-robotics"
     },
     {
       "id": "79fb717d814dd0bd",
@@ -2821,24 +2977,6 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg"
     },
     {
-      "id": "41ae633c6584dee9",
-      "title": "The best early Black Friday deals you can already shop",
-      "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across…",
-      "source": "The Verge",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T18:44:27Z",
-      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026"
-    },
-    {
-      "id": "48dc89a786ffcf3b",
-      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-      "summary": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, while Microsoft's Surface RTX Spark…",
-      "source": "The Verge",
-      "category": "Gadgets",
-      "publishedAt": "2026-11-18T18:34:55Z",
-      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops"
-    },
-    {
       "id": "7132415e461f71d9",
       "title": "What is Nvidia without AI’s sugar daddy in charge?",
       "summary": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if Elon…",
@@ -2895,16 +3033,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-18T18:04:05Z",
       "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode"
-    },
-    {
-      "id": "531ca4b3015992c6",
-      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-      "summary": "This commuter bike will have you blazing through streets without any range anxiety.",
-      "source": "Ars Technica",
-      "category": "Tech",
-      "publishedAt": "2026-11-18T17:53:59Z",
-      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg"
     },
     {
       "id": "120da5d8476ca5b4",
@@ -3291,138 +3419,6 @@
       "publishedAt": "2026-11-18T09:00:38Z",
       "url": "https://techfundingnews.com/science-corp-raises-400m-to-expand-its-prima-vision-implant-in-europe-and-prepare-for-a-us-launch",
       "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Prima-implant-.jpg"
-    },
-    {
-      "id": "eeab189c34751318",
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-18T08:24:31Z",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg"
-    },
-    {
-      "id": "e739030404770d0d",
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of…",
-      "source": "The Hacker News",
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-18T08:24:23Z",
-      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmrsz2fViEN49Su385gmuAShCPcxobsMF-FbR9t1sXw6aEbOMzFUT5YktViqASQUXP3bLT13HYMAE1wBQTN0ZRDGXWFJUy_EWOKhOjR7jSz-bhEK8jas_v9wWUYxevCAZt4PzOCaGNLLC96kDwFjtKBuXVW2O3K2BK9AO5nyZutFf_uCaZtvyaQ2qf8gK/s1600/cisa-java.jpg"
-    },
-    {
-      "id": "99b2381f43e54e52",
-      "title": "French frugal AI infrastructure startup MountAIn raises €7.3 million to bring advanced AI to sub-€9 chips",
-      "summary": "MountAIn, a Grenoble-based frugal AI infrastructure company, has raised €7.3 million in Seed funding to run advanced AI on microcontrollers costing less than €9.11 ($10). The round was led by 360 Capital and Supernova Invest, with participation from Crédit…",
-      "source": "EU-Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-18T08:23:07Z",
-      "url": "https://www.eu-startups.com/2026/11/french-frugal-ai-infrastructure-startup-mountain-raises-e7-3-million-to-bring-advanced-ai-to-sub-e9-chips"
-    },
-    {
-      "id": "bff1746c71554250",
-      "title": "Meatable co-founder’s new firm Iconic raises €9.1 million to build AI operating system for large capital projects",
-      "summary": "Iconic, an Amsterdam-based startup building an AI operating system for large capital projects, has raised €9.1 million ($10 million) in Seed funding to bring AI-powered intelligence to these projects, with five major clients already onboard. Peak Capital, an…",
-      "source": "EU-Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-18T07:23:37Z",
-      "url": "https://www.eu-startups.com/2026/11/meatable-co-founders-new-firm-iconic-raises-e9-1-million-to-build-ai-operating-system-for-large-capital-projects"
-    },
-    {
-      "id": "8e1a6d7fe9b8a8f5",
-      "title": "Europe’s university spinouts are worth $492B: Why US buyers take the exits?",
-      "summary": "Earlier this week, ICEYE, a spinout from Aalto University, made a €2.05 billion cash offer for Avio, the…",
-      "source": "Tech Funding News",
-      "category": "Funding",
-      "publishedAt": "2026-11-18T07:17:05Z",
-      "url": "https://techfundingnews.com/european-university-spinouts-492b-defence-funding-2026",
-      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/European-university-spinouts.png"
-    },
-    {
-      "id": "e7d566f145bf53eb",
-      "title": "London’s Perry AI raises €2 million to bring AI-powered legal intelligence to private capital funds",
-      "summary": "Perry AI, the London-based startup building an AI-powered legal operating system for private equity and venture capital funds, has raised €2 million ($2.2 million) in a Seed funding round. The round was led by Haatch, with participation from Antler, Syncorp…",
-      "source": "EU-Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-18T06:42:52Z",
-      "url": "https://www.eu-startups.com/2026/11/londons-perry-ai-raises-e2-million-to-bring-ai-powered-legal-intelligence-to-private-capital-funds"
-    },
-    {
-      "id": "7c9c3f5e66f836c6",
-      "title": "Ex-Ericsson CEO’s family office backs CloudBackend with €6.6M to take AI-built apps to production",
-      "summary": "Swedish startup CloudBackend, an AI cloud infrastructure company, has raised €6.6 million in a financing round led by…",
-      "source": "Tech Funding News",
-      "category": "Funding",
-      "publishedAt": "2026-11-18T06:00:00Z",
-      "url": "https://techfundingnews.com/ex-ericsson-ceos-family-office-backs-cloudbackend-with-e6-6m-to-take-ai-built-apps-to-production",
-      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/CloudBackened-.jpg"
-    },
-    {
-      "id": "23f360c2de075933",
-      "title": "London’s Perry AI raises $2.2M from Haatch and Antler to automate legal work for private capital",
-      "summary": "Private equity and venture capital funds juggle complex transactions, investor commitments and regulatory obligations. According to Perry AI,…",
-      "source": "Tech Funding News",
-      "category": "Funding",
-      "publishedAt": "2026-11-18T05:00:00Z",
-      "url": "https://techfundingnews.com/londons-perry-ai-raises-2-2m-from-haatch-and-antler-to-automate-legal-work-for-private-capital",
-      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Perry-AI-founders-.jpg"
-    },
-    {
-      "id": "0d4a3780c61dc50a",
-      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "publishedAt": "2026-11-18T01:44:21Z",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt"
-    },
-    {
-      "id": "0db3b4bdf59c14e4",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "source": "Ars Technica AI",
-      "category": "AI",
-      "publishedAt": "2026-11-18T00:27:29Z",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png"
-    },
-    {
-      "id": "a726a4f040d13249",
-      "title": "Nvidia promises that revenue will keep soaring — for now",
-      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "source": "TechCrunch AI",
-      "category": "AI",
-      "publishedAt": "2026-11-18T00:16:50Z",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now"
-    },
-    {
-      "id": "2bdfaf90a407b61a",
-      "title": "Stripe backer Atomico calls for Europe to own its success stories",
-      "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-      "source": "TechCrunch Venture",
-      "category": "Funding",
-      "publishedAt": "2026-11-18T00:01:00Z",
-      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories"
-    },
-    {
-      "id": "d34ce25785fdf87b",
-      "title": "Satya Nadella says he’s AGI-pilled now",
-      "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the…",
-      "source": "The Verge AI",
-      "category": "AI",
-      "publishedAt": "2026-11-17T23:41:18Z",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
-    },
-    {
-      "id": "7648720b0216823a",
-      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "source": "TechCrunch",
-      "category": "Tech",
-      "publishedAt": "2026-11-17T23:37:48Z",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
     }
   ]
 }
