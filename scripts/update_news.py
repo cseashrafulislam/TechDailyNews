@@ -54,6 +54,8 @@ FEEDS = [
     ('VentureBeat', 'https://venturebeat.com/feed/', 'Tech'),
     ('The Verge Science', 'https://www.theverge.com/rss/science/index.xml', 'Science'),
     ('Digi Bangla Local', 'https://digibanglatech.news/rss/category/local-40', 'Tech'),
+    ('Digi Bangla English', 'https://digibanglatech.news/rss/category/english', 'Tech'),
+    ('The Business Standard ICT', 'https://www.tbsnews.net/tech/ict/rss.xml', 'Tech'),
 ]
 KEYWORDS = [
     ('Funding', ('funding', 'fundraise', 'venture capital', 'series a', 'series b', 'series c', 'investment', 'valuation', 'ipo', 'seed round', 'raised $', 'raises $')),
@@ -206,9 +208,10 @@ def fetch_one(feed, now):
             'User-Agent': 'TechDailyNewsRSS/1.0 (public headline aggregation)',
             'Accept': 'application/rss+xml, application/atom+xml, application/xml, text/xml',
         })
+        limit = 10_000_000 if source.startswith('Digi Bangla') else MAX_BYTES
         with urlopen(request, timeout=TIMEOUT) as response:
-            raw = response.read(MAX_BYTES + 1)
-        if len(raw) > MAX_BYTES:
+            raw = response.read(limit + 1)
+        if len(raw) > limit:
             raise ValueError('RSS feed too large')
         return source, parse_feed(raw, source, category, now), None
     except Exception as error:
