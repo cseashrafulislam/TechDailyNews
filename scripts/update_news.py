@@ -17,6 +17,9 @@ from urllib.request import Request, urlopen
 from xml.etree import ElementTree as ET
 
 BASE = Path(__file__).resolve().parents[1]
+if str(BASE) not in sys.path:
+    sys.path.insert(0, str(BASE))
+from scripts.geography import country_tags, CODES
 OUTPUT = BASE / 'data' / 'news.json'
 DAYS = 21
 MAX_STORIES = 360
@@ -50,6 +53,7 @@ FEEDS = [
     ('Cloudflare Blog', 'https://blog.cloudflare.com/rss/', 'Software'),
     ('VentureBeat', 'https://venturebeat.com/feed/', 'Tech'),
     ('The Verge Science', 'https://www.theverge.com/rss/science/index.xml', 'Science'),
+    ('Digi Bangla Local', 'https://digibanglatech.news/rss/category/local-40', 'Tech'),
 ]
 KEYWORDS = [
     ('Funding', ('funding', 'fundraise', 'venture capital', 'series a', 'series b', 'series c', 'investment', 'valuation', 'ipo', 'seed round', 'raised $', 'raises $')),
@@ -155,6 +159,7 @@ def one_article(title, summary, url, date, source, default, now, image=None):
         'id': hashlib.sha256(url.encode('utf-8')).hexdigest()[:16],
         'title': title, 'summary': summary, 'url': url,
         'source': source, 'category': category_for(title, summary, default),
+        'countries': country_tags(title, source),
         'publishedAt': timestamp.isoformat(timespec='seconds').replace('+00:00', 'Z'),
     }
     if image:
@@ -234,6 +239,7 @@ def curate(previous, new, now):
             'title': title,
             'summary': clean(article.get('summary'), 260),
             'source': source,
+            'countries': ([c for c in article.get('countries', []) if c in CODES] or country_tags(title, source)),
             'category': article.get('category') if article.get('category') in
                         {'Tech', 'AI', 'Startups', 'Funding', 'Cybersecurity', 'Gadgets', 'Software', 'Science'} else 'Tech',
             'publishedAt': published.isoformat(timespec='seconds').replace('+00:00', 'Z'),

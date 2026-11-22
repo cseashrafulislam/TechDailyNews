@@ -25,6 +25,7 @@ class NewsTests(unittest.TestCase):
         records = news.parse_feed(xml, 'Publisher', 'Tech', self.now)
         self.assertEqual(len(records), 1)
         self.assertEqual(records[0]['category'], 'AI')
+        self.assertEqual(records[0]['countries'], ['WORLD'])
 
     def test_atom_parsing(self):
         updated = self.now.isoformat()

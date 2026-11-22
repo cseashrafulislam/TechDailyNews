@@ -2,7 +2,7 @@
   'use strict';
   const CATEGORIES = ['All', 'AI', 'Tech', 'Startups', 'Funding', 'Cybersecurity', 'Gadgets', 'Software', 'Science'];
   const STORAGE_KEY = 'techdailynews-bookmarks-v1';
-  const state = { articles: [], category: 'All', q: '', period: 'all', sort: 'new', savedOnly: false, limit: 12 };
+  const state = { articles: [], category: 'All', q: '', period: 'all', sort: 'new', savedOnly: false, limit: 12, country: 'WORLD' };
   const $ = id => document.getElementById(id);
   let saved = new Set();
   try { saved = new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); } catch (_) {}
@@ -60,6 +60,7 @@
     const now = Date.now();
     const days = state.period === '24h' ? 1 : state.period === '7d' ? 7 : 0;
     return state.articles.filter(a => {
+      if (state.country !== 'WORLD' && !(Array.isArray(a.countries) && a.countries.includes(state.country))) return false;
       if (state.category !== 'All' && a.category !== state.category) return false;
       if (state.savedOnly && !isSaved(a)) return false;
       if (days && (now - new Date(a.publishedAt).getTime()) > days * 86400000) return false;
@@ -111,10 +112,13 @@
   function render() {
     const list = filtered();
     $('result-count').textContent = list.length + ' STORIES';
+    $('stat-articles').textContent = String(list.length);
+    $('stat-sources').textContent = String(new Set(list.map(a => a.source)).size);
+    fillFeature(list);
     const fragment = document.createDocumentFragment();
     if (list.length === 0) fragment.appendChild(node('div', 'empty', state.articles.length === 0
       ? 'No articles yet. News will appear after the first successful GitHub Actions refresh.'
-      : 'No stories match the selected filters. Try another category or search.'));
+      : state.country !== 'WORLD' ? 'No verified '+(document.querySelector('[data-edition-name]')?.textContent || state.country)+' technology headlines match these filters. Select Worldwide to browse global stories.' : 'No stories match the selected filters. Try another category or search.'));
     list.slice(0, state.limit).forEach(a => fragment.appendChild(makeCard(a)));
     $('news-grid').replaceChildren(fragment);
     $('load-more').hidden = list.length <= state.limit;
@@ -124,7 +128,16 @@
   }
   function fillFeature(list) {
     const a = list[0];
-    if (!a) return;
+    if (!a) {
+      $('lead-category').textContent = state.country === 'WORLD' ? 'GLOBAL TECHNOLOGY' : state.country + ' TECHNOLOGY';
+      $('lead-title').textContent = 'No verified country headlines available';
+      $('lead-description').textContent = 'Select Worldwide or another country to browse original publisher reporting.';
+      $('lead-source').textContent = 'TECHDAILY NEWS';
+      $('lead-time').textContent = '';
+      $('lead-link').href = '#latest';$('lead-link').textContent = 'BROWSE NEWS ↗';
+      $('radar-list').replaceChildren(node('p','muted','No recent reporting for this selection.'));
+      return;
+    }
     $('lead-category').textContent = (a.category || 'Tech').toUpperCase();
     $('lead-title').textContent = a.title;
     $('lead-description').textContent = a.summary || 'Explore the original story from the publisher.';
@@ -159,7 +172,6 @@
       $('status-time').textContent = data.generatedAt ? 'Updated ' + readableDate(data.generatedAt) : 'Scheduled RSS collection';
       $('edition').textContent = live ? 'UPDATED ' + readableDate(data.generatedAt).toUpperCase() : 'FIRST EDITION PENDING';
       $('radar-date').textContent = readableDate(new Date().toISOString()).toUpperCase();
-      fillFeature(state.articles);
       if (!state.articles.length) $('radar-list').replaceChildren(node('p', 'muted', 'New articles will appear after the first scheduled news collection.'));
     } catch (error) {
       $('status-label').textContent = 'NEWS FEED UNAVAILABLE';
@@ -170,6 +182,12 @@
     render();
   }
   function bind() {
+    document.addEventListener('countryeditionchange', event => {
+      const next = event.detail?.country || 'WORLD';
+      state.country = next;
+      state.limit = 12;
+      render();
+    });
     $('year').textContent = String(new Date().getFullYear());
     $('top-date').textContent = readableDate(new Date().toISOString()).toUpperCase();
     $('search').addEventListener('input', e => { state.q = e.target.value; state.limit = 12; render(); });

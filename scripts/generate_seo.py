@@ -38,7 +38,7 @@ def make_pages(articles):
         items = [a for a in articles if a.get("category") == cat and trusted_url(a.get("url"))][:25]
         nav = ''.join(f'<a class="{"active" if c == cat else ""}" href="/category/{s}/">{h(c)}</a>' for c, s, *_ in SPECS)
         cards = ''.join(
-            f'<article class="seo-headline"><small>{h(a.get("source"))}</small><h2><a href="{h(a.get("url"))}" target="_blank" rel="noopener noreferrer">{h(a.get("title"))} ↗</a></h2>'
+            f'<article class="seo-headline" data-edition-story="{h(",".join(a.get("countries") or ["WORLD"]))}"><small>{h(a.get("source"))}</small><h2><a href="{h(a.get("url"))}" target="_blank" rel="noopener noreferrer">{h(a.get("title"))} ↗</a></h2>'
             f'<time datetime="{h(str(a.get("publishedAt", ""))[:10])}">{h(str(a.get("publishedAt", ""))[:10])}</time><p>{h(a.get("summary") or "Read the original reporting.")}</p></article>'
             for a in items
         ) or "<p>No articles yet. Check back soon for updates.</p>"
@@ -49,7 +49,7 @@ def make_pages(articles):
 <meta name="description" content="{h(desc)}"><link rel="canonical" href="{uri}"><link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta property="og:type" content="website"><meta property="og:site_name" content="TechDaily News"><meta property="og:title" content="{h(title)} | TechDaily News">
 <meta property="og:url" content="{uri}"><meta property="og:description" content="{h(desc)}"><meta name="twitter:card" content="summary">
-<link rel="stylesheet" href="/styles.css"><title>{h(title)} | TechDaily News</title><script type="application/ld+json">{schema}</script></head>
+<link rel="stylesheet" href="/styles.css"><link rel="stylesheet" href="/country.css"><script src="/country.js" defer></script><title>{h(title)} | TechDaily News</title><script type="application/ld+json">{schema}</script></head>
 <body><div class="signal-bar"><div class="wrap signal-inside"><span class="signal-pill"><i></i> GLOBAL TECH RADAR</span><span>TECHDAILY NEWS</span><span>GLOBAL HEADLINES</span></div></div>
 <header class="header"><div class="wrap header-inside"><a href="/" class="logo"><span class="logo-symbol">T<span>✦</span></span><span class="logo-words"><b>TECH<span>DAILY</span></b><small>NEWS / WORLDWIDE</small></span></a>
 <nav class="seo-nav"><a href="/">Home</a><a href="/category/ai/">AI News</a><a href="/category/startups/">Startups</a><a href="/contact/">Contact</a></nav></div></header>
