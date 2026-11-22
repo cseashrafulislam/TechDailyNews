@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-11-22T18:28:39Z",
+  "generatedAt": "2026-11-22T19:42:02Z",
   "status": "live",
   "successfulFeeds": 23,
   "totalFeeds": 24,
   "articleCount": 360,
   "articles": [
+    {
+      "id": "595c25d5385cecfd",
+      "title": "How long is a new Fitbit actually supposed to last?",
+      "summary": "Fitbit longevity is threefold. You'll need to consider the fitness tracker's durability, battery life, and how long it will receive software support.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T19:30:00Z",
+      "url": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support",
+      "image": "https://www.engadget.com/img/gallery/how-long-is-a-new-fitbit-actually-supposed-to-last/l-intro-1794499519.jpg"
+    },
+    {
+      "id": "bf8c4d645aa4b941",
+      "title": "Here's when a Raspberry Pi 5 could be considered overkill",
+      "summary": "From home servers to DIY gadgets, Raspberry Pi boards can handle countless tasks, though the power of the newest Pi 5 isn't always the only option.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T19:15:00Z",
+      "url": "https://www.engadget.com/2319480/when-raspberry-pi-5-considered-overkill",
+      "image": "https://www.engadget.com/img/gallery/heres-when-a-raspberry-pi-5-could-be-considered-overkill/l-intro-1794642152.jpg"
+    },
+    {
+      "id": "b0ed787ecf17a1cd",
+      "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
+      "summary": "Article URL: https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/ Comments URL: https://news.ycombinator.com/item?id=50602847 Points: 12 # Comments: 0",
+      "source": "Hacker News",
+      "countries": [
+        "CA"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T19:10:38Z",
+      "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news"
+    },
+    {
+      "id": "5808080d947d9ff8",
+      "title": "5 Apple Watch settings that can help you save its battery life",
+      "summary": "By giving up some of the Apple Watch's slick features, you can use its core functions for much longer before needing a charge.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T19:00:00Z",
+      "url": "https://www.engadget.com/2319475/apple-watch-settings-help-save-battery-life",
+      "image": "https://www.engadget.com/img/gallery/5-apple-watch-settings-that-can-help-you-save-its-battery-life/l-intro-1794592644.jpg"
+    },
+    {
+      "id": "03c7d413dfeb3257",
+      "title": "What the little clock icon at the top of your Samsung phone means",
+      "summary": "A mystery clock in your Galaxy status bar can be confusing. Find out what the symbol could mean and the simple steps to make it disappear for good.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T18:45:00Z",
+      "url": "https://www.engadget.com/2319450/what-little-clock-icon-top-samsung-phone-means",
+      "image": "https://www.engadget.com/img/gallery/what-the-little-clock-icon-at-the-top-of-your-samsung-phone-means/l-intro-1794937166.jpg"
+    },
+    {
+      "id": "625a6d8c15acf382",
+      "title": "The drawbacks of adding solar panels to your home",
+      "summary": "Installing solar panels at your home could be a bright idea, but there are some serious financial factors to consider before making the investment.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T18:30:00Z",
+      "url": "https://www.engadget.com/2319431/adding-solar-panels-home-disadvantages",
+      "image": "https://www.engadget.com/img/gallery/the-drawbacks-of-adding-solar-panels-to-your-home/l-intro-1794592127.jpg"
+    },
     {
       "id": "b9e80bb8713be977",
       "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
@@ -109,7 +186,7 @@
     {
       "id": "1a10f1676d46fc01",
       "title": "Perplexity and Intelligence",
-      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 112 # Comments: 57",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 216 # Comments: 152",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -247,7 +324,7 @@
     {
       "id": "60f59c65b6c3d84d",
       "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 40 # Comments: 8",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 59 # Comments: 17",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -270,9 +347,21 @@
       "image": "https://www.engadget.com/img/gallery/the-most-recognizable-spam-email-type-is-way-older-than-the-internet/l-intro-1794425133.jpg"
     },
     {
+      "id": "b06284d171d3b7be",
+      "title": "Fascism and Monopoly",
+      "summary": "Article URL: https://repository.law.umich.edu/mlr/vol118/iss7/2/ Comments URL: https://news.ycombinator.com/item?id=50600521 Points: 16 # Comments: 0",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T15:25:29Z",
+      "url": "https://repository.law.umich.edu/mlr/vol118/iss7/2"
+    },
+    {
       "id": "429baa2b982e8297",
       "title": "Open Social Web Alliance",
-      "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 137 # Comments: 127",
+      "summary": "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 154 # Comments: 156",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -284,7 +373,7 @@
     {
       "id": "f47963d35b6c6418",
       "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-      "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 61 # Comments: 31",
+      "summary": "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 81 # Comments: 40",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -317,6 +406,19 @@
       "publishedAt": "2026-11-22T15:15:00Z",
       "url": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple",
       "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg"
+    },
+    {
+      "id": "3e94b18701f03e67",
+      "title": "Tech giant Meta postpones scheduled Dhaka event",
+      "summary": "The event was scheduled for November 24 at Sheraton Dhaka. Teen Safety Connect aimed to discuss online safety for teenagers.",
+      "source": "Digi Bangla Local",
+      "countries": [
+        "BD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-22T15:04:22Z",
+      "url": "https://digibanglatech.news/196462",
+      "image": "https://digibanglatech.news/uploads/images/202508/image_870x_688f4307ab470.jpg"
     },
     {
       "id": "0603ecb3f6843f81",
@@ -422,7 +524,7 @@
     {
       "id": "9e90f9c0947157e7",
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 156 # Comments: 39",
+      "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 177 # Comments: 45",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -485,7 +587,7 @@
     {
       "id": "a16de32c2c87e559",
       "title": "Testing Terraform with AWS Emulator",
-      "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 10 # Comments: 0",
+      "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 26 # Comments: 3",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -517,6 +619,19 @@
       "category": "Tech",
       "publishedAt": "2026-11-22T13:00:00Z",
       "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    },
+    {
+      "id": "10ed9fa354c3b8fa",
+      "title": "Nagad App Introduces Biometric Login",
+      "summary": "Users can log in with fingerprints or facial recognition. Biometric data remains stored on users' own devices. Five consecutive failed attempts temporarily lock the feature",
+      "source": "Digi Bangla English",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-22T12:26:03Z",
+      "url": "https://digibanglatech.news/196466",
+      "image": "https://digibanglatech.news/uploads/images/202611/image_870x580_6b0341288ace9.jpg"
     },
     {
       "id": "1b8e86bacab88e53",
@@ -625,7 +740,7 @@
     {
       "id": "aaa55aaf59895092",
       "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 53 # Comments: 8",
+      "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 55 # Comments: 9",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -650,7 +765,7 @@
     {
       "id": "d7e78f94bca2cb94",
       "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 576 # Comments: 644",
+      "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 634 # Comments: 708",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -662,7 +777,7 @@
     {
       "id": "4c603406c2ef68d6",
       "title": "Notes on the discrete Fourier transform (DFT)",
-      "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 78 # Comments: 10",
+      "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 85 # Comments: 11",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -700,7 +815,7 @@
     {
       "id": "2a3dc20019c6a4be",
       "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-      "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 142 # Comments: 102",
+      "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 156 # Comments: 118",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -712,7 +827,7 @@
     {
       "id": "32444da7c87047c1",
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 991 # Comments: 590",
+      "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 1035 # Comments: 617",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -748,7 +863,7 @@
     {
       "id": "26c5ca669b141704",
       "title": "Data Processing Incidents on Inference Providers",
-      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 251 # Comments: 88",
+      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 257 # Comments: 88",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -760,7 +875,7 @@
     {
       "id": "9b3998d4b9b4980b",
       "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 134 # Comments: 374",
+      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 142 # Comments: 404",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -849,7 +964,7 @@
     {
       "id": "e87c04860704351e",
       "title": "Sandwich Simulator",
-      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 467 # Comments: 162",
+      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 491 # Comments: 170",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -911,22 +1026,9 @@
       "image": "https://www.engadget.com/img/gallery/six-products-and-services-google-discontinued-in-2026/l-intro-1794930715.jpg"
     },
     {
-      "id": "0a04d204e7b5ff2b",
-      "title": "Why does your phone say no service even with a SIM card?",
-      "summary": "Your SIM card controls your phone's connection to your carrier, and if it's not working, standard texts and calls won't go through.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T22:30:00Z",
-      "url": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card",
-      "image": "https://www.engadget.com/img/gallery/why-does-your-phone-say-no-service-even-with-a-sim-card/l-intro-1794929692.jpg"
-    },
-    {
       "id": "dcc1d692c9d97d55",
       "title": "A Better Vocabulary for Testing",
-      "summary": "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 49 # Comments: 15",
+      "summary": "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 63 # Comments: 17",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -934,19 +1036,6 @@
       "category": "Software",
       "publishedAt": "2026-11-21T22:15:39Z",
       "url": "https://alperenkeles.com/posts/vocab-for-testing"
-    },
-    {
-      "id": "fd1985122cba2834",
-      "title": "iPad Air vs. iPad Pro: The features you're actually paying $450 extra for",
-      "summary": "The iPad Air and iPad Pro are both great options if you plan to use a tablet for work or creativity, but you shouldn't pay for what you won't use.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T22:15:00Z",
-      "url": "https://www.engadget.com/2319122/ipad-air-vs-pro-features-compared-price-difference",
-      "image": "https://www.engadget.com/img/gallery/ipad-air-vs-ipad-pro-the-features-youre-actually-paying-450-extra-for/l-intro-1794929523.jpg"
     },
     {
       "id": "9f8ac8ad721a5e0b",
@@ -974,19 +1063,6 @@
       "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
     },
     {
-      "id": "60bfe438017534d5",
-      "title": "This built-in windows tool can tell if your DirectX has a problem",
-      "summary": "DxDiag is a handy and free resource for troubleshooting DirectX.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T22:00:00Z",
-      "url": "https://www.engadget.com/2319109/built-in-windows-tool-find-problem-directx-diagnostic",
-      "image": "https://www.engadget.com/img/gallery/this-built-in-windows-tool-can-tell-if-your-directx-has-a-problem/l-intro-1794929192.jpg"
-    },
-    {
       "id": "69dbf907dcbbc0b6",
       "title": "Amazon is complaining about NYC Council on shipping labels, too",
       "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act…",
@@ -997,32 +1073,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-21T21:59:31Z",
       "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
-    },
-    {
-      "id": "a9313813717c4805",
-      "title": "FBI and USDA were reportedly targeted in back-to-back cyberattacks",
-      "summary": "It's still unclear who is responsible for the two incidents.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T21:51:29Z",
-      "url": "https://www.engadget.com/2324179/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks",
-      "image": "https://www.engadget.com/img/gallery/fbi-and-usda-were-reportedly-targeted-in-back-to-back-cyberattacks/l-intro-1795297525.jpg"
-    },
-    {
-      "id": "195b9660b4e2bd80",
-      "title": "The free Raspberry Pi tool you should be using to access it remotely",
-      "summary": "Avoid forwarding ports by using this handy tool.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T21:45:00Z",
-      "url": "https://www.engadget.com/2319090/free-raspberry-pi-tool-access-remotely",
-      "image": "https://www.engadget.com/img/gallery/the-free-raspberry-pi-tool-you-should-be-using-to-access-it-remotely/l-intro-1794928442.jpg"
     },
     {
       "id": "f6f5282ad9e3c36b",
@@ -1123,7 +1173,7 @@
     {
       "id": "6c69e97c5257c80c",
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 545 # Comments: 131",
+      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 550 # Comments: 131",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -1279,7 +1329,7 @@
     {
       "id": "5c6d12478082daa5",
       "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1180 # Comments: 972",
+      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1188 # Comments: 983",
       "source": "Hacker News",
       "countries": [
         "WORLD"
@@ -1594,18 +1644,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg"
     },
     {
-      "id": "b8606c68272e2ff2",
-      "title": "GnuPG Security Advisory for GPGME",
-      "summary": "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 247 # Comments: 98",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T08:32:58Z",
-      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html"
-    },
-    {
       "id": "2cbb30fbe3dc96a8",
       "title": "Trump Threatens Heavy Taxes and Penalties on US Tech Firms Building Data Centres Abroad",
       "summary": "",
@@ -1617,18 +1655,6 @@
       "publishedAt": "2026-11-21T07:47:09Z",
       "url": "https://digibanglatech.news/196343",
       "image": "https://digibanglatech.news/uploads/images/202502/image_870x580_67bea29f1b5bb.jpg"
-    },
-    {
-      "id": "73b8e6cd4b52d07c",
-      "title": "Surprisingly Adorable Insect Portraits",
-      "summary": "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 127 # Comments: 26",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T06:44:14Z",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed"
     },
     {
       "id": "b8f96101317d5d3a",
@@ -4479,31 +4505,6 @@
       "category": "Startups",
       "publishedAt": "2026-11-17T14:26:46Z",
       "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding"
-    },
-    {
-      "id": "c183b19404c14629",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "source": "Ars Technica AI",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "AI",
-      "publishedAt": "2026-11-17T14:00:29Z",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg"
-    },
-    {
-      "id": "de9d48c1c617427c",
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-      "source": "TechCrunch Startups",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Startups",
-      "publishedAt": "2026-11-17T14:00:00Z",
-      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids"
     }
   ]
 }
