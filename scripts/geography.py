@@ -20,5 +20,6 @@ def country_tags(title: str, source: str = "") -> list[str]:
     """Only explicit headline locations or truly local publisher category may claim a country."""
     if source in REGIONAL_FEEDS:
         return [REGIONAL_FEEDS[source]]
-    found = [code for code, expression in REGEX.items() if expression.search(str(title or ""))]
+    text = str(title or "")
+    found = [code for code, expression in REGEX.items() if expression.search(text) or (code == "US" and re.search(r"\bUS\b", text))]
     return found or ["WORLD"]
