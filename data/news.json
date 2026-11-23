@@ -1,10 +1,558 @@
 {
-  "generatedAt": "2026-11-22T19:42:02Z",
+  "generatedAt": "2026-11-23T07:41:06Z",
   "status": "live",
-  "successfulFeeds": 23,
+  "successfulFeeds": 22,
   "totalFeeds": 24,
   "articleCount": 360,
   "articles": [
+    {
+      "id": "6f51f60e30b138d8",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager Comments URL: https://news.ycombinator.com/item?id=50608390 Points: 0 # Comments: 0",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T07:01:08Z",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager"
+    },
+    {
+      "id": "756de2ea4535ed70",
+      "title": "Yes, 17M lines of Lean is a lot",
+      "summary": "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 18 # Comments: 17",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T05:00:49Z",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot"
+    },
+    {
+      "id": "250c4af0254fbf5c",
+      "title": "A Partial Evaluator for C",
+      "summary": "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 32 # Comments: 1",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T04:51:48Z",
+      "url": "https://phoenix.labri.fr/software/tempo"
+    },
+    {
+      "id": "54f8309275bea4f6",
+      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+      "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://news.ycombinator.com/item?id=50607498 Points: 110 # Comments: 28",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T04:31:32Z",
+      "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049"
+    },
+    {
+      "id": "b7cf04a84828baaf",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 175 # Comments: 77",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T03:49:24Z",
+      "url": "https://github.com/AFK-surf/xnulinux"
+    },
+    {
+      "id": "587386f956d0e545",
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's…",
+      "source": "The Verge",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-23T03:00:00Z",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink"
+    },
+    {
+      "id": "eb64db8df3e61bf8",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 51 # Comments: 11",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T01:50:23Z",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer"
+    },
+    {
+      "id": "ae9a76feb098a7f8",
+      "title": "Here's how much Starlink cost in 2020 vs. 2026",
+      "summary": "Throw in discounts and fluctuating rates, and two customers could end up paying vastly different bills for the same Starlink satellite service.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-23T01:30:00Z",
+      "url": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026",
+      "image": "https://www.engadget.com/img/gallery/heres-how-much-starlink-cost-in-2020-vs-2026/l-intro-1794842346.jpg"
+    },
+    {
+      "id": "50eaee9a34139795",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "TechCrunch",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Funding",
+      "publishedAt": "2026-11-23T01:25:53Z",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo"
+    },
+    {
+      "id": "e93e9c8ddee8950e",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "summary": "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 414 # Comments: 58",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T01:13:51Z",
+      "url": "https://spelunkr.tv/"
+    },
+    {
+      "id": "dcbe5a087f6b5fdc",
+      "title": "What we learned operating auth for 1k APIs",
+      "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 38 # Comments: 5",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-23T01:01:11Z",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis"
+    },
+    {
+      "id": "8794d8328b40786b",
+      "title": "How to clear your cache on Google TV",
+      "summary": "Clearing your Google TV's cache isn't a one-size-fits-all solution, but it's a useful first step if you're having performance issues or glitches.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-23T01:00:00Z",
+      "url": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv",
+      "image": "https://www.engadget.com/img/gallery/how-to-clear-your-cache-on-google-tv/l-intro-1794808574.jpg"
+    },
+    {
+      "id": "a132d6ec4d6e049c",
+      "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+      "summary": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-23T00:45:00Z",
+      "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps",
+      "image": "https://www.engadget.com/img/gallery/this-free-swiss-army-knife-for-macos-can-replace-your-utility-apps/l-intro-1794595062.jpg"
+    },
+    {
+      "id": "aa0bcdb4f0f36243",
+      "title": "Should you go with a headphone DAC/amp combo or a stack?",
+      "summary": "If your computer's headphone jack isn't cutting it anymore, it's time to get a DAC and headphone amp. But do you go for a combo DAC/amp or a stack?",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-23T00:30:00Z",
+      "url": "https://www.engadget.com/2311788/headphone-dac-amp-combo-vs-stack",
+      "image": "https://www.engadget.com/img/gallery/should-you-go-with-a-headphone-dacamp-combo-or-a-stack/l-intro-1794285377.jpg"
+    },
+    {
+      "id": "9edb9e667f4c4d5a",
+      "title": "8 Windows apps you should probably remove from your PC",
+      "summary": "From pre-installed junk to popular apps that have better alternatives, these are the apps you should clean off your PC if they're present.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-23T00:15:00Z",
+      "url": "https://www.engadget.com/2317781/windows-apps-remove-from-pc",
+      "image": "https://www.engadget.com/img/gallery/8-windows-apps-you-should-probably-remove-from-your-pc/l-intro-1794237490.jpg"
+    },
+    {
+      "id": "35f9744a64f5c359",
+      "title": "Public vs. private IP addresses: what's the difference?",
+      "summary": "One identifies your network, the other identifies the devices using your network.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "url": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences",
+      "image": "https://www.engadget.com/img/gallery/public-vs-private-ip-addresses-whats-the-difference/l-intro-1794236251.jpg"
+    },
+    {
+      "id": "d76d1fd47e7f903a",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "summary": "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 43 # Comments: 10",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T23:53:00Z",
+      "url": "https://0rwx.com/"
+    },
+    {
+      "id": "6b4442fa92771d61",
+      "title": "What is the best way to secure your PlayStation 5 for a flight?",
+      "summary": "You don't have to leave your precious PS5 behind when flying, but you will need to take some precautions or opt for a long-distance streaming relationship.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T23:45:00Z",
+      "url": "https://www.engadget.com/2319558/best-way-secure-playstation-5-for-flight-travel",
+      "image": "https://www.engadget.com/img/gallery/what-is-the-best-way-to-secure-your-playstation-5-for-a-flight/l-intro-1794602643.jpg"
+    },
+    {
+      "id": "48adcfa75070342e",
+      "title": "How to use AI glasses as a teleprompter",
+      "summary": "If you have the right type of smart glasses, this is an easy feature to enable.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T23:30:00Z",
+      "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter",
+      "image": "https://www.engadget.com/img/gallery/how-to-use-ai-glasses-as-a-teleprompter/l-intro-1794839468.jpg"
+    },
+    {
+      "id": "61d8127e693f0b0f",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 214 # Comments: 159",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T23:12:10Z",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3"
+    },
+    {
+      "id": "ed521b837e0aa86c",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 170 # Comments: 80",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T23:06:37Z",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20"
+    },
+    {
+      "id": "c6ca48475d466967",
+      "title": "The pros and cons of sharing your location",
+      "summary": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T23:00:00Z",
+      "url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location",
+      "image": "https://www.engadget.com/img/gallery/the-pros-and-cons-of-sharing-your-location/l-intro-1794603681.jpg"
+    },
+    {
+      "id": "7d27fffa3906bd9a",
+      "title": "We haven’t seen the last of the major tech outages",
+      "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National…",
+      "source": "The Verge",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-22T22:48:02Z",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+    },
+    {
+      "id": "c89d88a26abd4ed5",
+      "title": "Can you safely use a 140w charger on an iPhone?",
+      "summary": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T22:30:00Z",
+      "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger",
+      "image": "https://www.engadget.com/img/gallery/can-you-safely-use-a-140w-charger-on-an-iphone/l-intro-1794496692.jpg"
+    },
+    {
+      "id": "7435df697c669a75",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "summary": "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 53 # Comments: 13",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T22:18:48Z",
+      "url": "https://github.com/mjwsolo/localcode"
+    },
+    {
+      "id": "26249c4aee0dac0d",
+      "title": "This free app connects your Android phone to your Windows PC wirelessly",
+      "summary": "Connecting your Android phone to your Windows PC wirelessly doesn't have to cost money or require a multi-step setup, as this free app proves.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T22:15:00Z",
+      "url": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp",
+      "image": "https://www.engadget.com/img/gallery/this-free-app-connects-your-android-phone-to-your-windows-pc-wirelessly/l-intro-1794633420.jpg"
+    },
+    {
+      "id": "27c3608cf84a2714",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 108 # Comments: 20",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T22:10:58Z",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf"
+    },
+    {
+      "id": "81ece38df7c3159a",
+      "title": "How to safely clean your PC's GPU to avoid damaging it in the process",
+      "summary": "Removing and cleaning a GPU can be intimidating, but it's actually pretty simple.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T22:00:00Z",
+      "url": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage",
+      "image": "https://www.engadget.com/img/gallery/how-to-safely-clean-your-pcs-gpu-to-avoid-damaging-it-in-the-process/l-intro-1794604743.jpg"
+    },
+    {
+      "id": "7b75515b800d05a3",
+      "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+      "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T21:45:00Z",
+      "url": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix",
+      "image": "https://www.engadget.com/img/gallery/why-your-monitor-flickers-when-you-turn-it-on-and-can-it-be-fixed/l-intro-1794601400.jpg"
+    },
+    {
+      "id": "57687c50f57b9652",
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+      "source": "TechCrunch",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-22T21:42:48Z",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide"
+    },
+    {
+      "id": "ab1c49f5df3e3ee0",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 102 # Comments: 36",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T21:33:12Z",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom"
+    },
+    {
+      "id": "b14433f4fe4b9e0e",
+      "title": "The cool phone camera trick that can test your remote control's battery",
+      "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T21:30:00Z",
+      "url": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery",
+      "image": "https://www.engadget.com/img/gallery/the-cool-phone-camera-trick-that-can-test-your-remote-controls-battery/l-intro-1794630742.jpg"
+    },
+    {
+      "id": "912f234d36fb8881",
+      "title": "Which solar panel type is best for your home?",
+      "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T21:15:00Z",
+      "url": "https://www.engadget.com/2319531/solar-panel-types-best-home-use",
+      "image": "https://www.engadget.com/img/gallery/which-solar-panel-type-is-best-for-your-home/l-intro-1794509643.jpg"
+    },
+    {
+      "id": "883b69d3f986860b",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "source": "TechCrunch",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-22T21:14:07Z",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development"
+    },
+    {
+      "id": "a9f7ae49b5fbd4f4",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 428 # Comments: 174",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T21:01:16Z",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
+    {
+      "id": "1170eb2f2b3dad61",
+      "title": "The best apps to make new friends right now",
+      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+      "source": "TechCrunch",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Tech",
+      "publishedAt": "2026-11-22T21:00:00Z",
+      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help"
+    },
+    {
+      "id": "a6cc3db86282e0d7",
+      "title": "How Secure Is Your Password? Here's How To Test It",
+      "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T21:00:00Z",
+      "url": "https://www.engadget.com/2319522/how-secure-is-password",
+      "image": "https://www.engadget.com/img/gallery/how-secure-is-your-password-heres-how-to-test-it/l-intro-1794581081.jpg"
+    },
+    {
+      "id": "8047be523f6f107f",
+      "title": "These iOS settings will help you control your mobile data use",
+      "summary": "Keeping your mobile data usage under control is generally a good idea, doubly so if you're on a restrictive plan, and iOS offers a few ways to do so.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T20:45:00Z",
+      "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use",
+      "image": "https://www.engadget.com/img/gallery/these-ios-settings-will-help-you-control-your-mobile-data-use/l-intro-1794801627.jpg"
+    },
+    {
+      "id": "220d7ca6d5199dc6",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 239 # Comments: 88",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T20:33:23Z",
+      "url": "https://smallsf.com/"
+    },
+    {
+      "id": "d84e908e9fc9a5cc",
+      "title": "What the tiny key icon means on your Android device",
+      "summary": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut. That tiny key icon is a perfect example of the latter.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T20:30:00Z",
+      "url": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device",
+      "image": "https://www.engadget.com/img/gallery/what-the-tiny-key-icon-means-on-your-android-device/l-intro-1794812963.jpg"
+    },
+    {
+      "id": "970ff241186f2f5b",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 127 # Comments: 18",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T20:15:59Z",
+      "url": "https://nyx.net/"
+    },
+    {
+      "id": "aca5867a92b33640",
+      "title": "You don't need a foldable phone to use split screen on Android",
+      "summary": "There are a few ways you can multitask on a traditional smartphone.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T20:15:00Z",
+      "url": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android",
+      "image": "https://www.engadget.com/img/gallery/you-dont-need-a-foldable-phone-to-use-split-screen-on-android/l-intro-1794678668.jpg"
+    },
+    {
+      "id": "ba88a3cab6779aee",
+      "title": "The advantages of using a USB-C docking station",
+      "summary": "If you want to use many different accessories at the same time, consider adding more ports to your laptop with a USB-C docking station.",
+      "source": "Engadget",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Gadgets",
+      "publishedAt": "2026-11-22T20:00:00Z",
+      "url": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station",
+      "image": "https://www.engadget.com/img/gallery/the-advantages-of-using-a-usb-c-docking-station/l-intro-1794847590.jpg"
+    },
+    {
+      "id": "e63f72c34e78a788",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "summary": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 159 # Comments: 82",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T19:41:30Z",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post"
+    },
     {
       "id": "595c25d5385cecfd",
       "title": "How long is a new Fitbit actually supposed to last?",
@@ -17,6 +565,18 @@
       "publishedAt": "2026-11-22T19:30:00Z",
       "url": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support",
       "image": "https://www.engadget.com/img/gallery/how-long-is-a-new-fitbit-actually-supposed-to-last/l-intro-1794499519.jpg"
+    },
+    {
+      "id": "24e87f23050f082b",
+      "title": "What Happened to Silicon Valley?",
+      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 598 # Comments: 320",
+      "source": "Hacker News",
+      "countries": [
+        "US"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T19:20:15Z",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley"
     },
     {
       "id": "bf8c4d645aa4b941",
@@ -42,6 +602,18 @@
       "category": "Software",
       "publishedAt": "2026-11-22T19:10:38Z",
       "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news"
+    },
+    {
+      "id": "7279785142919f7c",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 453 # Comments: 230",
+      "source": "Hacker News",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "Software",
+      "publishedAt": "2026-11-22T19:10:34Z",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife"
     },
     {
       "id": "5808080d947d9ff8",
@@ -297,19 +869,6 @@
       "image": "https://www.engadget.com/img/gallery/6-handy-ways-you-can-use-your-old-mini-pc/l-intro-1794236237.jpg"
     },
     {
-      "id": "0c15a71a44307e0c",
-      "title": "How much storage does Apple Intelligence use on your iPhone?",
-      "summary": "Apple Intelligence has a lot of neat tricks, but you might prefer to disable them if you need every bit of free space possible.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T15:45:00Z",
-      "url": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage",
-      "image": "https://www.engadget.com/img/gallery/how-much-storage-does-apple-intelligence-use-on-your-iphone/l-intro-1794596549.jpg"
-    },
-    {
       "id": "a23c1d39add00a44",
       "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
       "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677…",
@@ -332,19 +891,6 @@
       "category": "Software",
       "publishedAt": "2026-11-22T15:35:24Z",
       "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool"
-    },
-    {
-      "id": "609fc71d5765a855",
-      "title": "The most recognizable spam email type is way older than the internet",
-      "summary": "It's a tale as old as time, literally. Con artists have been promising fortunes (following a small advance, of course) through all sorts of correspondence.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T15:30:00Z",
-      "url": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet",
-      "image": "https://www.engadget.com/img/gallery/the-most-recognizable-spam-email-type-is-way-older-than-the-internet/l-intro-1794425133.jpg"
     },
     {
       "id": "b06284d171d3b7be",
@@ -395,19 +941,6 @@
       "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
     },
     {
-      "id": "df3fda41d7a30bd0",
-      "title": "4 iPad Pro alternatives for those looking to ditch Apple",
-      "summary": "There's really nothing quite like the iPad Pro out there, but these alternatives show that you can still get great tablets from companies other than Apple.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T15:15:00Z",
-      "url": "https://www.engadget.com/2319367/ipad-alternatives-to-ditch-apple",
-      "image": "https://www.engadget.com/img/gallery/4-ipad-pro-alternatives-for-those-looking-to-ditch-apple/l-intro-1794555342.jpg"
-    },
-    {
       "id": "3e94b18701f03e67",
       "title": "Tech giant Meta postpones scheduled Dhaka event",
       "summary": "The event was scheduled for November 24 at Sheraton Dhaka. Teen Safety Connect aimed to discuss online safety for teenagers.",
@@ -431,58 +964,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-22T15:00:00Z",
       "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation"
-    },
-    {
-      "id": "d43ce4d847d3d36c",
-      "title": "Why you should never vacuum the inside of your computer",
-      "summary": "Ensuring that your PC is dust free is key, but taking a vacuum to your motherboard and other components can be very damaging. Here's what you should do instead.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T15:00:00Z",
-      "url": "https://www.engadget.com/2319361/why-you-should-never-vacuum-inside-computer",
-      "image": "https://www.engadget.com/img/gallery/why-you-should-never-vacuum-the-inside-of-your-computer/l-intro-1794571286.jpg"
-    },
-    {
-      "id": "5d8ada899d42fb70",
-      "title": "Sleep vs. shutdown – Which should Xbox Series X owners actually use?",
-      "summary": "As long as it's plugged in, the Xbox Series X never fully turns off, but you can manage how much power it draws.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T14:45:00Z",
-      "url": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown",
-      "image": "https://www.engadget.com/img/gallery/sleep-vs-shutdown-which-should-xbox-series-x-owners-actually-use/l-intro-1794526494.jpg"
-    },
-    {
-      "id": "d37ab532a5efe3d2",
-      "title": "Can you completely remove One UI from a Samsung phone?",
-      "summary": "Samsung's custom software, One UI, gives every phone a similar appearance. Discover how to limit One UI and change the look of your homepage.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T14:30:00Z",
-      "url": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone",
-      "image": "https://www.engadget.com/img/gallery/can-you-completely-remove-one-ui-from-a-samsung-phone/l-intro-1794581123.jpg"
-    },
-    {
-      "id": "c9695b8ad8b6ed02",
-      "title": "The purpose of the SC port on your old laptop",
-      "summary": "If you have a weird, credit-card-sized slot on your laptop, read on to find out what it's for and how it's used.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T14:15:00Z",
-      "url": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose",
-      "image": "https://www.engadget.com/img/gallery/the-purpose-of-the-sc-port-on-your-old-laptop/l-intro-1794587889.jpg"
     },
     {
       "id": "0e79d72565d3b36f",
@@ -509,19 +990,6 @@
       "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast"
     },
     {
-      "id": "b1517e50158cec20",
-      "title": "Common reasons why some USB ports are red",
-      "summary": "There's no universal standard for the meaning of USB colors, but red ports often indicate a few similar things.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T14:00:00Z",
-      "url": "https://www.engadget.com/2319349/common-reasons-why-usb-ports-red",
-      "image": "https://www.engadget.com/img/gallery/common-reasons-why-some-usb-ports-are-red/l-intro-1794842297.jpg"
-    },
-    {
       "id": "9e90f9c0947157e7",
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 177 # Comments: 45",
@@ -532,32 +1000,6 @@
       "category": "Software",
       "publishedAt": "2026-11-22T13:56:58Z",
       "url": "https://github.com/gulivan/worker755"
-    },
-    {
-      "id": "aee75e021b968dd0",
-      "title": "Does old computer hardware ever become truly useless?",
-      "summary": "Find out how long old computer hardware usually lasts, what eventually makes it obsolete and when it's worth reusing or selling your PC parts.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T13:45:00Z",
-      "url": "https://www.engadget.com/2319347/old-computer-hardware-truly-useless",
-      "image": "https://www.engadget.com/img/gallery/does-old-computer-hardware-ever-become-truly-useless/l-intro-1794496052.jpg"
-    },
-    {
-      "id": "9e020d373234e357",
-      "title": "Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?",
-      "summary": "Apple Airpods Pro 3 have more features than the cheaper Airpods 5. Discover the differences in appearance, charging, battery life and capabilities.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T13:30:00Z",
-      "url": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences",
-      "image": "https://www.engadget.com/img/gallery/apple-airpods-5-vs-airpods-pro-3-what-are-the-key-differences/l-intro-1794426870.jpg"
     },
     {
       "id": "c4646672c65e633f",
@@ -572,19 +1014,6 @@
       "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary"
     },
     {
-      "id": "541308f44371cecc",
-      "title": "10 rare game consoles that almost no one owns",
-      "summary": "Even common consoles have rare editions that are highly sought after by collectors.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T13:15:00Z",
-      "url": "https://www.engadget.com/2321882/rare-game-console-no-one-owns",
-      "image": "https://www.engadget.com/img/gallery/10-rare-game-consoles-that-almost-no-one-owns/l-intro-1794247499.jpg"
-    },
-    {
       "id": "a16de32c2c87e559",
       "title": "Testing Terraform with AWS Emulator",
       "summary": "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 26 # Comments: 3",
@@ -597,6 +1026,18 @@
       "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator"
     },
     {
+      "id": "e8029993afd719ae",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback…",
+      "source": "The Verge AI",
+      "countries": [
+        "WORLD"
+      ],
+      "category": "AI",
+      "publishedAt": "2026-11-22T13:00:00Z",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
+    },
+    {
       "id": "e339e895925ce8c6",
       "title": "Your questions about Apple HomeView’s audio, answered",
       "summary": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - and…",
@@ -607,18 +1048,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-22T13:00:00Z",
       "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay"
-    },
-    {
-      "id": "e8029993afd719ae",
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback…",
-      "source": "The Verge",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-22T13:00:00Z",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera"
     },
     {
       "id": "10ed9fa354c3b8fa",
@@ -849,195 +1278,6 @@
       "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026"
     },
     {
-      "id": "da4cb4dd14ae1491",
-      "title": "The Most Popular Car Colors in America",
-      "summary": "Article URL: https://www.iseecars.com/most-popular-car-colors-study Comments URL: https://news.ycombinator.com/item?id=50595725 Points: 21 # Comments: 32",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-22T02:47:18Z",
-      "url": "https://www.iseecars.com/most-popular-car-colors-study"
-    },
-    {
-      "id": "26c5ca669b141704",
-      "title": "Data Processing Incidents on Inference Providers",
-      "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 257 # Comments: 88",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-22T02:14:14Z",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers"
-    },
-    {
-      "id": "9b3998d4b9b4980b",
-      "title": "The Mythology of Conscious AI",
-      "summary": "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 142 # Comments: 404",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-22T02:10:02Z",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai"
-    },
-    {
-      "id": "b795287462f8ff48",
-      "title": "Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?",
-      "summary": "New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T01:00:00Z",
-      "url": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10",
-      "image": "https://www.engadget.com/img/gallery/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11/l-intro-1794595499.jpg"
-    },
-    {
-      "id": "f93b3529f6144f31",
-      "title": "Samsung vs. LG OLED TVs: What's the difference between them?",
-      "summary": "It's not simple to say that one is better than the other.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T01:00:00Z",
-      "url": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between",
-      "image": "https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg"
-    },
-    {
-      "id": "ac21c9fc636ff92a",
-      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
-      "summary": "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 118 # Comments: 79",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-22T00:57:26Z",
-      "url": "https://github.com/ItsNotRexed/Leonida"
-    },
-    {
-      "id": "398ecf339b0d0a9a",
-      "title": "This is what can happen if too many devices are sharing your home network",
-      "summary": "If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T00:45:00Z",
-      "url": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network",
-      "image": "https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg"
-    },
-    {
-      "id": "f864bb866c6b947c",
-      "title": "Your PC's USB port can charge your phone, even when it's turned off — Here's how",
-      "summary": "Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T00:30:00Z",
-      "url": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off",
-      "image": "https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg"
-    },
-    {
-      "id": "50d8a262cb4dedd3",
-      "title": "10 things you should never do on your Android phone",
-      "summary": "Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T00:15:00Z",
-      "url": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone",
-      "image": "https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg"
-    },
-    {
-      "id": "e87c04860704351e",
-      "title": "Sandwich Simulator",
-      "summary": "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 491 # Comments: 170",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-22T00:07:59Z",
-      "url": "https://stulle.app/"
-    },
-    {
-      "id": "051dd0a05a8dadfe",
-      "title": "This is the best type of wireless earbuds for audio output",
-      "summary": "Comfort, price and aesthetics obviously impact what we put on our ears, but if sound fidelity is your priority, this kind of wireless earbud is the best choice.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-22T00:00:00Z",
-      "url": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output",
-      "image": "https://www.engadget.com/img/gallery/this-is-the-best-type-of-wireless-earbuds-for-audio-output/l-intro-1794431151.jpg"
-    },
-    {
-      "id": "9133a15f65ee076e",
-      "title": "How to calibrate your 3D printer (and why you should)",
-      "summary": "Your 3D printer might not need replacing just because its prints keep failing. A few calibration checks could solve the problem and improve print quality.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T23:45:00Z",
-      "url": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should",
-      "image": "https://www.engadget.com/img/gallery/how-to-calibrate-your-3d-printer-and-why-you-should/l-intro-1794242993.jpg"
-    },
-    {
-      "id": "4390a0dc4b149662",
-      "title": "Building your own mini PC is harder than you would think",
-      "summary": "Mini PCs are appealing for their small footprint, but there are some things you should consider before you commit to building your own.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T23:30:00Z",
-      "url": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected",
-      "image": "https://www.engadget.com/img/gallery/building-your-own-mini-pc-is-harder-than-you-would-think/l-intro-1794933308.jpg"
-    },
-    {
-      "id": "50e28aa4ac2a78a0",
-      "title": "Six products and services Google discontinued in 2026",
-      "summary": "Here's a rundown of some Google tools that ended up in the graveyard this year.",
-      "source": "Engadget",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Gadgets",
-      "publishedAt": "2026-11-21T23:00:00Z",
-      "url": "https://www.engadget.com/2319181/google-products-services-discontinued-2026",
-      "image": "https://www.engadget.com/img/gallery/six-products-and-services-google-discontinued-in-2026/l-intro-1794930715.jpg"
-    },
-    {
-      "id": "dcc1d692c9d97d55",
-      "title": "A Better Vocabulary for Testing",
-      "summary": "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 63 # Comments: 17",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T22:15:39Z",
-      "url": "https://alperenkeles.com/posts/vocab-for-testing"
-    },
-    {
       "id": "9f8ac8ad721a5e0b",
       "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
       "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
@@ -1049,18 +1289,6 @@
       "publishedAt": "2026-11-21T22:12:41Z",
       "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel",
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg"
-    },
-    {
-      "id": "f65a0c30765c2957",
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "summary": "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 154 # Comments: 20",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T22:09:58Z",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer"
     },
     {
       "id": "69dbf907dcbbc0b6",
@@ -1087,30 +1315,6 @@
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance"
     },
     {
-      "id": "58996b7311d70d67",
-      "title": "Advice for the next 100 Rust GUIs",
-      "summary": "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 240 # Comments: 133",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T21:17:53Z",
-      "url": "https://linebender.org/blog/next-100-guis"
-    },
-    {
-      "id": "463fc0d9ef3ab467",
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "summary": "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T21:11:08Z",
-      "url": "https://tasklet.ai/careers"
-    },
-    {
       "id": "044fb7804e00ac8e",
       "title": "A tale of two Nvidias",
       "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
@@ -1121,18 +1325,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-21T21:07:42Z",
       "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias"
-    },
-    {
-      "id": "06d2d06f2b7054f2",
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "summary": "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 60 # Comments: 11",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T20:47:41Z",
-      "url": "https://www.pandex.io/"
     },
     {
       "id": "ec8e761e0eb8542f",
@@ -1159,42 +1351,6 @@
       "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good"
     },
     {
-      "id": "1a6bc61cbec29813",
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "summary": "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 104 # Comments: 47",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T18:29:29Z",
-      "url": "https://pwn.ai/upload2shell"
-    },
-    {
-      "id": "6c69e97c5257c80c",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 550 # Comments: 131",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T18:02:19Z",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
-    },
-    {
-      "id": "538acbf6d77765b1",
-      "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
-      "summary": "Article URL: https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists Comments URL: https://news.ycombinator.com/item?id=50591835 Points: 92 # Comments: 127",
-      "source": "Hacker News",
-      "countries": [
-        "US"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T17:59:59Z",
-      "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists"
-    },
-    {
       "id": "f057758653af9e08",
       "title": "The FBI and USDA were reportedly hacked",
       "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime…",
@@ -1205,18 +1361,6 @@
       "category": "Tech",
       "publishedAt": "2026-11-21T17:42:27Z",
       "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
-    },
-    {
-      "id": "34d598638c33dd8c",
-      "title": "PostgreSQL Extensions in Go",
-      "summary": "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 134 # Comments: 23",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T17:08:04Z",
-      "url": "https://jespino.github.io/gopgext"
     },
     {
       "id": "f52216bdae320c52",
@@ -1267,30 +1411,6 @@
       "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale"
     },
     {
-      "id": "27e400978bfc5bb7",
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "summary": "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 108 # Comments: 38",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T15:54:34Z",
-      "url": "https://math.mit.edu/~drew/grh"
-    },
-    {
-      "id": "d8640923d2430592",
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "summary": "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 149 # Comments: 104",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T15:39:09Z",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html"
-    },
-    {
       "id": "153d9223a0898224",
       "title": "Alaska, your next governor is a Wikipedia nerd",
       "summary": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
@@ -1327,18 +1447,6 @@
       "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale"
     },
     {
-      "id": "5c6d12478082daa5",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "summary": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1188 # Comments: 983",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T14:36:45Z",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis"
-    },
-    {
       "id": "3c43e2776b977296",
       "title": "YouTube Reaches $3 Billion Settlement Agreement with Thousands of US School Districts",
       "summary": "",
@@ -1362,30 +1470,6 @@
       "category": "AI",
       "publishedAt": "2026-11-21T14:00:00Z",
       "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"
-    },
-    {
-      "id": "cf85127411206c4e",
-      "title": "Detonating a pile of lead azide",
-      "summary": "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 679 # Comments: 414",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T13:23:14Z",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
-    },
-    {
-      "id": "74442715952b612f",
-      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-      "summary": "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 136 # Comments: 120",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T13:16:12Z",
-      "url": "https://simple-bench.com/"
     },
     {
       "id": "a0ab65cb5afa735d",
@@ -1565,18 +1649,6 @@
       "publishedAt": "2026-11-21T11:00:00Z",
       "url": "https://www.wired.com/story/best-laptops-for-travel",
       "image": "https://media.wired.com/photos/6aff4b9df2cbbbfa7d0cf100/master/pass/GettyImages-2160884480.jpg"
-    },
-    {
-      "id": "7edcf5e729c20239",
-      "title": "My monitor was cutting my download speed by 75%",
-      "summary": "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 549 # Comments: 264",
-      "source": "Hacker News",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Software",
-      "publishedAt": "2026-11-21T10:36:32Z",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet"
     },
     {
       "id": "8879807b2bdd55ba",
@@ -2329,11 +2401,11 @@
       "id": "0c70052440bacb4a",
       "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
       "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-      "source": "TechCrunch",
+      "source": "TechCrunch Security",
       "countries": [
         "WORLD"
       ],
-      "category": "Tech",
+      "category": "Cybersecurity",
       "publishedAt": "2026-11-20T15:46:07Z",
       "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online"
     },
@@ -2403,11 +2475,11 @@
       "id": "1895a884c21c9ded",
       "title": "Six AI-powered gadgets that could make your home office smarter",
       "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "countries": [
         "WORLD"
       ],
-      "category": "Tech",
+      "category": "AI",
       "publishedAt": "2026-11-20T14:00:00Z",
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter"
     },
@@ -3250,18 +3322,6 @@
       "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak"
     },
     {
-      "id": "4a932def60bb2656",
-      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and…",
-      "source": "The Verge",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Tech",
-      "publishedAt": "2026-11-19T18:15:00Z",
-      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook"
-    },
-    {
       "id": "62649bf472ca2edc",
       "title": "Google gives Gemini the ability to use your Mac for you",
       "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
@@ -3315,11 +3375,11 @@
       "id": "a01e91531918f8e7",
       "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
       "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "source": "TechCrunch AI",
+      "source": "TechCrunch Startups",
       "countries": [
         "WORLD"
       ],
-      "category": "AI",
+      "category": "Startups",
       "publishedAt": "2026-11-19T17:00:00Z",
       "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories"
     },
@@ -4443,68 +4503,6 @@
       "category": "Science",
       "publishedAt": "2026-11-17T17:52:10Z",
       "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river"
-    },
-    {
-      "id": "3818d6ccd2a7f7a1",
-      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-      "source": "TechCrunch Security",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Cybersecurity",
-      "publishedAt": "2026-11-17T17:32:25Z",
-      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop"
-    },
-    {
-      "id": "0f23f3a02ee9e0a1",
-      "title": "Google makes it easier to use Gemini without training AI on your data",
-      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
-      "source": "Ars Technica AI",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "AI",
-      "publishedAt": "2026-11-17T16:50:10Z",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg"
-    },
-    {
-      "id": "0838bef2edd27f9f",
-      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
-      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
-      "source": "Ars Technica AI",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "AI",
-      "publishedAt": "2026-11-17T15:28:59Z",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg"
-    },
-    {
-      "id": "54f7ad0b4a0462af",
-      "title": "Research Reports",
-      "summary": "To access a report, click on the corresponding image below.",
-      "source": "MIT Technology Review AI",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "AI",
-      "publishedAt": "2026-11-17T14:39:46Z",
-      "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports"
-    },
-    {
-      "id": "e1d42d0d1265ac53",
-      "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-      "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-      "source": "TechCrunch Startups",
-      "countries": [
-        "WORLD"
-      ],
-      "category": "Startups",
-      "publishedAt": "2026-11-17T14:26:46Z",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding"
     }
   ]
 }
